@@ -1,60 +1,70 @@
 const fetch = require('node-fetch');
 const { JSDOM } = require('jsdom');
 const math = require('mathjs');
+const puppeteer = require('puppeteer');
+const {number} = require("mathjs/lib/utils")
 
-function fetchData() {
+async function wait(ms) {
+	return new Promise(resolve => {
+		setTimeout(resolve, ms);
+	});
+}
 
+async function fetchData() {
     // load the gpu power table from https://www.videocardbenchmark.net/ and
     // write the dta out into json blobs.
-    return fetch('https://www.videocardbenchmark.net/GPU_mega_page.html')
-        .then(res => res.text())
-        .then(txt => {
 
-            const dom = new JSDOM(txt);
-            const document = dom.window.document;
+	const browser = await puppeteer.launch({ headless: true });
+	const page = await browser.newPage();
 
-            const table = document.querySelector('#cputable');
-            const rows = [ ...table.querySelectorAll('tbody tr') ];
+	let gfxCardData = null;
 
-            const originalData = {};
-            for (let i = 0, l = rows.length; i < l; i += 2) {
+	// Listen for the request to get the card data JSON text
+	page.on('response', async(response) => {
+		const request = response.request();
+		if (request.url().includes('https://www.videocardbenchmark.net/data/')){
+			const text = await response.text();
+			gfxCardData = JSON.parse(text).data;
+		}
+	});
 
-                const infoChildren = rows[i].children;
-                const extraChildren = rows[i + 1].children[0];
+	await page.goto('https://www.videocardbenchmark.net/GPU_mega_page.html', { waitUntil: 'networkidle2' });
 
-                const name = infoChildren[0].children[1].innerHTML;
-                const g3dPerf = infoChildren[2].innerHTML;
-                const g2dPerf = infoChildren[4].innerHTML;
-                const tdp = infoChildren[5].innerHTML;
-                const testDate = infoChildren[7].innerHTML;
-                const type = infoChildren[8].innerHTML;
+	const timeStartedRequest = performance.now();
 
-                const busInterface = extraChildren.children[0].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const memory = extraChildren.children[1].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const clock = extraChildren.children[2].childNodes[1].nodeValue.replace(/^:\s/, '');
-                const memoryClock = extraChildren.children[3].childNodes[1].nodeValue.replace(/^:\s/, '');
+	// Wait until we've parsed the site gfx card json
+	while (gfxCardData === null) {
+		await wait(1);
 
-                originalData[name] =
-                    {
+		if (performance.now() - timeStartedRequest > 30000) {
+			console.error('Cannot get graphics card data from Video Card Benchmark');
+		}
+	}
 
-                        name,
-                        g3dPerf,
-                        g2dPerf,
-                        tdp,
-                        testDate,
-                        type,
+	const formattedGfxCardData = {};
 
-                        busInterface,
-                        memory,
-                        clock,
-                        memoryClock,
+	const parseNumber = function(x) {
+		const parsed = parseInt(x);
+		if (isNaN(parsed)) { return 0; }
+		return parsed;
+	}
 
-                    };
-            }
+	for (const gfx of gfxCardData) {
+		formattedGfxCardData[gfx.name] = {
+			name: gfx.name,
+			g3dPerf: parseNumber(gfx.g3d.replace(',', '')),
+			g2dPerf: parseNumber(gfx.g2d.replace(',', '')),
+			tdp: parseNumber(gfx.tdp.replace(',', '')),
+			type: gfx.cat,
+			testDate: gfx.date,
+			busInterface: gfx.bus,
+			memory: gfx.memSize,
+			clock: gfx.coreClk,
+			memoryClock: gfx.memClk
+		}
+	}
 
-            return originalData;
-        });
-
+	return formattedGfxCardData;
 }
 
 function normalizeData(data) {
