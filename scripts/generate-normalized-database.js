@@ -8,8 +8,8 @@ const path = require('path');
 console.log('Normalizing videocard benchmark data...');
 VB.data = VB.normalizeData(require('../data/videocard-benchmark-gpus.json'));
 
-console.log('Normalizing techpowerup data...');
-TP.data = TP.normalizeData(require('../data/techpowerup-gpus.json'));
+// console.log('Normalizing techpowerup data...');
+// TP.data = TP.normalizeData(require('../data/techpowerup-gpus.json'));
 
 console.log('Normalizing notebookcheck data...');
 NC.data = NC.normalizeData(require('../data/notebookcheck-gpus.json'));
@@ -280,31 +280,13 @@ for (const name in VB.data) {
 	result[name] = getBaseObject(name);
 
 	let vbDesc = VB.data[name];
-	let tpDesc = getMatch(name, TP.data);
 	let ncDesc = getMatch(name, NC.data);
 
 	delete VB.data[name];
 
-	if (tpDesc) joinTPData(tpDesc, result[name]);
 	if (vbDesc) joinVBData(vbDesc, result[name]);
 	if (ncDesc) joinNCData(ncDesc, result[name]);
 
-
-}
-
-for (const name in TP.data) {
-
-	result[name] = getBaseObject(name);
-
-	let vbDesc = getMatch(name, VB.data);
-	let tpDesc = TP.data[name];
-	let ncDesc = getMatch(name, NC.data);
-
-	delete TP.data[name];
-
-	if (tpDesc) joinTPData(tpDesc, result[name]);
-	if (vbDesc) joinVBData(vbDesc, result[name]);
-	if (ncDesc) joinNCData(ncDesc, result[name]);
 
 }
 
@@ -313,12 +295,10 @@ for (const name in NC.data) {
 	result[name] = getBaseObject(name);
 
 	let vbDesc = getMatch(name, VB.data);
-	let tpDesc = getMatch(name, TP.data);
 	let ncDesc = NC.data[name];
 
 	delete NC.data[name];
 
-	if (tpDesc) joinTPData(tpDesc, result[name]);
 	if (vbDesc) joinVBData(vbDesc, result[name]);
 	if (ncDesc) joinNCData(ncDesc, result[name]);
 

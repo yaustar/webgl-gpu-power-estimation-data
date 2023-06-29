@@ -64,6 +64,8 @@ async function fetchData() {
 		}
 	}
 
+	browser.close();
+
 	return formattedGfxCardData;
 }
 
@@ -132,9 +134,7 @@ function normalizeData(data) {
             try {
                 parsedMemoryClock = cleanMemoryClock === 'NA' ? null : math.unit(cleanMemoryClock.replace(/,/g, '').replace(/\([^)]+\)/, '')).toNumber('MHz');
             } catch (e) {
-                console.error(e);
-                console.error(`${ name }, ${ cleanMemoryClock }`);
-                console.error('');
+                console.warn(`Cannot parse ${ name }, ${ cleanMemoryClock }`);
                 parsedMemoryClock = null;
             }
         }

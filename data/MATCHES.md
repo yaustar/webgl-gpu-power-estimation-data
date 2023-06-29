@@ -1,13 +1,10 @@
 ## Totals
-Unmatched: `527`
+Unmatched: `794`
 
-Matched: `4267`
+Matched: `5021`
 ## Unmatched
-- `128MB DDR Radeon 9800 Pro`
-- `128MB RADEON X600 SE`
-- `256MB RADEON X600`
+- `256MB DDR Radeon 9800 XT`
 - `8514-Ultra`
-- `A10-8700P`
 - `A6 Micro-6500T Quad-Core APU with RadeonR4`
 - `ABIT Siluro T400`
 - `AMD Radeon HD 6510G2`
@@ -24,11 +21,20 @@ Matched: `4267`
 - `AMD Radeon HD 6760G2`
 - `AMD Radeon HD 6775G2`
 - `AMD Radeon HD 8650M`
+- `AMD Radeon PRO W6600M`
 - `AMD Radeon R7 384 Cores (Kaveri Desktop)`
 - `AMD Radeon R7 M275DX`
+- `AMD Radeon R9 390X2`
 - `AMD Radeon R9 M390`
 - `AMD Radeon RX 490M`
+- `AMD Radeon RX 5700M`
+- `AMD Radeon RX 6550S`
+- `AMD Radeon RX 7700S`
 - `AMD Radeon RX Vega M GL / 870`
+- `ARM Immortalis-G715 MP11`
+- `ARM Mali-G610 MP6`
+- `ARM Mali-G710 MP10`
+- `ARM Mali-G710 MP7`
 - `ARM Mali-T604 MP4`
 - `ARM Mali-T624`
 - `ARM Mali-T628 MP4`
@@ -47,21 +53,29 @@ Matched: `4267`
 - `ARM Mali-T880 MP12`
 - `ARM Mali-T880 MP2`
 - `ARM Mali-T880 MP4`
+- `ASUS A7000`
+- `ASUS AGP-V3800PRO v31.40H`
 - `ASUS EAH4870x2`
+- `ASUS V9520-X V62.11`
 - `ATI Mobility Radeon X1800XT`
 - `ATI Mobility Radeon X800XT`
 - `All-In-Wonder 2006 Edition`
 - `All-In-Wonder 2006 Edition AGP`
+- `All-in-Wonder X1800XL`
 - `Apple A9 / PowerVR GT7600`
+- `Barco MXRT 1450`
 - `Barco MXRT 5400`
+- `CARRIZO 9874`
+- `Custom GPU 0405`
+- `EAH5450`
 - `EGA Wonder 800`
 - `EGA Wonder 800+`
+- `EIZO MED-X5000`
 - `ES1000`
-- `Famille de jeu de puces Express Intel 946GZ`
+- `Extreme AX850 PRO`
 - `FireGL 8700`
-- `FireGL V7100`
-- `FireGL V8600`
 - `FireGL X2-256T`
+- `FireMV 2450`
 - `FirePro 2450`
 - `FirePro 2460`
 - `FirePro 3D V3700`
@@ -84,30 +98,26 @@ Matched: `4267`
 - `FirePro M40003`
 - `FirePro M4170`
 - `FirePro M5725`
-- `FirePro R5000`
-- `FirePro RG220`
 - `FirePro RG220A`
 - `FirePro S4000X`
 - `FirePro S7100X`
-- `FirePro S7150`
-- `FirePro S7150 x2`
 - `FirePro S9010`
-- `FirePro S9050`
 - `FirePro S9100`
 - `FirePro S9150`
 - `FirePro S9170`
 - `FirePro S9300 X2`
 - `FirePro V3800`
-- `FirePro V7000 Adapter`
-- `FirePro V9800 Adapter`
+- `FirePro V5800`
+- `FirePro V7000`
+- `FirePro V7800`
+- `FirePro V8700`
+- `FirePro V8800`
+- `FirePro V9800`
 - `FirePro W4000`
 - `FirePro W4130M`
 - `FirePro W4150M`
-- `FirePro W6150M`
 - `FirePro W6170M`
-- `FireStream 9170`
 - `FireStream 9350`
-- `FireStream 9370`
 - `G450`
 - `G450 x4 MMS`
 - `G550`
@@ -128,13 +138,21 @@ Matched: `4267`
 - `GRID K540Q`
 - `GRID K560Q`
 - `GRID M3-3020`
+- `GRID RTX6000P-4Q`
+- `GRID RTX6000P-6Q`
+- `GRID RTX8000-2Q`
+- `GRID RTX8000-4Q`
+- `GRID RTX8000P-2Q`
+- `GRID V100D-2Q`
+- `GRID V100D-8Q`
 - `GeForce 6150SE`
 - `GeForce 6150SE nForce 430`
+- `GeForce 6200A`
 - `GeForce 6200SE TurboCache`
 - `GeForce 705A`
 - `GeForce 805A`
 - `GeForce 9300GE`
-- `GeForce 945A`
+- `GeForce 9450`
 - `GeForce 9800S`
 - `GeForce 999 GTX`
 - `GeForce FX 5200LE`
@@ -143,6 +161,7 @@ Matched: `4267`
 - `GeForce FX 5700LE`
 - `GeForce FX 5700VE`
 - `GeForce FX 5900XT`
+- `GeForce FX 5900ZT`
 - `GeForce FX Go5100`
 - `GeForce FX Go5200`
 - `GeForce FX Go5200 32M`
@@ -155,38 +174,51 @@ Matched: `4267`
 - `GeForce G103M`
 - `GeForce G110M`
 - `GeForce G200`
-- `GeForce GT 415 OEM`
-- `GeForce GT 740A`
 - `GeForce GT625M`
 - `GeForce GTS 150 OEM`
+- `GeForce GTX 1630`
 - `GeForce GTX 490`
+- `GeForce GTX 970XM FORCE`
 - `GeForce GTX 980MX`
 - `GeForce Go 7300T`
 - `GeForce Go 7400T`
-- `GeForce RTX 2050`
-- `GeForce3 Ti200`
 - `GeForce3 Ti500`
 - `GeForce4 MX 440SE`
 - `GeForce9400M`
 - `HD Graphics P5700`
-- `HD6450`
 - `Intel 82845G Controller`
 - `Intel 82845G/GL Controller`
 - `Intel 82845G/GL/GE/PE/GV Controller`
+- `Intel 82852/82855 GM/GME Controller`
 - `Intel 82865G Controller`
 - `Intel 82915G Express`
 - `Intel 82915G/915GV/910GL`
+- `Intel 82915G/GV/910GL Advanced v3.5`
 - `Intel 82915G/GV/910GL Express`
 - `Intel 82945G Express`
+- `Intel 82945G Express-Chipsatzfamilie`
 - `Intel 865 Embedded Controller`
-- `Intel 946GZ Embedded Chipset Function 0`
+- `Intel 915G,910G Express`
+- `Intel 915G/915GV/910GL Embedded Controller Functio`
+- `Intel 945G Embedded Chipset Function 0`
+- `Intel 946GZ Embedded Chipset`
 - `Intel 946GZ Express`
+- `Intel Arc A350M`
+- `Intel Arc A380`
+- `Intel Arc A550M`
+- `Intel Arc A730M`
+- `Intel Arc A750`
+- `Intel Arc A770`
 - `Intel G965 Express`
 - `Intel Graphics Media Accelerator (GMA) 4500M`
 - `Intel Graphics Media Accelerator (GMA) 4500MHD`
 - `Intel Graphics Media Accelerator (GMA) 4700MHD`
+- `Intel HD manual-15.28-1861`
 - `Intel HD manual-gen9_2015-133271`
 - `Intel Q965/Q963 Express`
+- `Intel UHD Graphics P750`
+- `Intel i gfx-driver-ci-master-9938`
+- `Intel i gfx-driver-ci-master-9938 DCH-I`
 - `Iris Pro Graphics P555`
 - `M860G with Mobility Radeon 4100`
 - `M880G with Mobility Radeon HD 4200`
@@ -197,25 +229,37 @@ Matched: `4267`
 - `Matrox C680 PCIe x16`
 - `Matrox C900 PCIe x16`
 - `Matrox G200e WDDM 1.2`
+- `Matrox G200e WDDM 2.0`
 - `Matrox G200eR`
 - `Matrox G200eR WDDM 1.2`
 - `Matrox G200eR WDDM 2.0`
 - `Matrox G200eW`
 - `Matrox G200eW WDDM 1.2`
+- `Matrox G200eW3 WDDM 2.0`
 - `Matrox G200eh`
 - `Matrox G200eh WDDM 1.2`
+- `Matrox G200eh WDDM 2.0`
+- `Matrox M9120 PCIe x16`
+- `Matrox M9120 Plus LP PCIe x16`
+- `Matrox M9125 PCIe x16`
+- `Matrox M9128 LP PCIe x16`
 - `Matrox M9138 LP PCIe x16`
 - `Matrox M9140 LP PCIe x16`
 - `Matrox M9148 LP PCIe x16`
+- `Matrox M9188 ATX PCIe x16`
 - `Matrox Millennium P650 PCIe 128`
 - `Matrox Millennium P690 PCIe x16`
 - `Matrox Millennium P690 Plus LP PCIe x16`
+- `Matrox Parhelia 128MB`
+- `Matrox Parhelia 256MB`
 - `Mobile Intel 915GM/GMS/910GML Express`
 - `Mobile Intel 945 Express`
 - `Mobile Intel 945GM Express`
 - `Mobile Intel 945GM/GU Express`
 - `Mobile Intel 965 Express`
+- `Mobile Intel 965 Express - BR-0907-0461 v1839`
 - `Mobile Intel 965 Express-Chipsatzfamilie`
+- `Mobile Intel965 Express`
 - `Mobility Radeon 7500C`
 - `Mobility Radeon X200 IGP`
 - `NVIDIA GeForce 7190M`
@@ -224,14 +268,15 @@ Matched: `4267`
 - `NVIDIA GeForce G 205M`
 - `P102-100`
 - `P102-101`
-- `P104-100`
-- `P104-101`
 - `PHDGD Sapphire GR for Mobile Intel 965`
 - `PowerVR G6200`
 - `PowerVR G6400`
 - `PowerVR G6430`
 - `PowerVR GE8100`
+- `PowerVR GE8300`
 - `PowerVR GE8320`
+- `PowerVR GE8322 / IMG8322`
+- `PowerVR GM9446`
 - `PowerVR GX6250`
 - `PowerVR GX6450`
 - `PowerVR GXA6850`
@@ -247,8 +292,6 @@ Matched: `4267`
 - `PowerVR SGX545`
 - `PowerVR SGX554MP4`
 - `Quadro 1100M`
-- `Quadro FX 3000G`
-- `Quadro FX 4400G`
 - `Quadro FX 700`
 - `Quadro FX Go1000`
 - `Quadro FX Go540`
@@ -256,11 +299,7 @@ Matched: `4267`
 - `Quadro K100M`
 - `Quadro K200M`
 - `Quadro M3000 SE`
-- `Quadro NVS 510M`
 - `Quadro P2200`
-- `Quadro P520`
-- `Quadro T1000`
-- `Quadro T2000`
 - `Quadro4 700 Go GL`
 - `Quadro4 700 XGL`
 - `Qualcomm Adreno 203`
@@ -271,27 +310,43 @@ Matched: `4267`
 - `Qualcomm Adreno 306`
 - `Qualcomm Adreno 308`
 - `Qualcomm Adreno 418`
+- `Qualcomm Adreno 504`
 - `Qualcomm Adreno 506`
 - `Qualcomm Adreno 508`
 - `Qualcomm Adreno 509`
+- `Qualcomm Adreno 612`
 - `Qualcomm Adreno 616`
+- `Qualcomm Adreno 619`
+- `Qualcomm Adreno 619L`
+- `Qualcomm Adreno 642`
+- `Qualcomm Adreno 642L`
+- `Qualcomm Adreno 644`
+- `Qualcomm Adreno 675 GPU`
+- `Qualcomm Adreno 725`
 - `RADEON 9600SE`
 - `RADEON A9800XT`
+- `RADEON E2400`
 - `RADEON E4690`
 - `RADEON HD6370D`
 - `RADEON HD6410D`
 - `RADEON HD6530D`
+- `RADEON HD7450`
 - `RADEON X300SE`
 - `RADEON X550XT`
 - `RADEON X600XT`
 - `RADEON X800GT`
+- `RTXA6000-8Q`
 - `RV530 PRO`
+- `Radeon 3015e`
+- `Radeon 3020e`
 - `Radeon 530X Mobile`
 - `Radeon 535DX`
-- `Radeon 6600M`
-- `Radeon E6460`
-- `Radeon E6465`
+- `Radeon Athlon Gold 3150U`
+- `Radeon Athlon Gold PRO 4150GE`
+- `Radeon Athlon PRO 3045B`
+- `Radeon Athlon Silver 3050U`
 - `Radeon E8870`
+- `Radeon E8870PCIe`
 - `Radeon E8950`
 - `Radeon E9171 MCM`
 - `Radeon E9172 MXM`
@@ -323,18 +378,15 @@ Matched: `4267`
 - `Radeon HD 5630`
 - `Radeon HD 5690`
 - `Radeon HD 6290M`
-- `Radeon HD 6300M`
 - `Radeon HD 6320M`
 - `Radeon HD 6350A`
 - `Radeon HD 6390`
+- `Radeon HD 6480M`
 - `Radeon HD 6490`
 - `Radeon HD 6510`
 - `Radeon HD 6530`
 - `Radeon HD 6625M`
-- `Radeon HD 6650A`
 - `Radeon HD 6670A`
-- `Radeon HD 6700M`
-- `Radeon HD 6800M`
 - `Radeon HD 6900M`
 - `Radeon HD 6930`
 - `Radeon HD 7290M`
@@ -347,11 +399,8 @@ Matched: `4267`
 - `Radeon HD 7510 OEM`
 - `Radeon HD 7560G IGP`
 - `Radeon HD 7580D`
-- `Radeon HD 7600M + 7600M Dual`
 - `Radeon HD 7720 OEM`
-- `Radeon HD 8210E`
 - `Radeon HD 8280G`
-- `Radeon HD 8310E`
 - `Radeon HD 8450 OEM`
 - `Radeon HD 8500M`
 - `Radeon HD 8500M/8700M`
@@ -370,59 +419,78 @@ Matched: `4267`
 - `Radeon HD 8860 OEM`
 - `Radeon HD 8950M`
 - `Radeon HD 8970 OEM`
-- `Radeon HD7570`
-- `Radeon HD8490`
+- `Radeon HD HD7850M`
+- `Radeon HD4650`
+- `Radeon HD4670`
 - `Radeon HD8530M`
 - `Radeon HD8970M`
-- `Radeon Pro 5300M`
-- `Radeon Pro 5500M`
+- `Radeon PRO Ryzen 5 PRO 6650U`
+- `Radeon PRO Ryzen 7 PRO 6850U`
+- `Radeon PRO W6400`
+- `Radeon PRO W6600`
+- `Radeon PRO W6600X`
+- `Radeon PRO W7800`
+- `Radeon PRO W7900`
 - `Radeon Pro 575`
 - `Radeon Pro V320`
 - `Radeon Pro V320 MxGPU`
-- `Radeon Pro V340`
-- `Radeon Pro V340 MxGPU`
+- `Radeon Pro V520 MxGPU`
 - `Radeon Pro V5300X`
 - `Radeon Pro V7300X`
 - `Radeon Pro V7350X2`
+- `Radeon Pro W5500`
 - `Radeon Pro W5500M`
 - `Radeon Pro W5700`
-- `Radeon Pro WX 4170 Mobile`
+- `Radeon Pro W5700X`
 - `Radeon Pro WX 7130`
-- `Radeon Pro WX3200`
-- `Radeon Pro WX4100`
 - `Radeon R5 340X OEM`
 - `Radeon R5 A10-9600P 4C+6G`
+- `Radeon R5 A10-9600P RADEON R5, 10 COMPUTE CORES 4C`
 - `Radeon R5 A10-9620P 4C+6G`
+- `Radeon R5 A10-9620P RADEON R5, 10 COMPUTE CORES 4C`
 - `Radeon R5 A10-9630P 4C+6G`
+- `Radeon R5 A10-9630P RADEON R5, 10 COMPUTE CORES 4C`
 - `Radeon R5 A220`
 - `Radeon R5 A230`
-- `Radeon R5 A240`
 - `Radeon R5 A255`
 - `Radeon R5 A320`
 - `Radeon R5 A330`
 - `Radeon R5 A335`
 - `Radeon R5 A6-7480`
+- `Radeon R5 A6-8500P`
+- `Radeon R5 A6-9500E 2C+4G`
+- `Radeon R5 A6-9500E RADEON R5, 6 COMPUTE CORES 2C+4`
 - `Radeon R5 M250`
 - `Radeon R5 Opteron X3216`
 - `Radeon R5 PRO A10-8730B 4C+6G`
+- `Radeon R5 PRO A10-8730B R5, 10 COMPUTE CORES 4C+6G`
+- `Radeon R5 PRO A6-8500B 2C+4G`
+- `Radeon R5 PRO A6-8500B R5, 6 Compute Cores 2C+4G`
 - `Radeon R5 PRO A6-8530B 2C+4G`
 - `Radeon R5 PRO A6-8570E 2C+4G`
+- `Radeon R5 PRO A6-8570E R5, 6 COMPUTE CORES 2C+4G`
 - `Radeon R5 PRO A6-9500B 2C+4G`
+- `Radeon R5 PRO A6-9500B R5, 6 COMPUTE CORES 2C+4G`
 - `Radeon R5 PRO A6-9500E 2C+4G`
 - `Radeon R5 PRO A8-9600B 4C+6G`
+- `Radeon R5 PRO A8-9600B R5, 10 COMPUTE CORES 4C+6G`
 - `Radeon R6 A10-8700P`
+- `Radeon R6 A10-9600P 4C+6G`
 - `Radeon R6 A8-8600P`
 - `Radeon R6 M335DX`
 - `Radeon R6 M435DX`
 - `Radeon R6 Opteron X3418`
 - `Radeon R6 PRO A10-8700B 4C+6G`
+- `Radeon R6 PRO A10-8700B R6, 10 Compute Cores 4C+6G`
 - `Radeon R6 PRO A8-8600B 4C+6G`
+- `Radeon R6 PRO A8-8600B R6, 10 Compute Cores 4C+6G`
 - `Radeon R7 250E`
 - `Radeon R7 250XE`
 - `Radeon R7 265`
 - `Radeon R7 265X OEM`
 - `Radeon R7 350X OEM`
 - `Radeon R7 360E`
+- `Radeon R7 7850A10-7850K`
 - `Radeon R7 A10 PRO-7800B`
 - `Radeon R7 A10 PRO-7850B`
 - `Radeon R7 A10-7700K`
@@ -438,16 +506,18 @@ Matched: `4267`
 - `Radeon R7 A12-9730P RADEON`
 - `Radeon R7 A12-9800E RADEON`
 - `Radeon R7 A260`
+- `Radeon R7 A365`
 - `Radeon R7 A370`
 - `Radeon R7 A8 PRO-7600B`
 - `Radeon R7 A8-7650K`
 - `Radeon R7 A8-7670K`
 - `Radeon R7 A8-7680`
+- `Radeon R7 A8-7690K`
 - `Radeon R7 A8-8650`
+- `Radeon R7 Eng Sample: ZM2111C1Y4382_34/21/13/06_98`
 - `Radeon R7 FX-8800P`
 - `Radeon R7 FX-9800P RADEON`
 - `Radeon R7 FX-9830P RADEON`
-- `Radeon R7 M270DX`
 - `Radeon R7 Opteron X3421`
 - `Radeon R7 PRO A10-8750B`
 - `Radeon R7 PRO A10-8770E`
@@ -460,58 +530,255 @@ Matched: `4267`
 - `Radeon R7 PRO A12-9800B`
 - `Radeon R7 PRO A12-9800E`
 - `Radeon R7 PRO A8-8650B`
+- `Radeon R7 PRO A8-8670E`
 - `Radeon R8 M350DX`
 - `Radeon R8 M435DX`
 - `Radeon R9 285X`
 - `Radeon R9 290X2`
 - `Radeon R9 370X`
-- `Radeon R9 A375`
 - `Radeon RX 470D`
 - `Radeon RX 560D`
 - `Radeon RX 560DX`
 - `Radeon RX 570G`
 - `Radeon RX 580G`
+- `Radeon RX Vega 10 Ryzen 7 3700U`
+- `Radeon RX Vega 10 Ryzen 7 3750H`
+- `Radeon RX Vega 10 Ryzen 7 PRO 3700U w/`
+- `Radeon RX Vega 11 Ryzen 5 3350G`
+- `Radeon RX Vega 11 Ryzen 5 3400G`
+- `Radeon RX Vega 11 Ryzen 5 3400GE`
+- `Radeon RX Vega 11 Ryzen 7 3750H`
+- `Radeon RX590 GME`
+- `Radeon Ryzen 3 3250U`
+- `Radeon Ryzen 3 5300U`
+- `Radeon Ryzen 3 5425U`
+- `Radeon Ryzen 3 7330U`
+- `Radeon Ryzen 3 PRO 4355GE`
+- `Radeon Ryzen 3 PRO 5450U`
+- `Radeon Ryzen 3 PRO 7330U`
+- `Radeon Ryzen 5 3450U`
+- `Radeon Ryzen 5 4600GE with Radeon Graphics`
+- `Radeon Ryzen 5 5500U`
+- `Radeon Ryzen 5 5560U`
+- `Radeon Ryzen 5 5600GE`
+- `Radeon Ryzen 5 5600H`
+- `Radeon Ryzen 5 5600U`
+- `Radeon Ryzen 5 5625U`
+- `Radeon Ryzen 5 6600H`
+- `Radeon Ryzen 5 6600HS Creator Edition`
+- `Radeon Ryzen 5 6600U`
+- `Radeon Ryzen 5 7530U`
+- `Radeon Ryzen 5 7535HS`
+- `Radeon Ryzen 5 7535U`
+- `Radeon Ryzen 5 7600X 6-Core`
+- `Radeon Ryzen 5 PRO 4655G`
+- `Radeon Ryzen 5 PRO 5650G`
+- `Radeon Ryzen 5 PRO 5650GE`
+- `Radeon Ryzen 5 PRO 5675U`
+- `Radeon Ryzen 5 PRO 6650U`
+- `Radeon Ryzen 5 PRO 7645 6-Core`
+- `Radeon Ryzen 7 3700U`
+- `Radeon Ryzen 7 4700G`
+- `Radeon Ryzen 7 4700GE`
+- `Radeon Ryzen 7 4700U`
+- `Radeon Ryzen 7 4800H`
+- `Radeon Ryzen 7 4800HS`
+- `Radeon Ryzen 7 4800U`
+- `Radeon Ryzen 7 4850U Mobile`
+- `Radeon Ryzen 7 5700U`
+- `Radeon Ryzen 7 5800H`
+- `Radeon Ryzen 7 5800HS`
+- `Radeon Ryzen 7 5800HS Creator Edition`
+- `Radeon Ryzen 7 5800U`
+- `Radeon Ryzen 7 5825U`
+- `Radeon Ryzen 7 6800H`
+- `Radeon Ryzen 7 6800HS`
+- `Radeon Ryzen 7 6800HS Creator Edition`
+- `Radeon Ryzen 7 6800U`
+- `Radeon Ryzen 7 7700X 8-Core`
+- `Radeon Ryzen 7 7730U`
+- `Radeon Ryzen 7 7735H`
+- `Radeon Ryzen 7 7735HS`
+- `Radeon Ryzen 7 7735U`
+- `Radeon Ryzen 7 7736U`
+- `Radeon Ryzen 7 7800X3D 8-Core`
+- `Radeon Ryzen 7 PRO 4750G`
+- `Radeon Ryzen 7 PRO 4750GE`
+- `Radeon Ryzen 7 PRO 4750U`
+- `Radeon Ryzen 7 PRO 5875U`
+- `Radeon Ryzen 7 PRO 6850H`
+- `Radeon Ryzen 7 PRO 6850HS`
+- `Radeon Ryzen 7 PRO 6850U`
+- `Radeon Ryzen 7 PRO 6860Z`
+- `Radeon Ryzen 7 PRO 7730U`
+- `Radeon Ryzen 7 PRO 7745 8-Core`
+- `Radeon Ryzen 9 4900H`
+- `Radeon Ryzen 9 4900HS`
+- `Radeon Ryzen 9 4900HSS`
+- `Radeon Ryzen 9 5900H`
+- `Radeon Ryzen 9 5980HS`
+- `Radeon Ryzen 9 6900HS`
+- `Radeon Ryzen 9 6900HX`
+- `Radeon Ryzen 9 7900X 12-Core`
+- `Radeon Ryzen 9 7950X 16-Core`
+- `Radeon Ryzen 9 7950X3D 16-Core`
+- `Radeon Ryzen 9 PRO 6950HS`
+- `Radeon Ryzen 9 PRO 7945 12-Core`
+- `Radeon Ryzen Embedded V2516`
+- `Radeon Ryzen Embedded V2718`
+- `Radeon Ryzen Embedded V2748`
 - `Radeon Sky 700`
+- `Radeon Vega 10 Ryzen 7 PRO 3700U w/`
+- `Radeon Vega 11 Ryzen 5 PRO 3350G`
+- `Radeon Vega 11 Ryzen 5 PRO 3400G`
+- `Radeon Vega 11 Ryzen 5 PRO 3400GE w/`
+- `Radeon Vega 2 Athlon Silver 3050U`
+- `Radeon Vega 3 3020e`
+- `Radeon Vega 3 Athlon 300GE`
+- `Radeon Vega 3 Athlon 300U`
+- `Radeon Vega 3 Athlon 320GE`
+- `Radeon Vega 3 Athlon Gold 3150U`
+- `Radeon Vega 3 Athlon Gold PRO 3150GE`
+- `Radeon Vega 3 Athlon Silver 3050U`
+- `Radeon Vega 3 Athlon Silver 3050e`
+- `Radeon Vega 3 Ryzen 3 3200U`
+- `Radeon Vega 3 Ryzen 3 3250U`
+- `Radeon Vega 3 Ryzen Embedded R1305G`
+- `Radeon Vega 3 Ryzen Embedded R1505G`
+- `Radeon Vega 6 Ryzen 3 3300U`
+- `Radeon Vega 6 Ryzen 3 3350U`
+- `Radeon Vega 6 Ryzen 3 PRO 3300U w/`
+- `Radeon Vega 8 Ryzen 3 3200G`
+- `Radeon Vega 8 Ryzen 3 3200GE`
+- `Radeon Vega 8 Ryzen 3 PRO 3200G`
+- `Radeon Vega 8 Ryzen 3 PRO 3200GE w/`
+- `Radeon Vega 8 Ryzen 5 3450U`
+- `Radeon Vega 8 Ryzen 5 3500U`
+- `Radeon Vega 8 Ryzen 5 3550H`
+- `Radeon Vega 8 Ryzen 5 PRO 3500U w/`
+- `Radeon Vega 9 Ryzen 5 3550H`
 - `Radeon X550XTX`
 - `Radeon X740 XL`
-- `RadeonT RX 5500M`
+- `Radeon Xpress 1300M`
 - `Riva 128ZX`
+- `Ryzen 3 4300G with Radeon Graphics`
+- `Ryzen 3 4300GE with Radeon Graphics`
+- `Ryzen 3 4300U with Radeon Graphics`
+- `Ryzen 3 5300G with Radeon Graphics`
+- `Ryzen 3 5300GE with Radeon Graphics`
+- `Ryzen 3 5300U with Radeon Graphics`
+- `Ryzen 3 5400U with Radeon Graphics`
+- `Ryzen 3 PRO 4200G with Radeon Graphics`
+- `Ryzen 3 PRO 4200GE with Radeon Graphics`
+- `Ryzen 3 PRO 4300U with Radeon Graphics`
+- `Ryzen 3 PRO 4350GE with Radeon Graphics`
+- `Ryzen 3 PRO 4450U with Radeon Graphics`
+- `Ryzen 3 PRO 5350G with Radeon Graphics`
+- `Ryzen 3 PRO 5350GE with Radeon Graphics`
+- `Ryzen 3 PRO 5450U with Radeon Graphics`
+- `Ryzen 3 Pro 4350G with Radeon Graphics`
 - `Ryzen 5 2500U with Radeon Vega`
+- `Ryzen 5 4500U with Radeon Graphics`
+- `Ryzen 5 4600G with Radeon Graphics`
+- `Ryzen 5 4600H with Radeon Graphics`
+- `Ryzen 5 4600HS with Radeon Graphics`
+- `Ryzen 5 4600U with Radeon Graphics`
+- `Ryzen 5 5500U with Radeon Graphics`
+- `Ryzen 5 5560U with Radeon Graphics`
+- `Ryzen 5 5600G with Radeon Graphics`
+- `Ryzen 5 5600GE with Radeon Graphics`
+- `Ryzen 5 5600H with Radeon Graphics`
+- `Ryzen 5 5600U with Radeon Graphics`
+- `Ryzen 5 6600H with Radeon Graphics`
+- `Ryzen 5 6600HS Creator Edition`
+- `Ryzen 5 6600U with Radeon Graphics`
+- `Ryzen 5 PRO 4400GE with Radeon Graphics`
+- `Ryzen 5 PRO 4500U with Radeon Graphics`
+- `Ryzen 5 PRO 4650GE with Radeon Graphics`
+- `Ryzen 5 PRO 4650U with Radeon Graphics`
+- `Ryzen 5 PRO 5650G with Radeon Graphics`
+- `Ryzen 5 PRO 5650GE with Radeon Graphics`
+- `Ryzen 5 PRO 5650U with Radeon Graphics`
+- `Ryzen 5 PRO 6650H with Radeon Graphics`
+- `Ryzen 5 PRO 6650U`
+- `Ryzen 5 PRO 6650U with Radeon Graphics`
+- `Ryzen 5 Pro 4650G with Radeon Graphics`
 - `Ryzen 7 2700U with Radeon Vega`
+- `Ryzen 7 4700G with Radeon Graphics`
+- `Ryzen 7 4700GE with Radeon Graphics`
+- `Ryzen 7 4700U with Radeon Graphics`
+- `Ryzen 7 4800H with Radeon Graphics`
+- `Ryzen 7 4800HS with Radeon Graphics`
+- `Ryzen 7 4800U with Radeon Graphics`
+- `Ryzen 7 5700G with Radeon Graphics`
+- `Ryzen 7 5700GE with Radeon Graphics`
+- `Ryzen 7 5700U with Radeon Graphics`
+- `Ryzen 7 5800H with Radeon Graphics`
+- `Ryzen 7 5800HS with Radeon Graphics`
+- `Ryzen 7 5800U with Radeon Graphics`
+- `Ryzen 7 6800H`
+- `Ryzen 7 6800H with Radeon Graphics`
+- `Ryzen 7 6800HS`
+- `Ryzen 7 6800HS Creator Edition`
+- `Ryzen 7 6800HS with Radeon Graphics`
+- `Ryzen 7 6800U`
+- `Ryzen 7 6800U with Radeon Graphics`
+- `Ryzen 7 PRO 4700G with Radeon Graphics`
+- `Ryzen 7 PRO 4750GE with Radeon Graphics`
+- `Ryzen 7 PRO 4750U with Radeon Graphics`
+- `Ryzen 7 PRO 5750G with Radeon Graphics`
+- `Ryzen 7 PRO 5750GE with Radeon Graphics`
+- `Ryzen 7 PRO 5850U with Radeon Graphics`
+- `Ryzen 7 PRO 6850HS with Radeon Graphics`
+- `Ryzen 7 PRO 6850U`
+- `Ryzen 7 PRO 6850U with Radeon Graphics`
+- `Ryzen 7 PRO 6860Z`
+- `Ryzen 7 PRO 6860Z with Radeon Graphics`
+- `Ryzen 7 Pro 4750G with Radeon Graphics`
+- `Ryzen 9 4900H with Radeon Graphics`
+- `Ryzen 9 5900HS with Radeon Graphics`
+- `Ryzen 9 5900HX with Radeon Graphics`
+- `Ryzen 9 5980HS with Radeon Graphics`
+- `Ryzen 9 6900HS`
+- `Ryzen 9 6900HS with Radeon Graphics`
+- `Ryzen 9 6900HX`
+- `Ryzen 9 6900HX with Radeon Graphics`
+- `Ryzen 9 PRO 6950H`
+- `Ryzen 9 PRO 6950HS with Radeon Graphics`
+- `S3 5400EW`
+- `S3 SuperSavage/IXC 1014`
 - `SIS Mirage 2 M760`
 - `SIS Mirage 3 671MX`
 - `SIS Mirage 3+ 672MX`
 - `SIS Mirage M661FX `
 - `SUMO 9640`
+- `SUMO 9644`
 - `SUMO 964A`
+- `Samsung Xclipse 920`
 - `Silicon Motion SM502`
+- `T400`
+- `T400 4GB`
 - `Tesla C1060`
 - `Tesla C2090`
 - `Tesla C870`
 - `Tesla D870`
 - `Tesla M1060`
 - `Tesla M2050`
-- `Tesla M2070`
-- `Tesla M2070-Q`
 - `Tesla M2075`
 - `Tesla M2090`
 - `Tesla S1070`
 - `Tesla S1075`
 - `Tesla S2050`
 - `Tesla S870`
-- `Tesla V100 DGXS`
-- `Tesla V100 FHHL`
-- `Tesla V100 PCIe 16 GB`
-- `Tesla V100 PCIe 32 GB`
-- `Tesla V100 SXM2 16 GB`
-- `Tesla V100 SXM2 32 GB`
 - `Tesla X2070`
 - `Tesla X2090`
+- `V9560XT`
 - `VIA/S3G KM400/KN400`
 - `Vivante GC1000+ Dual-Core`
 - `Vivante GC4000`
 - `Vivante GC7000UL`
 - `Vivante GC800`
+- `WinFast A250 LE`
 - `Xeon Phi 3120A`
 - `Xeon Phi 5110P`
 - `Xeon Phi 5120D`
@@ -531,42 +798,46 @@ Matched: `4267`
 - `nForce 780a SLI`
 - `nForce 980a/780a SLI`
 ## Matched
-### 128 DDR Radeon 9700 TX w/TV-Out
-`128 DDR Radeon 9700 TX w/TV-Out`
-##### score
-`0.492` (below 0.75 threshold)
-##### matches
-- `Riva 128`
 ### 3D Rage
 `3D Rage`
 ##### score
 `-0.003` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### 3D Rage II
 `3D Rage II`
 ##### score
-`0.3273333333333333` (below 0.75 threshold)
+`0.3283333333333333` (below 0.75 threshold)
 ##### matches
-- `VIA S3G UniChrome Pro II`
+- `Radeon Pro Vega II`
 ### 3D Rage II+ DVD
 `3D Rage II+ DVD`
 ##### score
-`0.243` (below 0.75 threshold)
+`0.244` (below 0.75 threshold)
 ##### matches
-- `VIA S3G UniChrome Pro II`
+- `Radeon Pro Vega II`
 ### 3D Rage IIC AGP
 `3D Rage IIC AGP`
 ##### score
 `-0.005` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### 3D Rage IIC PCI
@@ -574,9 +845,14 @@ Matched: `4267`
 ##### score
 `-0.005` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### 3D Rage PRO AGP
@@ -585,28 +861,106 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### 3D Rage PRO PCI
 `3D Rage PRO PCI`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro2 Pro`
+- `Radeon Pro`
+### 4x NVIDIA RTX A6000
+`4x NVIDIA RTX A6000`
+##### score
+`0.998`
+##### matches
+- `RTX A6000`
 ### 7900 MOD - Radeon HD 6520G
 `7900 MOD - Radeon HD 6520G`
 ##### score
-`0.3273333333333333` (below 0.75 threshold)
+`0.394` (below 0.75 threshold)
 ##### matches
-- `GeForce 7900 GS`
-- `GeForce 7900 GT`
-- `GeForce 7900 GTO`
-- `GeForce 7900 GTX`
-- `GeForce 7900 GX2`
+- `AMD Radeon RX 7900 XTX`
+- `AMD Radeon RX 7900 XT`
+### 7900 MOD - Radeon HD 6550D
+`7900 MOD - Radeon HD 6550D`
+##### score
+`0.394` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 7900 XTX`
+- `AMD Radeon RX 7900 XT`
+### A10-8Q
+`A10-8Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M6-8Q`
+- `GRID M60-8Q`
+### A16
+`A16`
+##### score
+`0.996`
+##### matches
+- `Apple A16 GPU 5-Core`
+### A40-24Q
+`A40-24Q`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### A40-48Q
+`A40-48Q`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### A40-6Q
+`A40-6Q`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
 ### ALL-IN-WONDER 9000
 `ALL-IN-WONDER 9000`
 ##### score
 `0.999`
 ##### matches
 - `All-In-Wonder 9000 PRO`
+### ALL-IN-WONDER 9800
+`ALL-IN-WONDER 9800`
+##### score
+`0.999`
+##### matches
+- `All-In-Wonder 9800 PRO`
+- `All-In-Wonder 9800 SE`
 ### ALL-IN-WONDER RADEON 8500DV
 `ALL-IN-WONDER RADEON 8500DV`
 ##### score
@@ -665,6 +1019,7 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `FirePro M6000`
 - `FirePro M6000`
 ### AMD FirePro M6100
 `AMD FirePro M6100`
@@ -740,6 +1095,84 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon 530`
+### AMD Radeon 540X
+`AMD Radeon 540X`
+##### score
+`0.999`
+##### matches
+- `Radeon 540X`
+### AMD Radeon 610
+`AMD Radeon 610`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `GeForce 610`
+### AMD Radeon 610M
+`AMD Radeon 610M`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `GeForce 610M`
+- `GeForce 610M`
+- `RadeonT 610M`
+### AMD Radeon 620
+`AMD Radeon 620`
+##### score
+`0.999`
+##### matches
+- `Radeon 620`
+### AMD Radeon 625
+`AMD Radeon 625`
+##### score
+`0.999`
+##### matches
+- `Radeon 625`
+### AMD Radeon 630
+`AMD Radeon 630`
+##### score
+`0.999`
+##### matches
+- `Radeon 630`
+### AMD Radeon 660M
+`AMD Radeon 660M`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 660M`
+- `GeForce GTX 660M`
+### AMD Radeon 680M
+`AMD Radeon 680M`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 680M`
+- `GeForce GTX 680M`
+### AMD Radeon 740M
+`AMD Radeon 740M`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GT 740M`
+- `GeForce GT 740M`
+### AMD Radeon 760M
+`AMD Radeon 760M`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 760M`
+- `GeForce GTX 760M`
+### AMD Radeon 780M
+`AMD Radeon 780M`
+##### score
+`0.999`
+##### matches
+- `Radeon 780M`
+### AMD Radeon Graphics (Ryzen 7000)
+`AMD Radeon Graphics (Ryzen 7000)`
+##### score
+`0.996`
+##### matches
+- `Radeon 7000`
 ### AMD Radeon HD 6250
 `AMD Radeon HD 6250`
 ##### score
@@ -1091,9 +1524,9 @@ Matched: `4267`
 ### AMD Radeon HD 7520G
 `AMD Radeon HD 7520G`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 7520G`
+- `Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D`
 ### AMD Radeon HD 7520G + HD 7670M Dual Graphics
 `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
 ##### score
@@ -1137,10 +1570,9 @@ Matched: `4267`
 ### AMD Radeon HD 7600G
 `AMD Radeon HD 7600G`
 ##### score
-`0.999`
+`1.75`
 ##### matches
-- `Radeon HD 7600G`
-- `Radeon HD 7600G + HD Dual`
+- `Radeon HD 7600G N HD 7600G + HD ON HD Dual`
 ### AMD Radeon HD 7610M
 `AMD Radeon HD 7610M`
 ##### score
@@ -1151,9 +1583,9 @@ Matched: `4267`
 ### AMD Radeon HD 7620G
 `AMD Radeon HD 7620G`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 7620G`
+- `Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D`
 ### AMD Radeon HD 7630M
 `AMD Radeon HD 7630M`
 ##### score
@@ -1384,9 +1816,9 @@ Matched: `4267`
 ### AMD Radeon HD 8550G
 `AMD Radeon HD 8550G`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 8550G`
+- `Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D`
 ### AMD Radeon HD 8550G + HD 8670M Dual Graphics
 `AMD Radeon HD 8550G + HD 8670M Dual Graphics`
 ##### score
@@ -1416,6 +1848,7 @@ Matched: `4267`
 ##### score
 `1.247`
 ##### matches
+- `Radeon HD 7640G N HD 7640G + HD 8570M Dual`
 - `Radeon HD 8650G N HD 8650G + HD 8570M Dual`
 ### AMD Radeon HD 8590M
 `AMD Radeon HD 8590M`
@@ -1450,9 +1883,9 @@ Matched: `4267`
 ### AMD Radeon HD 8670D
 `AMD Radeon HD 8670D`
 ##### score
-`0.999`
+`1.751`
 ##### matches
-- `Radeon HD 8670D`
+- `Radeon HD 8670D N HD 8670D + HD 8670D Dual`
 ### AMD Radeon HD 8670M
 `AMD Radeon HD 8670M`
 ##### score
@@ -1549,6 +1982,18 @@ Matched: `4267`
 ##### matches
 - `Radeon Pro 460`
 - `Radeon Pro 460`
+### AMD Radeon Pro 5300M
+`AMD Radeon Pro 5300M`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro 5300M`
+### AMD Radeon Pro 5500M
+`AMD Radeon Pro 5500M`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro 5500M`
 ### AMD Radeon Pro 555
 `AMD Radeon Pro 555`
 ##### score
@@ -1569,6 +2014,12 @@ Matched: `4267`
 ##### matches
 - `Radeon Pro 560`
 - `Radeon Pro 560`
+### AMD Radeon Pro 5600M
+`AMD Radeon Pro 5600M`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro 5600M`
 ### AMD Radeon Pro 560X
 `AMD Radeon Pro 560X`
 ##### score
@@ -1581,6 +2032,7 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `Radeon Pro Vega 16`
 - `Radeon Pro Vega 16`
 ### AMD Radeon Pro Vega 20
 `AMD Radeon Pro Vega 20`
@@ -1596,13 +2048,32 @@ Matched: `4267`
 ##### matches
 - `Radeon Pro Vega 56`
 - `Radeon Pro Vega 56`
-### AMD Radeon Pro WX 3100 Mobile
-`AMD Radeon Pro WX 3100 Mobile`
+### AMD Radeon Pro W6800
+`AMD Radeon Pro W6800`
 ##### score
-`0.998`
+`0.999`
+##### matches
+- `Radeon PRO W6800`
+### AMD Radeon Pro WX 2100
+`AMD Radeon Pro WX 2100`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro WX 2100`
+- `Radeon Pro WX 2100`
+### AMD Radeon Pro WX 3100
+`AMD Radeon Pro WX 3100`
+##### score
+`0.999`
 ##### matches
 - `Radeon Pro WX 3100`
 - `Radeon Pro WX 3100`
+### AMD Radeon Pro WX 3200
+`AMD Radeon Pro WX 3200`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro WX 3200`
 ### AMD Radeon Pro WX 4130
 `AMD Radeon Pro WX 4130`
 ##### score
@@ -1627,6 +2098,7 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `Radeon Pro WX Vega M GL`
 - `Radeon Pro WX Vega M GL`
 ### AMD Radeon R2 (Mullins/Beema/Carrizo-L)
 `AMD Radeon R2 (Mullins/Beema/Carrizo-L)`
@@ -1794,24 +2266,31 @@ Matched: `4267`
 `0.6616666666666666` (below 0.75 threshold)
 ##### matches
 - `Radeon R7 Graphics`
+- `Radeon R7 +8G`
+- `Radeon R7 G`
 ### AMD Radeon R7 (Carrizo)
 `AMD Radeon R7 (Carrizo)`
 ##### score
 `0.6626666666666666` (below 0.75 threshold)
 ##### matches
 - `Radeon R7 Graphics`
+- `Radeon R7 +8G`
+- `Radeon R7 G`
 ### AMD Radeon R7 (Kaveri)
 `AMD Radeon R7 (Kaveri)`
 ##### score
 `0.6626666666666666` (below 0.75 threshold)
 ##### matches
 - `Radeon R7 Graphics`
+- `Radeon R7 +8G`
+- `Radeon R7 G`
 ### AMD Radeon R7 250
 `AMD Radeon R7 250`
 ##### score
 `0.999`
 ##### matches
 - `Radeon R7 250`
+- `Radeon R7 + R7 250 Dual`
 - `Radeon R7 250`
 ### AMD Radeon R7 370
 `AMD Radeon R7 370`
@@ -1885,6 +2364,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon R7 M380`
+- `Radeon R7 M380`
 ### AMD Radeon R7 M440
 `AMD Radeon R7 M440`
 ##### score
@@ -1946,6 +2426,7 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `Radeon R9 290X`
 - `Radeon R9 290X`
 ### AMD Radeon R9 380
 `AMD Radeon R9 380`
@@ -2024,6 +2505,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon R9 M365X`
+- `Radeon R9 M365X`
 ### AMD Radeon R9 M370X
 `AMD Radeon R9 M370X`
 ##### score
@@ -2049,6 +2531,7 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `Radeon R9 M385`
 - `Radeon R9 M385`
 ### AMD Radeon R9 M385X
 `AMD Radeon R9 M385X`
@@ -2097,6 +2580,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon R9 M485X`
+- `Radeon R9 M485X`
 ### AMD Radeon R9 Nano
 `AMD Radeon R9 Nano`
 ##### score
@@ -2123,13 +2607,11 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `Radeon RX 470`
-- `Radeon RX 470`
 ### AMD Radeon RX 470 (Laptop)
 `AMD Radeon RX 470 (Laptop)`
 ##### score
 `0.997`
 ##### matches
-- `Radeon RX 470`
 - `Radeon RX 470`
 ### AMD Radeon RX 480 (Desktop)
 `AMD Radeon RX 480 (Desktop)`
@@ -2145,12 +2627,24 @@ Matched: `4267`
 ##### matches
 - `Radeon RX 480`
 - `Radeon RX 480`
+### AMD Radeon RX 5300M
+`AMD Radeon RX 5300M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 5300M`
 ### AMD Radeon RX 540
 `AMD Radeon RX 540`
 ##### score
 `0.999`
 ##### matches
 - `Radeon RX 540`
+### AMD Radeon RX 540X
+`AMD Radeon RX 540X`
+##### score
+`0.998`
+##### matches
+- `Radeon 540X`
 ### AMD Radeon RX 550 (Laptop)
 `AMD Radeon RX 550 (Laptop)`
 ##### score
@@ -2158,6 +2652,18 @@ Matched: `4267`
 ##### matches
 - `Radeon RX 550`
 - `Radeon RX 550`
+### AMD Radeon RX 5500 XT (Desktop)
+`AMD Radeon RX 5500 XT (Desktop)`
+##### score
+`0.997`
+##### matches
+- `Radeon RX 5500 XT`
+### AMD Radeon RX 5500M
+`AMD Radeon RX 5500M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 5500M`
 ### AMD Radeon RX 550X (Laptop)
 `AMD Radeon RX 550X (Laptop)`
 ##### score
@@ -2172,6 +2678,18 @@ Matched: `4267`
 ##### matches
 - `Radeon RX 560`
 - `Radeon RX 560`
+### AMD Radeon RX 5600 XT (Desktop)
+`AMD Radeon RX 5600 XT (Desktop)`
+##### score
+`0.997`
+##### matches
+- `Radeon RX 5600 XT`
+### AMD Radeon RX 5600M
+`AMD Radeon RX 5600M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 5600M`
 ### AMD Radeon RX 560X (Laptop)
 `AMD Radeon RX 560X (Laptop)`
 ##### score
@@ -2179,13 +2697,30 @@ Matched: `4267`
 ##### matches
 - `Radeon RX 560X`
 - `Radeon RX 560X`
+### AMD Radeon RX 570 (Desktop)
+`AMD Radeon RX 570 (Desktop)`
+##### score
+`0.997`
+##### matches
+- `Radeon RX 570`
 ### AMD Radeon RX 570 (Laptop)
 `AMD Radeon RX 570 (Laptop)`
 ##### score
 `0.997`
 ##### matches
 - `Radeon RX 570`
-- `Radeon RX 570`
+### AMD Radeon RX 5700 (Desktop)
+`AMD Radeon RX 5700 (Desktop)`
+##### score
+`0.997`
+##### matches
+- `Radeon RX 5700`
+### AMD Radeon RX 5700 XT (Desktop)
+`AMD Radeon RX 5700 XT (Desktop)`
+##### score
+`0.997`
+##### matches
+- `Radeon RX 5700 XT`
 ### AMD Radeon RX 570X (Laptop)
 `AMD Radeon RX 570X (Laptop)`
 ##### score
@@ -2213,6 +2748,7 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `Radeon RX 580X`
+- `Radeon RX 580X`
 ### AMD Radeon RX 590 (Desktop)
 `AMD Radeon RX 590 (Desktop)`
 ##### score
@@ -2220,6 +2756,180 @@ Matched: `4267`
 ##### matches
 - `Radeon RX 590`
 - `Radeon RX 590`
+### AMD Radeon RX 6300M
+`AMD Radeon RX 6300M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon HD 6300M`
+### AMD Radeon RX 640
+`AMD Radeon RX 640`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 640`
+### AMD Radeon RX 6450M
+`AMD Radeon RX 6450M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon HD 6450M`
+### AMD Radeon RX 6500 XT
+`AMD Radeon RX 6500 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6500 XT`
+### AMD Radeon RX 6500M
+`AMD Radeon RX 6500M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6500M`
+### AMD Radeon RX 6550M
+`AMD Radeon RX 6550M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon HD 6550M`
+### AMD Radeon RX 6600
+`AMD Radeon RX 6600`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6600`
+### AMD Radeon RX 6600 XT
+`AMD Radeon RX 6600 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6600 XT`
+### AMD Radeon RX 6600M
+`AMD Radeon RX 6600M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6600M`
+### AMD Radeon RX 6600S
+`AMD Radeon RX 6600S`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6600S`
+### AMD Radeon RX 6650 XT
+`AMD Radeon RX 6650 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6650 XT`
+### AMD Radeon RX 6650M
+`AMD Radeon RX 6650M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6650M`
+### AMD Radeon RX 6650M XT
+`AMD Radeon RX 6650M XT`
+##### score
+`0.998`
+##### matches
+- `Radeon RX 6650M`
+### AMD Radeon RX 6700 XT
+`AMD Radeon RX 6700 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6700 XT`
+### AMD Radeon RX 6700M
+`AMD Radeon RX 6700M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6700M`
+### AMD Radeon RX 6700S
+`AMD Radeon RX 6700S`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6700S`
+### AMD Radeon RX 6750 XT
+`AMD Radeon RX 6750 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6750 XT`
+### AMD Radeon RX 6800
+`AMD Radeon RX 6800`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6800`
+### AMD Radeon RX 6800 XT
+`AMD Radeon RX 6800 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6800 XT`
+### AMD Radeon RX 6800M
+`AMD Radeon RX 6800M`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6800M`
+### AMD Radeon RX 6800S
+`AMD Radeon RX 6800S`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6800S`
+### AMD Radeon RX 6850M XT
+`AMD Radeon RX 6850M XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6850M XT`
+### AMD Radeon RX 6900 XT
+`AMD Radeon RX 6900 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6900 XT`
+### AMD Radeon RX 6950 XT
+`AMD Radeon RX 6950 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 6950 XT`
+### AMD Radeon RX 7600M
+`AMD Radeon RX 7600M`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon RX 7600M XT`
+### AMD Radeon RX 7600M XT
+`AMD Radeon RX 7600M XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 7600M XT`
+### AMD Radeon RX 7600S
+`AMD Radeon RX 7600S`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 7600S`
+### AMD Radeon RX 7900 XT
+`AMD Radeon RX 7900 XT`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 7900 XT`
+### AMD Radeon RX 7900 XTX
+`AMD Radeon RX 7900 XTX`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 7900 XTX`
 ### AMD Radeon RX Vega 10
 `AMD Radeon RX Vega 10`
 ##### score
@@ -2233,18 +2943,54 @@ Matched: `4267`
 ##### matches
 - `Radeon RX Vega 11`
 - `Radeon RX Vega 11`
+### AMD Radeon RX Vega 2
+`AMD Radeon RX Vega 2`
+##### score
+`0.998`
+##### matches
+- `Radeon Vega 2`
 ### AMD Radeon RX Vega 3
 `AMD Radeon RX Vega 3`
 ##### score
 `0.998`
 ##### matches
 - `Radeon Vega 3`
-### AMD Radeon RX Vega 6
-`AMD Radeon RX Vega 6`
+### AMD Radeon RX Vega 5
+`AMD Radeon RX Vega 5`
 ##### score
-`0.998`
+`0.747` (below 0.75 threshold)
 ##### matches
-- `Radeon Vega 6`
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 64`
+- `Radeon RX Vega Nano`
+- `Radeon RX Vega 11`
+- `Radeon RX Vega 10`
+- `Radeon RX Vega 11`
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 6`
+- `Radeon RX Vega 64`
+- `Radeon RX Vega 8`
+### AMD Radeon RX Vega 56
+`AMD Radeon RX Vega 56`
+##### score
+`0.999`
+##### matches
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 56`
+### AMD Radeon RX Vega 6 (Ryzen 2000/3000)
+`AMD Radeon RX Vega 6 (Ryzen 2000/3000)`
+##### score
+`0.491` (below 0.75 threshold)
+##### matches
+- `Quadro 2000`
+- `Quadro 2000`
+### AMD Radeon RX Vega 6 (Ryzen 4000/5000)
+`AMD Radeon RX Vega 6 (Ryzen 4000/5000)`
+##### score
+`0.491` (below 0.75 threshold)
+##### matches
+- `Quadro 4000`
+- `Quadro 4000`
 ### AMD Radeon RX Vega 64
 `AMD Radeon RX Vega 64`
 ##### score
@@ -2252,12 +2998,41 @@ Matched: `4267`
 ##### matches
 - `Radeon RX Vega 64`
 - `Radeon RX Vega 64`
-### AMD Radeon RX Vega 8
-`AMD Radeon RX Vega 8`
+### AMD Radeon RX Vega 7
+`AMD Radeon RX Vega 7`
 ##### score
-`0.999`
+`0.747` (below 0.75 threshold)
 ##### matches
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 64`
+- `Radeon RX Vega Nano`
+- `Radeon RX Vega 11`
+- `Radeon RX Vega 10`
+- `Radeon RX Vega 11`
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 6`
+- `Radeon RX Vega 64`
 - `Radeon RX Vega 8`
+### AMD Radeon RX Vega 8 (Ryzen 2000/3000)
+`AMD Radeon RX Vega 8 (Ryzen 2000/3000)`
+##### score
+`0.491` (below 0.75 threshold)
+##### matches
+- `Quadro 2000`
+- `Quadro 2000`
+### AMD Radeon RX Vega 8 (Ryzen 4000/5000)
+`AMD Radeon RX Vega 8 (Ryzen 4000/5000)`
+##### score
+`0.491` (below 0.75 threshold)
+##### matches
+- `Quadro 4000`
+- `Quadro 4000`
+### AMD Radeon RX Vega 9
+`AMD Radeon RX Vega 9`
+##### score
+`0.998`
+##### matches
+- `Radeon Vega 9`
 ### AMD Radeon RX Vega M GH
 `AMD Radeon RX Vega M GH`
 ##### score
@@ -2273,6 +3048,19 @@ Matched: `4267`
 - `Radeon RX Vega 56 Mobile`
 - `Radeon RX Vega 10 Mobile`
 - `Radeon RX Vega 11 Mobile`
+### AMD Radeon VII
+`AMD Radeon VII`
+##### score
+`0.999`
+##### matches
+- `Radeon VII`
+- `Radeon VII`
+### AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI
+`AMIGAMERLIN 3.1-R1 For Voodoo 4 4500 PCI`
+##### score
+`0.3233333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 4500`
 ### ARM Mali-200
 `ARM Mali-200`
 ##### score
@@ -2317,7 +3105,6 @@ Matched: `4267`
 - `Quadro NVS 450`
 - `Radeon Pro 450`
 - `Radeon R7 450`
-- `RadeonT R7 450`
 ### ARM Mali-G51 MP4
 `ARM Mali-G51 MP4`
 ##### score
@@ -2332,9 +3119,290 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G52 MP1
+`ARM Mali-G52 MP1`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G52 MP2
+`ARM Mali-G52 MP2`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G52 MP6
+`ARM Mali-G52 MP6`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP1
+`ARM Mali-G57 MP1`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP2
+`ARM Mali-G57 MP2`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP3
+`ARM Mali-G57 MP3`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP4
+`ARM Mali-G57 MP4`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP5
+`ARM Mali-G57 MP5`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G57 MP6
+`ARM Mali-G57 MP6`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G68 MP2
+`ARM Mali-G68 MP2`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G68 MP4
+`ARM Mali-G68 MP4`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G68 MP5
+`ARM Mali-G68 MP5`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G71 MP2
 `ARM Mali-G71 MP2`
@@ -2350,9 +3418,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G71 MP20
 `ARM Mali-G71 MP20`
@@ -2368,9 +3441,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G71 MP8
 `ARM Mali-G71 MP8`
@@ -2386,9 +3464,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G72 MP12
 `ARM Mali-G72 MP12`
@@ -2404,9 +3487,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G72 MP18
 `ARM Mali-G72 MP18`
@@ -2422,9 +3510,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G72 MP3
 `ARM Mali-G72 MP3`
@@ -2440,9 +3533,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G76 MP10
 `ARM Mali-G76 MP10`
@@ -2458,9 +3556,14 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 ### ARM Mali-G76 MP12
 `ARM Mali-G76 MP12`
@@ -2476,9 +3579,198 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G76 MP16
+`ARM Mali-G76 MP16`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G76 MP4
+`ARM Mali-G76 MP4`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G77 MP11
+`ARM Mali-G77 MP11`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G77 MP9
+`ARM Mali-G77 MP9`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G78 MP14
+`ARM Mali-G78 MP14`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G78 MP20
+`ARM Mali-G78 MP20`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G78 MP22
+`ARM Mali-G78 MP22`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### ARM Mali-G78 MP24
+`ARM Mali-G78 MP24`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
 - `Xabre`
 ### ATI FirePro M5800
 `ATI FirePro M5800`
@@ -2511,6 +3803,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Mobility FireGL 7800`
+- `MOBILITY FIREGL 7800`
 ### ATI Mobility FireGL 9000
 `ATI Mobility FireGL 9000`
 ##### score
@@ -2626,12 +3919,14 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Mobility Radeon 9550`
+- `MOBILITY RADEON 9550`
 ### ATI Mobility Radeon 9600
 `ATI Mobility Radeon 9600`
 ##### score
 `0.999`
 ##### matches
 - `Mobility Radeon 9600`
+- `MOBILITY RADEON 9600`
 ### ATI Mobility Radeon 9700
 `ATI Mobility Radeon 9700`
 ##### score
@@ -2690,9 +3985,10 @@ Matched: `4267`
 ### ATI Mobility Radeon HD 3400
 `ATI Mobility Radeon HD 3400`
 ##### score
-`0.3273333333333333` (below 0.75 threshold)
+`0.798`
 ##### matches
-- `Quadro FX 3400`
+- `Mobility Radeon HD 3400 Serisi`
+- `Seria Mobility Radeon HD 3400`
 ### ATI Mobility Radeon HD 3410
 `ATI Mobility Radeon HD 3410`
 ##### score
@@ -3235,12 +4531,13 @@ Matched: `4267`
 `0.3283333333333333` (below 0.75 threshold)
 ##### matches
 - `FireGL T2-128`
+- `Rage 128 Pro`
 ### All-In-Wonder 128 PRO
 `All-In-Wonder 128 PRO`
 ##### score
-`0.393` (below 0.75 threshold)
+`0.6626666666666666` (below 0.75 threshold)
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### All-In-Wonder 9000 PRO
 `All-In-Wonder 9000 PRO`
 ##### score
@@ -3276,6 +4573,7 @@ Matched: `4267`
 - `GeForce 9600 GS`
 - `GeForce 9600 GSO`
 - `GeForce 9600 GT`
+- `MOBILITY RADEON 9600`
 - `RADEON 9600 Family`
 - `RADEON 9600 PRO`
 - `RADEON 9600 XT`
@@ -3300,30 +4598,27 @@ Matched: `4267`
 ### All-In-Wonder 9800 PRO
 `All-In-Wonder 9800 PRO`
 ##### score
-`0.6626666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RADEON 9800 PRO`
+- `ALL-IN-WONDER 9800`
 ### All-In-Wonder 9800 SE
 `All-In-Wonder 9800 SE`
 ##### score
-`0.6626666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RADEON 9800 SE`
+- `ALL-IN-WONDER 9800`
 ### All-In-Wonder HD
 `All-In-Wonder HD`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `Intel HD Family`
-- `Intel HD Modded`
-- `Intel Infoshock HD`
-- `Mobile Intel HD`
+- `IncrediblE HD`
 ### All-In-Wonder Radeon 7200
 `All-In-Wonder Radeon 7200`
 ##### score
-`0.3273333333333333` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `GeForce Go 7200`
+- `RADEON 7200`
 ### All-In-Wonder Radeon 7500
 `All-In-Wonder Radeon 7500`
 ##### score
@@ -3333,9 +4628,9 @@ Matched: `4267`
 ### All-In-Wonder Radeon 8500
 `All-In-Wonder Radeon 8500`
 ##### score
-`0.3273333333333333` (below 0.75 threshold)
+`0.6626666666666666` (below 0.75 threshold)
 ##### matches
-- `GeForce 8500 GT`
+- `RADEON 8500 Family`
 ### All-In-Wonder Radeon 8500DV
 `All-In-Wonder Radeon 8500DV`
 ##### score
@@ -3345,13 +4640,9 @@ Matched: `4267`
 ### All-In-Wonder VE
 `All-In-Wonder VE`
 ##### score
-`-0.005` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `Radeon VE`
 ### All-In-Wonder X1800 XL
 `All-In-Wonder X1800 XL`
 ##### score
@@ -3370,8 +4661,9 @@ Matched: `4267`
 ##### score
 `0.3283333333333333` (below 0.75 threshold)
 ##### matches
-- `256MB RADEON X600`
 - `MOBILITY RADEON X600`
+- `RADEON X600 PRO`
+- `RADEON X600 SE`
 ### All-In-Wonder X800
 `All-In-Wonder X800`
 ##### score
@@ -3413,7 +4705,9 @@ Matched: `4267`
 ##### score
 `0.495` (below 0.75 threshold)
 ##### matches
+- `A10-8Q`
 - `GeForce GPU`
+- `NVIDIA A10`
 ### Apple A10X Fusion GPU / PowerVR
 `Apple A10X Fusion GPU / PowerVR`
 ##### score
@@ -3438,6 +4732,42 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `GeForce GPU`
+### Apple A12Z Bionic GPU
+`Apple A12Z Bionic GPU`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple A13 Bionic GPU
+`Apple A13 Bionic GPU`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple A14 Bionic GPU
+`Apple A14 Bionic GPU`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple A15 GPU 4-Core
+`Apple A15 GPU 4-Core`
+##### score
+`0.6626666666666666` (below 0.75 threshold)
+##### matches
+- `PlayStation 4 GPU`
+### Apple A15 GPU 5-Core
+`Apple A15 GPU 5-Core`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple A16 GPU 5-Core
+`Apple A16 GPU 5-Core`
+##### score
+`0.996`
+##### matches
+- `A16`
 ### Apple A9X / PowerVR Series 7XT
 `Apple A9X / PowerVR Series 7XT`
 ##### score
@@ -3452,32 +4782,219 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
+### Apple M1 7-Core GPU
+`Apple M1 7-Core GPU`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M1 8-Core GPU
+`Apple M1 8-Core GPU`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M1 Max 24-Core GPU
+`Apple M1 Max 24-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M1 Max 32-Core GPU
+`Apple M1 Max 32-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M1 Pro 14-Core GPU
+`Apple M1 Pro 14-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce2 PRO`
+- `Quadro2 Pro`
+- `Playstation 4 Pro GPU`
+- `GeForce GPU`
+- `Quadro2 Pro`
+- `Radeon Pro`
+### Apple M1 Pro 16-Core GPU
+`Apple M1 Pro 16-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce2 PRO`
+- `Quadro2 Pro`
+- `Radeon Pro Vega 16`
+- `Playstation 4 Pro GPU`
+- `GeForce GPU`
+- `Quadro2 Pro`
+- `Radeon Pro`
+- `Radeon Pro Vega 16`
+### Apple M2 10-Core GPU
+`Apple M2 10-Core GPU`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M2 8-Core GPU
+`Apple M2 8-Core GPU`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M2 Max 30-Core GPU
+`Apple M2 Max 30-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M2 Max 38-Core GPU
+`Apple M2 Max 38-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce GPU`
+### Apple M2 Pro 16-Core GPU
+`Apple M2 Pro 16-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce2 PRO`
+- `Quadro2 Pro`
+- `Radeon Pro Vega 16`
+- `Playstation 4 Pro GPU`
+- `GeForce GPU`
+- `Quadro2 Pro`
+- `Radeon Pro`
+- `Radeon Pro Vega 16`
+### Apple M2 Pro 19-Core GPU
+`Apple M2 Pro 19-Core GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `GeForce2 PRO`
+- `Quadro2 Pro`
+- `Playstation 4 Pro GPU`
+- `GeForce GPU`
+- `Quadro2 Pro`
+- `Radeon Pro`
+### Asus GTX 650 FML II EC-EGPU
+`Asus GTX 650 FML II EC-EGPU`
+##### score
+`0.6606666666666666` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 650`
 ### Aubrey Isle
 `Aubrey Isle`
 ##### score
 `-0.003` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
+### B8DKMDAP
+`B8DKMDAP`
+##### score
+`-0.002` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### BASICDISPLAY
+`BASICDISPLAY`
+##### score
+`-0.002` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### Barco MXRT 2600
+`Barco MXRT 2600`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `Radeon HD 2600 PRO`
+- `Radeon HD 2600 XT`
+- `Mobility Radeon HD 2600`
 ### Barco MXRT 5450
 `Barco MXRT 5450`
 ##### score
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 5450`
+### Barco MXRT 5500
+`Barco MXRT 5500`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce FX 5500`
+- `Quadro FX 5500`
+- `HD Graphics 5500`
+### Barco MXRT 5600
+`Barco MXRT 5600`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce FX 5600`
+- `Quadro FX 5600`
+- `HD Graphics 5600`
+### Barco MXRT 7100
+`Barco MXRT 7100`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce 7100 GS`
+### Barco MXRT 7400
+`Barco MXRT 7400`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce Go 7400`
 ### Barco MXRT 7500
 `Barco MXRT 7500`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
 - `Radeon 7500`
+### Barco MXRT 7600
+`Barco MXRT 7600`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce 7600 GS`
+- `GeForce 7600 GT`
+- `GeForce 7600 LE`
+- `GeForce Go 7600`
 ### Broadcom VideoCore-IV
 `Broadcom VideoCore-IV`
 ##### score
@@ -3492,10 +5009,70 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
+### CONNECT 3D RADEON X300
+`CONNECT 3D RADEON X300`
+##### score
+`0.998`
+##### matches
+- `Radeon X300`
+### Citrix Indirect Display Adapter
+`Citrix Indirect Display Adapter`
+##### score
+`-0.005` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### Dell 8100
+`Dell 8100`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `Radeon Pro WX 8100`
+- `GeForce 8100 + nForce 720a`
+### Dell 8200
+`Dell 8200`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `GeForce 8200`
+### Diamond X1300-PCIE 256MB
+`Diamond X1300-PCIE 256MB`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `Radeon X1300`
+### EG PARK
+`EG PARK`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
 ### EGA Wonder 480
 `EGA Wonder 480`
 ##### score
@@ -3503,12 +5080,42 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 480`
 - `Radeon RX 480`
+### EIZO Quadro MED-XN51LP
+`EIZO Quadro MED-XN51LP`
+##### score
+`0.997`
+##### matches
+- `Quadro`
 ### Embedded Radeon E9173
 `Embedded Radeon E9173`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
 - `Radeon E9173 PCIe`
+### Eng Sample: 100-000000261-50_Y
+`Eng Sample: 100-000000261-50_Y`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Eng Sample: 100-000000534-40_Y
+`Eng Sample: 100-000000534-40_Y`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Eng Sample: 100-000000545-40_Y
+`Eng Sample: 100-000000545-40_Y`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
 ### Extreme Graphics
 `Extreme Graphics`
 ##### score
@@ -3663,6 +5270,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FireGL V5600`
+### FireGL V7100
+`FireGL V7100`
+##### score
+`1`
+##### matches
+- `FireGL V7100`
+### FireGL V7100
+`FireGL V7100`
+##### score
+`1`
+##### matches
+- `FireGL V7100`
 ### FireGL V7200
 `FireGL V7200`
 ##### score
@@ -3723,6 +5342,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FireGL V7700`
+### FireGL V8600
+`FireGL V8600`
+##### score
+`1`
+##### matches
+- `FireGL V8600`
+### FireGL V8600
+`FireGL V8600`
+##### score
+`1`
+##### matches
+- `FireGL V8600`
 ### FireGL V8650
 `FireGL V8650`
 ##### score
@@ -3776,13 +5407,20 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
+- `FireMV 2200 PCI`
 - `FireMV 2200 PCIe`
 ### FireMV 2200 PCI
 `FireMV 2200 PCI`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `FireMV 2200 PCIe`
+- `FireMV 2200 PCI`
+### FireMV 2200 PCI
+`FireMV 2200 PCI`
+##### score
+`1`
+##### matches
+- `FireMV 2200 PCI`
 ### FireMV 2200 PCIe
 `FireMV 2200 PCIe`
 ##### score
@@ -3939,6 +5577,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro M5100`
+### FirePro M5100 FireGL V
+`FirePro M5100 FireGL V`
+##### score
+`0.998`
+##### matches
+- `FirePro M5100`
 ### FirePro M5800
 `FirePro M5800`
 ##### score
@@ -3960,9 +5604,15 @@ Matched: `4267`
 ### FirePro M6000
 `FirePro M6000`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD FirePro M6000`
+- `FirePro M6000`
+### FirePro M6000
+`FirePro M6000`
+##### score
+`1`
+##### matches
+- `FirePro M6000`
 ### FirePro M6000 Mobility Pro
 `FirePro M6000 Mobility Pro`
 ##### score
@@ -4011,6 +5661,30 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `AMD FirePro M8900`
+### FirePro R5000
+`FirePro R5000`
+##### score
+`1`
+##### matches
+- `FirePro R5000`
+### FirePro R5000
+`FirePro R5000`
+##### score
+`1`
+##### matches
+- `FirePro R5000`
+### FirePro RG220
+`FirePro RG220`
+##### score
+`1`
+##### matches
+- `FirePro RG220`
+### FirePro RG220
+`FirePro RG220`
+##### score
+`1`
+##### matches
+- `FirePro RG220`
 ### FirePro S10000
 `FirePro S10000`
 ##### score
@@ -4047,6 +5721,24 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro S7000`
+### FirePro S7150
+`FirePro S7150`
+##### score
+`1`
+##### matches
+- `FirePro S7150`
+### FirePro S7150
+`FirePro S7150`
+##### score
+`1`
+##### matches
+- `FirePro S7150`
+### FirePro S7150 x2
+`FirePro S7150 x2`
+##### score
+`0.999`
+##### matches
+- `FirePro S7150`
 ### FirePro S9000
 `FirePro S9000`
 ##### score
@@ -4059,6 +5751,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro S9000`
+### FirePro S9050
+`FirePro S9050`
+##### score
+`1`
+##### matches
+- `FirePro S9050`
+### FirePro S9050
+`FirePro S9050`
+##### score
+`1`
+##### matches
+- `FirePro S9050`
 ### FirePro V3900
 `FirePro V3900`
 ##### score
@@ -4141,12 +5845,6 @@ Matched: `4267`
 `FirePro W4100`
 ##### score
 `1`
-##### matches
-- `FirePro W4100`
-### FirePro W4100 Adapter
-`FirePro W4100 Adapter`
-##### score
-`0.999`
 ##### matches
 - `FirePro W4100`
 ### FirePro W4170M
@@ -4239,6 +5937,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro W600`
+### FirePro W6150M
+`FirePro W6150M`
+##### score
+`1`
+##### matches
+- `FirePro W6150M`
+### FirePro W6150M
+`FirePro W6150M`
+##### score
+`1`
+##### matches
+- `FirePro W6150M`
 ### FirePro W7000
 `FirePro W7000`
 ##### score
@@ -4269,12 +5979,6 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro W7100`
-### FirePro W7100 Adapter
-`FirePro W7100 Adapter`
-##### score
-`0.999`
-##### matches
-- `FirePro W7100`
 ### FirePro W7170M
 `FirePro W7170M`
 ##### score
@@ -4299,12 +6003,6 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro W8000`
-### FirePro W8000 Adapter
-`FirePro W8000 Adapter`
-##### score
-`0.999`
-##### matches
-- `FirePro W8000`
 ### FirePro W8100
 `FirePro W8100`
 ##### score
@@ -4315,12 +6013,6 @@ Matched: `4267`
 `FirePro W8100`
 ##### score
 `1`
-##### matches
-- `FirePro W8100`
-### FirePro W8100 Graphic Adapter
-`FirePro W8100 Graphic Adapter`
-##### score
-`0.998`
 ##### matches
 - `FirePro W8100`
 ### FirePro W9000
@@ -4347,6 +6039,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro W9100`
+### FireStream 9170
+`FireStream 9170`
+##### score
+`1`
+##### matches
+- `FireStream 9170`
+### FireStream 9170
+`FireStream 9170`
+##### score
+`1`
+##### matches
+- `FireStream 9170`
 ### FireStream 9250
 `FireStream 9250`
 ##### score
@@ -4371,6 +6075,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `FireStream 9270`
+### FireStream 9370
+`FireStream 9370`
+##### score
+`1`
+##### matches
+- `FireStream 9370`
+### FireStream 9370
+`FireStream 9370`
+##### score
+`1`
+##### matches
+- `FireStream 9370`
 ### Firepro M4100
 `Firepro M4100`
 ##### score
@@ -4389,12 +6105,6 @@ Matched: `4267`
 `1`
 ##### matches
 - `FirePro W5170M`
-### GIGABYTE RADEON 9600 PRO
-`GIGABYTE RADEON 9600 PRO`
-##### score
-`0.999`
-##### matches
-- `Radeon 9600 PRO`
 ### GMA
 `GMA`
 ##### score
@@ -4416,9 +6126,9 @@ Matched: `4267`
 ### GMA 3150
 `GMA 3150`
 ##### score
-`0.996`
+`0.998`
 ##### matches
-- `Intel Graphics Media Accelerator (GMA) 3150`
+- `Intel GMA 3150 Express`
 ### GMA 3600
 `GMA 3600`
 ##### score
@@ -4461,6 +6171,15 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `Intel Graphics Media Accelerator (GMA) X3100`
+### GRID GTX P40-6
+`GRID GTX P40-6`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
 ### GRID K1
 `GRID K1`
 ##### score
@@ -4593,8 +6312,40 @@ Matched: `4267`
 `1`
 ##### matches
 - `GRID K520`
+### GRID M10-0Q
+`GRID M10-0Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
 ### GRID M10-1B
 `GRID M10-1B`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+### GRID M10-1Q
+`GRID M10-1Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M60-1Q`
+### GRID M10-2B
+`GRID M10-2B`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+### GRID M10-2Q
+`GRID M10-2Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M60-2Q`
+### GRID M10-4Q
+`GRID M10-4Q`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
@@ -4602,10 +6353,15 @@ Matched: `4267`
 ### GRID M10-8Q
 `GRID M10-8Q`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `GRID M10-1B`
-- `GRID M60-8Q`
+- `GRID M10-8Q`
+### GRID M10-8Q
+`GRID M10-8Q`
+##### score
+`1`
+##### matches
+- `GRID M10-8Q`
 ### GRID M40
 `GRID M40`
 ##### score
@@ -4613,11 +6369,58 @@ Matched: `4267`
 ##### matches
 - `GRID K1`
 - `GRID K2`
-### GRID M6-8Q
-`GRID M6-8Q`
+- `Tesla M40`
+### GRID M6-0B
+`GRID M6-0B`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
+- `GRID M6-8Q`
+### GRID M6-1Q
+`GRID M6-1Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M6-8Q`
+- `GRID M60-1Q`
+### GRID M6-8Q
+`GRID M6-8Q`
+##### score
+`1`
+##### matches
+- `GRID M6-8Q`
+### GRID M6-8Q
+`GRID M6-8Q`
+##### score
+`1`
+##### matches
+- `GRID M6-8Q`
+### GRID M60-0B
+`GRID M60-0B`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-1Q`
+- `GRID M60-2Q`
+- `GRID M60-4A`
+- `GRID M60-8Q`
+### GRID M60-0Q
+`GRID M60-0Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-1Q`
+- `GRID M60-2Q`
+- `GRID M60-4A`
+- `GRID M60-8Q`
+### GRID M60-1B
+`GRID M60-1B`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-1Q`
+- `GRID M60-2Q`
+- `GRID M60-4A`
 - `GRID M60-8Q`
 ### GRID M60-1Q
 `GRID M60-1Q`
@@ -4648,12 +6451,26 @@ Matched: `4267`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
+- `GRID M60-0B`
+- `GRID M60-0Q`
+- `GRID M60-1B`
 - `GRID M60-1Q`
 - `GRID M60-2Q`
 - `GRID M60-4Q`
+- `GRID M60-8A`
 - `GRID M60-8Q`
+- `GRID P6-4A`
 ### GRID M60-4Q
 `GRID M60-4Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-1Q`
+- `GRID M60-2Q`
+- `GRID M60-4A`
+- `GRID M60-8Q`
+### GRID M60-8A
+`GRID M60-8A`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
@@ -4673,6 +6490,20 @@ Matched: `4267`
 `1`
 ##### matches
 - `GRID M60-8Q`
+### GRID P100-16Q
+`GRID P100-16Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Tesla P100 DGXS`
+- `Tesla P100 SXM2`
+### GRID P100-1B
+`GRID P100-1B`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Tesla P100 DGXS`
+- `Tesla P100 SXM2`
 ### GRID P100-8Q
 `GRID P100-8Q`
 ##### score
@@ -4680,6 +6511,56 @@ Matched: `4267`
 ##### matches
 - `Tesla P100 DGXS`
 - `Tesla P100 SXM2`
+### GRID P4-8Q
+`GRID P4-8Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M6-8Q`
+- `GRID M60-8Q`
+### GRID P40-12Q
+`GRID P40-12Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-24Q
+`GRID P40-24Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-2B
+`GRID P40-2B`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-2B4
+`GRID P40-2B4`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-2Q
+`GRID P40-2Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-2Q`
 ### GRID P40-3Q
 `GRID P40-3Q`
 ##### score
@@ -4689,12 +6570,44 @@ Matched: `4267`
 - `GRID K1`
 - `GRID K2`
 - `GRID M40`
+### GRID P40-4Q
+`GRID P40-4Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-6Q
+`GRID P40-6Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla P40`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID P40-8Q
+`GRID P40-8Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M6-8Q`
+- `GRID M60-8Q`
 ### GRID P6-2Q
 `GRID P6-2Q`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
 - `GRID M60-2Q`
+### GRID P6-4A
+`GRID P6-4A`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-4A`
 ### GRID P6-4Q
 `GRID P6-4Q`
 ##### score
@@ -4704,6 +6617,70 @@ Matched: `4267`
 - `GRID K1`
 - `GRID K2`
 - `GRID M40`
+### GRID T4-1Q
+`GRID T4-1Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-1Q`
+### GRID T4-2B
+`GRID T4-2B`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla T4`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID T4-2Q
+`GRID T4-2Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M60-2Q`
+### GRID T4-4Q
+`GRID T4-4Q`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Tesla T4`
+- `GRID K1`
+- `GRID K2`
+- `GRID M40`
+### GRID T4-8Q
+`GRID T4-8Q`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M6-8Q`
+- `GRID M60-8Q`
+### GRID V100-2Q
+`GRID V100-2Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Tesla V100 DGXS`
+- `Tesla V100 FHHL`
+### GRID V100-8Q
+`GRID V100-8Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Tesla V100 DGXS`
+- `Tesla V100 FHHL`
+### GT 430
+`GT 430`
+##### score
+`0.999`
+##### matches
+- `GeForce GT 430`
+### GeCube RADEON 7000
+`GeCube RADEON 7000`
+##### score
+`0.999`
+##### matches
+- `Radeon 7000`
 ### GeForce 205
 `GeForce 205`
 ##### score
@@ -4746,6 +6723,12 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `GeForce 210`
+### GeForce 240M GT
+`GeForce 240M GT`
+##### score
+`1`
+##### matches
+- `GeForce GT 240M`
 ### GeForce 256
 `GeForce 256`
 ##### score
@@ -5309,9 +7292,15 @@ Matched: `4267`
 ### GeForce 6800 XE
 `GeForce 6800 XE`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `GeForce 6800`
+- `GeForce 6800 XE`
+### GeForce 6800 XE
+`GeForce 6800 XE`
+##### score
+`1`
+##### matches
+- `GeForce 6800 XE`
 ### GeForce 6800 XT
 `GeForce 6800 XT`
 ##### score
@@ -5432,6 +7421,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce 7100 / nForce 630i`
+### GeForce 7100 / nForce 620i
+`GeForce 7100 / nForce 620i`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `GeForce 7100 + nForce 630i`
 ### GeForce 7100 / nForce 630i
 `GeForce 7100 / nForce 630i`
 ##### score
@@ -5501,9 +7496,15 @@ Matched: `4267`
 ### GeForce 7200 GS
 `GeForce 7200 GS`
 ##### score
-`0.998`
+`1`
 ##### matches
-- `GeForce 7300 SE/7200 GS`
+- `GeForce 7200 GS`
+### GeForce 7200 GS
+`GeForce 7200 GS`
+##### score
+`1`
+##### matches
+- `GeForce 7200 GS`
 ### GeForce 720A
 `GeForce 720A`
 ##### score
@@ -5681,6 +7682,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce 7650 GS`
+### GeForce 770M
+`GeForce 770M`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 770M`
 ### GeForce 7800 GS
 `GeForce 7800 GS`
 ##### score
@@ -5828,6 +7835,13 @@ Matched: `4267`
 ##### score
 `1`
 ##### matches
+- `GeForce 7950 GX2`
+### GeForce 7950 Xtreme
+`GeForce 7950 Xtreme`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `GeForce 7950 GT`
 - `GeForce 7950 GX2`
 ### GeForce 800A
 `GeForce 800A`
@@ -6515,9 +8529,15 @@ Matched: `4267`
 ### GeForce 9300 SE
 `GeForce 9300 SE`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `GeForce 9300`
+- `GeForce 9300 SE`
+### GeForce 9300 SE
+`GeForce 9300 SE`
+##### score
+`1`
+##### matches
+- `GeForce 9300 SE`
 ### GeForce 9300M G
 `GeForce 9300M G`
 ##### score
@@ -6680,6 +8700,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce 940MX`
+### GeForce 945A
+`GeForce 945A`
+##### score
+`1`
+##### matches
+- `GeForce 945A`
+### GeForce 945A
+`GeForce 945A`
+##### score
+`1`
+##### matches
+- `GeForce 945A`
 ### GeForce 945M
 `GeForce 945M`
 ##### score
@@ -6719,9 +8751,9 @@ Matched: `4267`
 ### GeForce 9500 GT
 `GeForce 9500 GT`
 ##### score
-`1`
+`1.3333333333333333`
 ##### matches
-- `GeForce 9500 GT`
+- `GeForce GT 120 / 9500 GT`
 ### GeForce 9500 GT Mac Edition
 `GeForce 9500 GT Mac Edition`
 ##### score
@@ -6923,6 +8955,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce 9800 GT`
+### GeForce 9800 GT 1024MB
+`GeForce 9800 GT 1024MB`
+##### score
+`0.999`
+##### matches
+- `GeForce 9800 GT`
 ### GeForce 9800 GT Rebrand
 `GeForce 9800 GT Rebrand`
 ##### score
@@ -7030,9 +9068,15 @@ Matched: `4267`
 ### GeForce FX 5100
 `GeForce FX 5100`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`1`
 ##### matches
-- `Intel Iris 5100`
+- `GeForce FX 5100`
+### GeForce FX 5100
+`GeForce FX 5100`
+##### score
+`1`
+##### matches
+- `GeForce FX 5100`
 ### GeForce FX 5200
 `GeForce FX 5200`
 ##### score
@@ -7409,6 +9453,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GT 120 OEM`
+### GeForce GT 120 / 9500 GT
+`GeForce GT 120 / 9500 GT`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `GeForce GT 120 OEM`
 ### GeForce GT 120 Mac Edition
 `GeForce GT 120 Mac Edition`
 ##### score
@@ -7421,6 +9471,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GT 120`
+- `GeForce GT 120 / 9500 GT`
 ### GeForce GT 120M
 `GeForce GT 120M`
 ##### score
@@ -7564,12 +9615,14 @@ Matched: `4267`
 ##### score
 `1`
 ##### matches
+- `GeForce 240M GT`
 - `GeForce GT 240M`
 ### GeForce GT 240M LE
 `GeForce GT 240M LE`
 ##### score
 `0.999`
 ##### matches
+- `GeForce 240M GT`
 - `GeForce GT 240M`
 ### GeForce GT 320
 `GeForce GT 320`
@@ -7661,6 +9714,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GT 340`
+### GeForce GT 415
+`GeForce GT 415`
+##### score
+`0.999`
+##### matches
+- `GeForce GT 415 OEM`
+### GeForce GT 415 OEM
+`GeForce GT 415 OEM`
+##### score
+`0.999`
+##### matches
+- `GeForce GT 415`
 ### GeForce GT 415M
 `GeForce GT 415M`
 ##### score
@@ -7943,6 +10008,12 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `GeForce GT 610`
+### GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT
+`GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
+##### score
+`0.992`
+##### matches
+- `GeForce 610M`
 ### GeForce GT 620
 `GeForce GT 620`
 ##### score
@@ -7970,9 +10041,9 @@ Matched: `4267`
 ### GeForce GT 620M
 `GeForce GT 620M`
 ##### score
-`1`
+`2.3343333333333334`
 ##### matches
-- `GeForce GT 620M`
+- `GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
 ### GeForce GT 625
 `GeForce GT 625`
 ##### score
@@ -8210,9 +10281,9 @@ Matched: `4267`
 ### GeForce GT 710M
 `GeForce GT 710M`
 ##### score
-`1`
+`2.3343333333333334`
 ##### matches
-- `GeForce GT 710M`
+- `GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
 ### GeForce GT 720
 `GeForce GT 720`
 ##### score
@@ -8246,9 +10317,9 @@ Matched: `4267`
 ### GeForce GT 720M
 `GeForce GT 720M`
 ##### score
-`1`
+`2.3343333333333334`
 ##### matches
-- `GeForce GT 720M`
+- `GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
 ### GeForce GT 730
 `GeForce GT 730`
 ##### score
@@ -8321,6 +10392,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GT 740`
+### GeForce GT 740A
+`GeForce GT 740A`
+##### score
+`1`
+##### matches
+- `GeForce GT 740A`
+### GeForce GT 740A
+`GeForce GT 740A`
+##### score
+`1`
+##### matches
+- `GeForce GT 740A`
 ### GeForce GT 740M
 `GeForce GT 740M`
 ##### score
@@ -8408,9 +10491,15 @@ Matched: `4267`
 ### GeForce GTS 150M
 `GeForce GTS 150M`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `NVIDIA GeForce GTS 150M`
+- `GeForce GTS 150M`
+### GeForce GTS 150M
+`GeForce GTS 150M`
+##### score
+`1`
+##### matches
+- `GeForce GTS 150M`
 ### GeForce GTS 160M
 `GeForce GTS 160M`
 ##### score
@@ -8543,6 +10632,12 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `GeForce GTX 1050`
+### GeForce GTX 1050 3GB
+`GeForce GTX 1050 3GB`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1050`
 ### GeForce GTX 1050 Max-Q
 `GeForce GTX 1050 Max-Q`
 ##### score
@@ -8556,6 +10651,7 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1050`
 - `GeForce GTX 1050 (Mobile)`
+- `NVIDIA GeForce GTX 1050 Mobile`
 ### GeForce GTX 1050 Ti
 `GeForce GTX 1050 Ti`
 ##### score
@@ -8587,6 +10683,7 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1050 Ti`
 - `GeForce GTX 1050 Ti (Mobile)`
+- `NVIDIA GeForce GTX 1050 Ti Mobile`
 ### GeForce GTX 1050 Ti with Max-Q Design
 `GeForce GTX 1050 Ti with Max-Q Design`
 ##### score
@@ -8684,6 +10781,7 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1060`
 - `GeForce GTX 1060 (Mobile)`
+- `NVIDIA GeForce GTX 1060 Mobile`
 ### GeForce GTX 1060 with Max-Q Design
 `GeForce GTX 1060 with Max-Q Design`
 ##### score
@@ -8727,6 +10825,7 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1070`
 - `GeForce GTX 1070 (Mobile)`
+- `NVIDIA GeForce GTX 1070 Mobile`
 ### GeForce GTX 1070 Ti
 `GeForce GTX 1070 Ti`
 ##### score
@@ -8775,6 +10874,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GTX 1080`
+- `NVIDIA GeForce GTX 1080 Mobile`
 ### GeForce GTX 1080 Ti
 `GeForce GTX 1080 Ti`
 ##### score
@@ -8820,10 +10920,9 @@ Matched: `4267`
 ### GeForce GTX 1650 Max-Q
 `GeForce GTX 1650 Max-Q`
 ##### score
-`0.998`
+`0.999`
 ##### matches
-- `GeForce GTX 1650`
-- `GeForce GTX 1650 with Max-Q Design`
+- `NVIDIA GeForce GTX 1650 Max-Q`
 ### GeForce GTX 1650 Mobile
 `GeForce GTX 1650 Mobile`
 ##### score
@@ -8831,12 +10930,25 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1650`
 - `GeForce GTX 1650 (Mobile)`
+- `NVIDIA GeForce GTX 1650 Mobile`
 ### GeForce GTX 1650 SUPER
 `GeForce GTX 1650 SUPER`
 ##### score
 `0.999`
 ##### matches
 - `GeForce GTX 1650`
+### GeForce GTX 1650 Ti
+`GeForce GTX 1650 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1650`
+### GeForce GTX 1650 Ti with Max-Q Design
+`GeForce GTX 1650 Ti with Max-Q Design`
+##### score
+`0.997`
+##### matches
+- `GeForce GTX 1650 Max-Q`
 ### GeForce GTX 1650 with Max-Q Design
 `GeForce GTX 1650 with Max-Q Design`
 ##### score
@@ -8861,6 +10973,7 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `GeForce GTX 1660`
+- `NVIDIA GeForce GTX 1660 Ti Max-Q`
 ### GeForce GTX 1660 Mobile
 `GeForce GTX 1660 Mobile`
 ##### score
@@ -9565,6 +11678,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce GTX 680M`
+### GeForce GTX 680M KY_Bullet Edition
+`GeForce GTX 680M KY_Bullet Edition`
+##### score
+`0.998`
+##### matches
+- `GeForce GTX 680M`
 ### GeForce GTX 680MX
 `GeForce GTX 680MX`
 ##### score
@@ -9847,6 +11966,12 @@ Matched: `4267`
 `GeForce GTX 850M`
 ##### score
 `1`
+##### matches
+- `GeForce GTX 850M`
+### GeForce GTX 850M - MODDED
+`GeForce GTX 850M - MODDED`
+##### score
+`0.999`
 ##### matches
 - `GeForce GTX 850M`
 ### GeForce GTX 860M
@@ -10432,11 +12557,48 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce MX250`
+### GeForce MX330
+`GeForce MX330`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce MX330`
+### GeForce MX350
+`GeForce MX350`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce MX350`
+### GeForce MX450
+`GeForce MX450`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce MX450`
+### GeForce MX550
+`GeForce MX550`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce MX550`
+### GeForce MX570
+`GeForce MX570`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce MX570`
+### GeForce MX570 A
+`GeForce MX570 A`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `NVIDIA GeForce MX570`
 ### GeForce PCX 4300
 `GeForce PCX 4300`
 ##### score
 `0.3273333333333333` (below 0.75 threshold)
 ##### matches
+- `Mobility Radeon HD 4300 Serisi`
 - `Radeon HD 4300/4500 Serisi`
 ### GeForce PCX 5300
 `GeForce PCX 5300`
@@ -10465,15 +12627,33 @@ Matched: `4267`
 ### GeForce PCX 5900
 `GeForce PCX 5900`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `GeForce FX 5900`
+- `GeForce PCX 5900`
+### GeForce PCX 5900
+`GeForce PCX 5900`
+##### score
+`1`
+##### matches
+- `GeForce PCX 5900`
 ### GeForce PCX 5950
 `GeForce PCX 5950`
 ##### score
 `0.6636666666666666` (below 0.75 threshold)
 ##### matches
 - `GeForce FX 5950 Ultra`
+### GeForce RTX 2050
+`GeForce RTX 2050`
+##### score
+`1`
+##### matches
+- `GeForce RTX 2050`
+### GeForce RTX 2050
+`GeForce RTX 2050`
+##### score
+`1`
+##### matches
+- `GeForce RTX 2050`
 ### GeForce RTX 2060
 `GeForce RTX 2060`
 ##### score
@@ -10492,6 +12672,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce RTX 2060 Mobile`
+### GeForce RTX 2060 12GB
+`GeForce RTX 2060 12GB`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 2060`
 ### GeForce RTX 2060 Mobile
 `GeForce RTX 2060 Mobile`
 ##### score
@@ -10499,10 +12685,17 @@ Matched: `4267`
 ##### matches
 - `GeForce RTX 2060`
 - `GeForce RTX 2060 (Mobile)`
+- `NVIDIA GeForce RTX 2060 Mobile`
 ### GeForce RTX 2060 SUPER
 `GeForce RTX 2060 SUPER`
 ##### score
 `0.999`
+##### matches
+- `GeForce RTX 2060`
+### GeForce RTX 2060 with Max-Q Design
+`GeForce RTX 2060 with Max-Q Design`
+##### score
+`0.996`
 ##### matches
 - `GeForce RTX 2060`
 ### GeForce RTX 2070
@@ -10536,12 +12729,19 @@ Matched: `4267`
 ##### matches
 - `GeForce RTX 2070`
 - `GeForce RTX 2070 (Mobile)`
+- `NVIDIA GeForce RTX 2070 Mobile`
 ### GeForce RTX 2070 SUPER
 `GeForce RTX 2070 SUPER`
 ##### score
 `0.999`
 ##### matches
 - `GeForce RTX 2070`
+### GeForce RTX 2070 Super with Max-Q Design
+`GeForce RTX 2070 Super with Max-Q Design`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 2070 Max-Q`
 ### GeForce RTX 2070 with Max-Q Design
 `GeForce RTX 2070 with Max-Q Design`
 ##### score
@@ -10579,12 +12779,19 @@ Matched: `4267`
 ##### matches
 - `GeForce RTX 2080`
 - `GeForce RTX 2080 (Mobile)`
+- `NVIDIA GeForce RTX 2080 Mobile`
 ### GeForce RTX 2080 SUPER
 `GeForce RTX 2080 SUPER`
 ##### score
 `0.999`
 ##### matches
 - `GeForce RTX 2080`
+### GeForce RTX 2080 Super with Max-Q Design
+`GeForce RTX 2080 Super with Max-Q Design`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 2080 Max-Q`
 ### GeForce RTX 2080 Ti
 `GeForce RTX 2080 Ti`
 ##### score
@@ -10603,6 +12810,188 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `GeForce RTX 2080 Max-Q`
+### GeForce RTX 3050
+`GeForce RTX 3050`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3050`
+### GeForce RTX 3050 4GB Laptop GPU
+`GeForce RTX 3050 4GB Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3050 4GB Laptop GPU`
+### GeForce RTX 3050 6GB Laptop GPU
+`GeForce RTX 3050 6GB Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3050 6GB Laptop GPU`
+### GeForce RTX 3050 Laptop GPU
+`GeForce RTX 3050 Laptop GPU`
+##### score
+`0.998`
+##### matches
+- `NVIDIA GeForce RTX 3050 Ti Laptop GPU`
+- `NVIDIA GeForce RTX 3050 6GB Laptop GPU`
+- `NVIDIA GeForce RTX 3050 4GB Laptop GPU`
+### GeForce RTX 3050 OEM
+`GeForce RTX 3050 OEM`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `NVIDIA GeForce RTX 3050`
+### GeForce RTX 3050 Ti Laptop GPU
+`GeForce RTX 3050 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3050 Ti Laptop GPU`
+### GeForce RTX 3060
+`GeForce RTX 3060`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3060`
+### GeForce RTX 3060 Laptop GPU
+`GeForce RTX 3060 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3060 Laptop GPU`
+### GeForce RTX 3060 Ti
+`GeForce RTX 3060 Ti`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3060 Ti`
+### GeForce RTX 3070
+`GeForce RTX 3070`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3070`
+### GeForce RTX 3070 Laptop GPU
+`GeForce RTX 3070 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3070 Laptop GPU`
+### GeForce RTX 3070 Ti
+`GeForce RTX 3070 Ti`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3070 Ti`
+### GeForce RTX 3070 Ti Laptop GPU
+`GeForce RTX 3070 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3070 Ti Laptop GPU`
+### GeForce RTX 3080
+`GeForce RTX 3080`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3080`
+### GeForce RTX 3080 12GB
+`GeForce RTX 3080 12GB`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `NVIDIA GeForce RTX 3080`
+### GeForce RTX 3080 Laptop GPU
+`GeForce RTX 3080 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3080 Laptop GPU`
+### GeForce RTX 3080 Ti
+`GeForce RTX 3080 Ti`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3080 Ti`
+### GeForce RTX 3080 Ti Laptop GPU
+`GeForce RTX 3080 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3080 Ti Laptop GPU`
+### GeForce RTX 3090
+`GeForce RTX 3090`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3090`
+### GeForce RTX 3090 Ti
+`GeForce RTX 3090 Ti`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 3090 Ti`
+### GeForce RTX 4050 Laptop GPU
+`GeForce RTX 4050 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4050 Laptop GPU`
+### GeForce RTX 4060 Laptop GPU
+`GeForce RTX 4060 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4060 Laptop GPU`
+### GeForce RTX 4060 Ti
+`GeForce RTX 4060 Ti`
+##### score
+`0.998`
+##### matches
+- `NVIDIA GeForce RTX 4060 Ti 8G`
+### GeForce RTX 4070
+`GeForce RTX 4070`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4070`
+### GeForce RTX 4070 Laptop GPU
+`GeForce RTX 4070 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4070 Laptop GPU`
+### GeForce RTX 4070 Ti
+`GeForce RTX 4070 Ti`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4070 Ti`
+### GeForce RTX 4080
+`GeForce RTX 4080`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4080`
+### GeForce RTX 4080 Laptop GPU
+`GeForce RTX 4080 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4080 Laptop GPU`
+### GeForce RTX 4090
+`GeForce RTX 4090`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4090`
+### GeForce RTX 4090 Laptop GPU
+`GeForce RTX 4090 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce RTX 4090 Laptop GPU`
 ### GeForce2 GTS
 `GeForce2 GTS`
 ##### score
@@ -10624,9 +13013,15 @@ Matched: `4267`
 ### GeForce2 Go
 `GeForce2 Go`
 ##### score
-`0.998`
+`1`
 ##### matches
-- `GeForce2 GTS/GeForce2 Pro`
+- `GeForce2 Go`
+### GeForce2 Go
+`GeForce2 Go`
+##### score
+`1`
+##### matches
+- `GeForce2 Go`
 ### GeForce2 Go 100
 `GeForce2 Go 100`
 ##### score
@@ -10730,6 +13125,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce2 MX`
+### GeForce2 MX with DVI-D and TV-out
+`GeForce2 MX with DVI-D and TV-out`
+##### score
+`0.994`
+##### matches
+- `GeForce2 MX`
+### GeForce2 MX with TV Out
+`GeForce2 MX with TV Out`
+##### score
+`0.997`
+##### matches
+- `GeForce2 MX`
 ### GeForce2 MX/MX 400
 `GeForce2 MX/MX 400`
 ##### score
@@ -10757,9 +13164,15 @@ Matched: `4267`
 ### GeForce2 Ultra
 `GeForce2 Ultra`
 ##### score
-`0.998`
+`1`
 ##### matches
-- `GeForce2 GTS/GeForce2 Pro`
+- `GeForce2 Ultra`
+### GeForce2 Ultra
+`GeForce2 Ultra`
+##### score
+`1`
+##### matches
+- `GeForce2 Ultra`
 ### GeForce3
 `GeForce3`
 ##### score
@@ -10789,6 +13202,12 @@ Matched: `4267`
 `0.497` (below 0.75 threshold)
 ##### matches
 - `GMA 500`
+### GeForce3 Ti200
+`GeForce3 Ti200`
+##### score
+`0.999`
+##### matches
+- `NVIDIA GeForce3 Ti200`
 ### GeForce4 410 Go
 `GeForce4 410 Go`
 ##### score
@@ -10819,6 +13238,13 @@ Matched: `4267`
 `1`
 ##### matches
 - `GeForce4 Go 4200`
+### GeForce4 440
+`GeForce4 440`
+##### score
+`0.999`
+##### matches
+- `GeForce4 MX 440`
+- `GeForce4 440 Go`
 ### GeForce4 440 Go
 `GeForce4 440 Go`
 ##### score
@@ -11014,9 +13440,15 @@ Matched: `4267`
 ### GeForce4 Ti 4800
 `GeForce4 Ti 4800`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `GeForce4 Ti 4800 SE`
+- `GeForce4 Ti 4800`
+### GeForce4 Ti 4800
+`GeForce4 Ti 4800`
+##### score
+`1`
+##### matches
+- `GeForce4 Ti 4800`
 ### GeForce4 Ti 4800 SE
 `GeForce4 Ti 4800 SE`
 ##### score
@@ -11058,25 +13490,31 @@ Matched: `4267`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `GeForce2 Ultra`
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Graphics Ultra Pro PCI
 `Graphics Ultra Pro PCI`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `GeForce2 Ultra`
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Graphics Ultra Pro VLB
 `Graphics Ultra Pro VLB`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `GeForce2 Ultra`
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Graphics Ultra XLR VLB
 `Graphics Ultra XLR VLB`
 ##### score
-`0.493` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `Intel Graphics Media Accelerator (GMA) HD Graphics`
+- `GeForce2 Ultra`
 ### Graphics Vantage
 `Graphics Vantage`
 ##### score
@@ -11288,6 +13726,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Intel HD Graphics P630`
+### IMG BXM-8-256
+`IMG BXM-8-256`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `GeForce 256`
 ### ION
 `ION`
 ##### score
@@ -11325,12 +13769,30 @@ Matched: `4267`
 `1`
 ##### matches
 - `ION LE`
+### IncrediblE HD
+`IncrediblE HD`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `HD Graphics`
+### IncrediblE HD 3000
+`IncrediblE HD 3000`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `HD Graphics 3000`
 ### IncrediblE HD 4000
 `IncrediblE HD 4000`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
 - `HD Graphics 4000`
+### IncrediblE HD 4600
+`IncrediblE HD 4600`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `HD Graphics 4600`
 ### Intel - Express Chipset G41
 `Intel - Express Chipset G41`
 ##### score
@@ -11343,18 +13805,54 @@ Matched: `4267`
 `0.243` (below 0.75 threshold)
 ##### matches
 - `Intel Extreme Graphics 2`
+### Intel 2nd Generation SandyBridge HD
+`Intel 2nd Generation SandyBridge HD`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `HD Graphics`
 ### Intel 2nd Generation SandyBridge HD 3000
 `Intel 2nd Generation SandyBridge HD 3000`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
 - `Intel HD Graphics 3000`
+### Intel 3rd Generation IvyBridge HD GT1
+`Intel 3rd Generation IvyBridge HD GT1`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `HD Graphics`
 ### Intel 4th Generation Haswell HD
 `Intel 4th Generation Haswell HD`
 ##### score
 `0.596` (below 0.75 threshold)
 ##### matches
 - `Intel HD Graphics (Haswell)`
+### Intel Arc A370M
+`Intel Arc A370M`
+##### score
+`1`
+##### matches
+- `Intel Arc A370M`
+### Intel Arc A370M
+`Intel Arc A370M`
+##### score
+`1`
+##### matches
+- `Intel Arc A370M`
+### Intel Arc A770M
+`Intel Arc A770M`
+##### score
+`1`
+##### matches
+- `Intel Arc A770M`
+### Intel Arc A770M
+`Intel Arc A770M`
+##### score
+`1`
+##### matches
+- `Intel Arc A770M`
 ### Intel B43 Express Chipset
 `Intel B43 Express Chipset`
 ##### score
@@ -11364,7 +13862,17 @@ Matched: `4267`
 ### Intel Coffee Lake UHD
 `Intel Coffee Lake UHD`
 ##### score
-`0.244` (below 0.75 threshold)
+`0.744` (below 0.75 threshold)
+##### matches
+- `Intel UHD Graphics (Jasper Lake 32 EU)`
+- `Intel UHD Graphics (Elkhart Lake 32 EU)`
+- `Intel UHD Graphics (Jasper Lake 24 EU)`
+- `Intel UHD Graphics (Elkhart Lake 16 EU)`
+- `Intel UHD Graphics (Jasper Lake 16 EU)`
+### Intel Extreme Controller
+`Intel Extreme Controller`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
 ##### matches
 - `Intel Extreme Graphics 2`
 ### Intel Extreme Graphics 2
@@ -11403,6 +13911,18 @@ Matched: `4267`
 `0.243` (below 0.75 threshold)
 ##### matches
 - `Intel Extreme Graphics 2`
+### Intel G45/G43/G41 Express Chipset
+`Intel G45/G43/G41 Express Chipset`
+##### score
+`0.242` (below 0.75 threshold)
+##### matches
+- `Intel Extreme Graphics 2`
+### Intel GMA 3150 Express
+`Intel GMA 3150 Express`
+##### score
+`0.998`
+##### matches
+- `GMA 3150`
 ### Intel Graphics Media Accelerator (GMA) 3150
 `Intel Graphics Media Accelerator (GMA) 3150`
 ##### score
@@ -11457,6 +13977,12 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `GMA X3100`
+### Intel HD 2000
+`Intel HD 2000`
+##### score
+`0.999`
+##### matches
+- `Intel HD Graphics 2000`
 ### Intel HD 3000
 `Intel HD 3000`
 ##### score
@@ -11634,6 +14160,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `HD Graphics 2000`
+- `Intel HD 2000`
 ### Intel HD Graphics 2500
 `Intel HD Graphics 2500`
 ##### score
@@ -11899,6 +14426,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Intel Iris Graphics 6100`
+### Intel Iris 650
+`Intel Iris 650`
+##### score
+`0.998`
+##### matches
+- `Intel Iris Plus Graphics 650`
 ### Intel Iris Graphics 5100
 `Intel Iris Graphics 5100`
 ##### score
@@ -11930,9 +14463,10 @@ Matched: `4267`
 ### Intel Iris Plus
 `Intel Iris Plus`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`0.993`
 ##### matches
-- `Graphics Solution Plus`
+- `Intel Iris Plus Graphics G7 (Ice Lake 64 EU)`
+- `Intel Iris Plus Graphics G4 (Ice Lake 48 EU)`
 ### Intel Iris Plus 640
 `Intel Iris Plus 640`
 ##### score
@@ -11942,10 +14476,9 @@ Matched: `4267`
 ### Intel Iris Plus 645
 `Intel Iris Plus 645`
 ##### score
-`0.244` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `GeForce GT 645 OEM`
-- `GeForce GTX 645 OEM`
+- `Intel Iris Plus Graphics 645`
 ### Intel Iris Plus 650
 `Intel Iris Plus 650`
 ##### score
@@ -11965,6 +14498,12 @@ Matched: `4267`
 ##### matches
 - `Iris Plus Graphics 640`
 - `Intel Iris Plus 640`
+### Intel Iris Plus Graphics 645
+`Intel Iris Plus Graphics 645`
+##### score
+`0.999`
+##### matches
+- `Intel Iris Plus 645`
 ### Intel Iris Plus Graphics 650
 `Intel Iris Plus Graphics 650`
 ##### score
@@ -11979,6 +14518,18 @@ Matched: `4267`
 ##### matches
 - `Iris Plus Graphics 655`
 - `Intel Iris Plus 655`
+### Intel Iris Plus Graphics G4 (Ice Lake 48 EU)
+`Intel Iris Plus Graphics G4 (Ice Lake 48 EU)`
+##### score
+`0.993`
+##### matches
+- `Intel Iris Plus`
+### Intel Iris Plus Graphics G7 (Ice Lake 64 EU)
+`Intel Iris Plus Graphics G7 (Ice Lake 64 EU)`
+##### score
+`0.993`
+##### matches
+- `Intel Iris Plus`
 ### Intel Iris Pro 5200
 `Intel Iris Pro 5200`
 ##### score
@@ -11991,6 +14542,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Intel Iris Pro Graphics 580`
+### Intel Iris Pro 6100
+`Intel Iris Pro 6100`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Intel Iris Graphics 6100`
 ### Intel Iris Pro Graphics 5200
 `Intel Iris Pro Graphics 5200`
 ##### score
@@ -12036,6 +14593,44 @@ Matched: `4267`
 `0.748` (below 0.75 threshold)
 ##### matches
 - `Iris Pro Graphics P6300`
+### Intel Iris Xe
+`Intel Iris Xe`
+##### score
+`0.998`
+##### matches
+- `Intel Iris Xe MAX Graphics`
+### Intel Iris Xe Graphics G7 80EUs
+`Intel Iris Xe Graphics G7 80EUs`
+##### score
+`0.997`
+##### matches
+- `Intel Iris Xe`
+### Intel Iris Xe Graphics G7 96EUs
+`Intel Iris Xe Graphics G7 96EUs`
+##### score
+`0.997`
+##### matches
+- `Intel Iris Xe`
+### Intel Iris Xe MAX
+`Intel Iris Xe MAX`
+##### score
+`0.999`
+##### matches
+- `Intel Iris Xe MAX Graphics`
+### Intel Iris Xe MAX 100
+`Intel Iris Xe MAX 100`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Intel Iris Xe MAX Graphics
+`Intel Iris Xe MAX Graphics`
+##### score
+`0.999`
+##### matches
+- `Intel Iris Xe MAX`
 ### Intel Media Accelerator
 `Intel Media Accelerator`
 ##### score
@@ -12066,12 +14661,24 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `Intel Graphics Media Accelerator (GMA) HD Graphics`
+### Intel Poison Ivy
+`Intel Poison Ivy`
+##### score
+`0.6616666666666666` (below 0.75 threshold)
+##### matches
+- `Intel HD Graphics (Ivy Bridge)`
 ### Intel Q33 Express
 `Intel Q33 Express`
 ##### score
 `0.3283333333333333` (below 0.75 threshold)
 ##### matches
 - `Intel Extreme Graphics 2`
+### Intel Q35 Embedded
+`Intel Q35 Embedded`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Radeon Picasso Embedded`
 ### Intel Q35 Express
 `Intel Q35 Express`
 ##### score
@@ -12096,76 +14703,102 @@ Matched: `4267`
 `0.596` (below 0.75 threshold)
 ##### matches
 - `Intel HD Graphics (Skylake)`
-### Intel UHD
-`Intel UHD`
+### Intel UHD Graphics
+`Intel UHD Graphics`
 ##### score
-`0.496` (below 0.75 threshold)
+`0.998`
 ##### matches
-- `Intel Extreme Graphics 2`
-### Intel UHD 600
-`Intel UHD 600`
+- `Intel UHD Graphics Xe 24EUs`
+### Intel UHD Graphics (Elkhart Lake 16 EU)
+`Intel UHD Graphics (Elkhart Lake 16 EU)`
 ##### score
-`0.999`
+`0.995`
 ##### matches
-- `Intel UHD Graphics 600`
-### Intel UHD 605
-`Intel UHD 605`
+- `Intel UHD Graphics`
+### Intel UHD Graphics (Elkhart Lake 32 EU)
+`Intel UHD Graphics (Elkhart Lake 32 EU)`
 ##### score
-`0.999`
+`0.995`
 ##### matches
-- `Intel UHD Graphics 605`
-### Intel UHD 610
-`Intel UHD 610`
+- `Intel UHD Graphics`
+### Intel UHD Graphics (Jasper Lake 16 EU)
+`Intel UHD Graphics (Jasper Lake 16 EU)`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.995`
 ##### matches
-- `UHD Graphics 610`
-### Intel UHD 615
-`Intel UHD 615`
+- `Intel UHD Graphics`
+### Intel UHD Graphics (Jasper Lake 24 EU)
+`Intel UHD Graphics (Jasper Lake 24 EU)`
 ##### score
-`0.999`
+`0.995`
 ##### matches
-- `Intel UHD Graphics 615`
-### Intel UHD 617
-`Intel UHD 617`
+- `Intel UHD Graphics`
+### Intel UHD Graphics (Jasper Lake 32 EU)
+`Intel UHD Graphics (Jasper Lake 32 EU)`
 ##### score
-`0.999`
+`0.995`
 ##### matches
-- `Intel UHD Graphics 617`
-### Intel UHD 630
-`Intel UHD 630`
-##### score
-`0.999`
-##### matches
-- `Intel UHD Graphics 630`
+- `Intel UHD Graphics`
 ### Intel UHD Graphics 600
 `Intel UHD Graphics 600`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `UHD Graphics 600`
-- `Intel UHD 600`
+- `Intel UHD Graphics 600`
+### Intel UHD Graphics 600
+`Intel UHD Graphics 600`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 600`
 ### Intel UHD Graphics 605
 `Intel UHD Graphics 605`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `UHD Graphics 605`
-- `Intel UHD 605`
+- `Intel UHD Graphics 605`
+### Intel UHD Graphics 605
+`Intel UHD Graphics 605`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 605`
+### Intel UHD Graphics 610
+`Intel UHD Graphics 610`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 610`
+### Intel UHD Graphics 610
+`Intel UHD Graphics 610`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 610`
 ### Intel UHD Graphics 615
 `Intel UHD Graphics 615`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `UHD Graphics 615`
-- `Intel UHD 615`
+- `Intel UHD Graphics 615`
+### Intel UHD Graphics 615
+`Intel UHD Graphics 615`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 615`
 ### Intel UHD Graphics 617
 `Intel UHD Graphics 617`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `UHD Graphics 617`
-- `Intel UHD 617`
+- `Intel UHD Graphics 617`
+### Intel UHD Graphics 617
+`Intel UHD Graphics 617`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 617`
 ### Intel UHD Graphics 620
 `Intel UHD Graphics 620`
 ##### score
@@ -12181,16 +14814,123 @@ Matched: `4267`
 ### Intel UHD Graphics 630
 `Intel UHD Graphics 630`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `UHD Graphics 630`
-- `Intel UHD 630`
-### Intel UHD P630
-`Intel UHD P630`
+- `Intel UHD Graphics 630`
+### Intel UHD Graphics 630
+`Intel UHD Graphics 630`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `Intel HD Graphics P630`
+- `Intel UHD Graphics 630`
+### Intel UHD Graphics 64EUs (Alder Lake 12th Gen)
+`Intel UHD Graphics 64EUs (Alder Lake 12th Gen)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics 710
+`Intel UHD Graphics 710`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GT 710`
+### Intel UHD Graphics 730
+`Intel UHD Graphics 730`
+##### score
+`0.997`
+##### matches
+- `Intel UHD Graphics 730 (Rocket Lake)`
+### Intel UHD Graphics 730 (Rocket Lake)
+`Intel UHD Graphics 730 (Rocket Lake)`
+##### score
+`0.997`
+##### matches
+- `Intel UHD Graphics 730`
+### Intel UHD Graphics 750
+`Intel UHD Graphics 750`
+##### score
+`0.997`
+##### matches
+- `Intel UHD Graphics 750 (Alder Lake)`
+### Intel UHD Graphics 750 (Alder Lake)
+`Intel UHD Graphics 750 (Alder Lake)`
+##### score
+`0.997`
+##### matches
+- `Intel UHD Graphics 750`
+### Intel UHD Graphics 770
+`Intel UHD Graphics 770`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 770`
+### Intel UHD Graphics 770
+`Intel UHD Graphics 770`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics 770`
+### Intel UHD Graphics G1 (Ice Lake 32 EU)
+`Intel UHD Graphics G1 (Ice Lake 32 EU)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics G4 (Lakefield GT1 48 EU)
+`Intel UHD Graphics G4 (Lakefield GT1 48 EU)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics G7 (Lakefield GT2 64 EU)
+`Intel UHD Graphics G7 (Lakefield GT2 64 EU)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics P630
+`Intel UHD Graphics P630`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics P630`
+### Intel UHD Graphics P630
+`Intel UHD Graphics P630`
+##### score
+`1`
+##### matches
+- `Intel UHD Graphics P630`
+### Intel UHD Graphics Xe 16EUs (Tiger Lake-H)
+`Intel UHD Graphics Xe 16EUs (Tiger Lake-H)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics Xe 24EUs
+`Intel UHD Graphics Xe 24EUs`
+##### score
+`0.998`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics Xe 32EUs (Tiger Lake-H)
+`Intel UHD Graphics Xe 32EUs (Tiger Lake-H)`
+##### score
+`0.994`
+##### matches
+- `Intel UHD Graphics`
+### Intel UHD Graphics Xe 750 32EUs (Rocket Lake)
+`Intel UHD Graphics Xe 750 32EUs (Rocket Lake)`
+##### score
+`0.995`
+##### matches
+- `Intel UHD Graphics 750`
+### Intel UHD Graphics Xe G4 48EUs
+`Intel UHD Graphics Xe G4 48EUs`
+##### score
+`0.997`
+##### matches
+- `Intel UHD Graphics`
 ### Intel US15 Embedded Media and Controller
 `Intel US15 Embedded Media and Controller`
 ##### score
@@ -12275,11 +15015,58 @@ Matched: `4267`
 ##### score
 `-0.004` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
+### MCT USB3.0 External Device
+`MCT USB3.0 External Device`
+##### score
+`-0.006` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### MEDION RADEON 9800 XXL
+`MEDION RADEON 9800 XXL`
+##### score
+`0.999`
+##### matches
+- `Radeon 9800 XXL`
+### MIRRORV3
+`MIRRORV3`
+##### score
+`-0.002` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### MOBILITY FIREGL 7800
+`MOBILITY FIREGL 7800`
+##### score
+`1`
+##### matches
+- `Mobility FireGL 7800`
 ### MOBILITY FIREGL T2
 `MOBILITY FIREGL T2`
 ##### score
@@ -12317,6 +15104,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Mobility FireGL V5250`
+### MOBILITY IGP 9000/9100
+`MOBILITY IGP 9000/9100`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Mobility Radeon 9000 IGP`
 ### MOBILITY RADEON 7000 IGP
 `MOBILITY RADEON 7000 IGP`
 ##### score
@@ -12359,6 +15152,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `Mobility Radeon 9200`
+### MOBILITY RADEON 9550
+`MOBILITY RADEON 9550`
+##### score
+`1`
+##### matches
+- `Mobility Radeon 9550`
+### MOBILITY RADEON 9600
+`MOBILITY RADEON 9600`
+##### score
+`1`
+##### matches
+- `Mobility Radeon 9600`
 ### MOBILITY RADEON 9600 PRO TURBO
 `MOBILITY RADEON 9600 PRO TURBO`
 ##### score
@@ -12413,6 +15218,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Mobility Radeon X700`
+### MOBILITY RADEON X700 XL
+`MOBILITY RADEON X700 XL`
+##### score
+`1`
+##### matches
+- `Mobility Radeon X700 XL`
 ### MOBILITY RADEON XPRESS 200
 `MOBILITY RADEON XPRESS 200`
 ##### score
@@ -12425,12 +15236,30 @@ Matched: `4267`
 `1`
 ##### matches
 - `Mobility Radeon 9000`
+### MONSTER GeForce GTX 675M
+`MONSTER GeForce GTX 675M`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 675M`
+### Master X3100 Driver
+`Master X3100 Driver`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `GMA X3100`
 ### Matrox Parhelia APVe
 `Matrox Parhelia APVe`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
 - `Parhelia APVe `
+### Miracast display port driver V3
+`Miracast display port driver V3`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `Volari V3`
 ### Mobile Intel - famiglia Express Chipset 45
 `Mobile Intel - famiglia Express Chipset 45`
 ##### score
@@ -12500,9 +15329,9 @@ Matched: `4267`
 ### Mobility FireGL 7800
 `Mobility FireGL 7800`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `ATI Mobility FireGL 7800`
+- `MOBILITY FIREGL 7800`
 ### Mobility FireGL 9000
 `Mobility FireGL 9000`
 ##### score
@@ -12642,22 +15471,21 @@ Matched: `4267`
 ### Mobility Radeon 9550
 `Mobility Radeon 9550`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `RADEON 9550`
-- `ATI Mobility Radeon 9550`
+- `MOBILITY RADEON 9550`
 ### Mobility Radeon 9600
 `Mobility Radeon 9600`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `MOBILITY RADEON 9600/9700`
-- `ATI Mobility Radeon 9600`
+- `MOBILITY RADEON 9600`
 ### Mobility Radeon 9600 PRO
 `Mobility Radeon 9600 PRO`
 ##### score
 `0.999`
 ##### matches
+- `MOBILITY RADEON 9600`
 - `MOBILITY RADEON 9600 PRO TURBO`
 - `RADEON 9600 PRO`
 ### Mobility Radeon 9600 PRO Turbo
@@ -12762,6 +15590,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `ATI Mobility Radeon HD 2700`
+### Mobility Radeon HD 3400 Serisi
+`Mobility Radeon HD 3400 Serisi`
+##### score
+`0.798`
+##### matches
+- `ATI Mobility Radeon HD 3400`
 ### Mobility Radeon HD 3410
 `Mobility Radeon HD 3410`
 ##### score
@@ -12939,6 +15773,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Mobility Radeon HD 4270`
+### Mobility Radeon HD 4300 Serisi
+`Mobility Radeon HD 4300 Serisi`
+##### score
+`0.3273333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce PCX 4300`
 ### Mobility Radeon HD 4330
 `Mobility Radeon HD 4330`
 ##### score
@@ -13495,9 +16335,9 @@ Matched: `4267`
 ### Mobility Radeon X700 XL
 `Mobility Radeon X700 XL`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `MOBILITY RADEON X700`
+- `MOBILITY RADEON X700 XL`
 ### Mobility Radeon X800
 `Mobility Radeon X800`
 ##### score
@@ -13529,16 +16369,118 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `Radeon Instinct MI25 MxGPU`
+### N16P-GX
+`N16P-GX`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### N18E-Q1
+`N18E-Q1`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
 ### NV1
 `NV1`
 ##### score
 `-0.002` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
+### NV44
+`NV44`
+##### score
+`-0.002` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### NVIDIA A10
+`NVIDIA A10`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A10-4Q
+`NVIDIA A10-4Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A10G
+`NVIDIA A10G`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A40
+`NVIDIA A40`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A40-12Q
+`NVIDIA A40-12Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A40-4Q
+`NVIDIA A40-4Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
+### NVIDIA A40-8Q
+`NVIDIA A40-8Q`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GRID M10-8Q`
+- `GRID M6-8Q`
+- `GRID M60-8Q`
+- `NVIDIA Titan RTX`
+- `NVIDIA ION 2`
 ### NVIDIA GeForce 2 Go (200 / 100)
 `NVIDIA GeForce 2 Go (200 / 100)`
 ##### score
@@ -13553,6 +16495,10 @@ Matched: `4267`
 - `GeForce2 Go`
 - `Tegra 3`
 - `GeForce GPU`
+- `GeForce2 Go`
+- `NVIDIA A10`
+- `NVIDIA A10G`
+- `NVIDIA A40`
 ### NVIDIA GeForce 305M
 `NVIDIA GeForce 305M`
 ##### score
@@ -14083,6 +17029,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GT 240M`
+- `GeForce 240M GT`
 - `GeForce GT 240M`
 ### NVIDIA GeForce GT 320M
 `NVIDIA GeForce GT 320M`
@@ -14199,10 +17146,9 @@ Matched: `4267`
 ### NVIDIA GeForce GT 620M
 `NVIDIA GeForce GT 620M`
 ##### score
-`0.999`
+`1.75`
 ##### matches
-- `GeForce GT 620M`
-- `GeForce GT 620M`
+- `GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
 ### NVIDIA GeForce GT 625M
 `NVIDIA GeForce GT 625M`
 ##### score
@@ -14259,13 +17205,19 @@ Matched: `4267`
 ##### matches
 - `GeForce GT 650M`
 - `GeForce GT 650M`
-### NVIDIA GeForce GT 720M
-`NVIDIA GeForce GT 720M`
+### NVIDIA GeForce GT 710
+`NVIDIA GeForce GT 710`
 ##### score
 `0.999`
 ##### matches
-- `GeForce GT 720M`
-- `GeForce GT 720M`
+- `GeForce GT 710`
+- `GeForce GT 710`
+### NVIDIA GeForce GT 720M
+`NVIDIA GeForce GT 720M`
+##### score
+`1.75`
+##### matches
+- `GeForce GT 610M / GT 620M / GT 710M / GT 720M / GT`
 ### NVIDIA GeForce GT 730M
 `NVIDIA GeForce GT 730M`
 ##### score
@@ -14328,6 +17280,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GTS 150M`
+- `GeForce GTS 150M`
 ### NVIDIA GeForce GTS 160M
 `NVIDIA GeForce GTS 160M`
 ##### score
@@ -14376,28 +17329,20 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1050`
 - `GeForce GTX 1050`
-### NVIDIA GeForce GTX 1050 (Laptop)
-`NVIDIA GeForce GTX 1050 (Laptop)`
-##### score
-`0.997`
-##### matches
-- `GeForce GTX 1050`
-- `GeForce GTX 1050`
 ### NVIDIA GeForce GTX 1050 Max-Q
 `NVIDIA GeForce GTX 1050 Max-Q`
 ##### score
 `0.999`
 ##### matches
 - `GeForce GTX 1050 Max-Q`
+### NVIDIA GeForce GTX 1050 Mobile
+`NVIDIA GeForce GTX 1050 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1050 Mobile`
 ### NVIDIA GeForce GTX 1050 Ti (Desktop)
 `NVIDIA GeForce GTX 1050 Ti (Desktop)`
-##### score
-`0.997`
-##### matches
-- `GeForce GTX 1050 Ti`
-- `GeForce GTX 1050 Ti`
-### NVIDIA GeForce GTX 1050 Ti (Laptop)
-`NVIDIA GeForce GTX 1050 Ti (Laptop)`
 ##### score
 `0.997`
 ##### matches
@@ -14409,14 +17354,14 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GTX 1050 Ti Max-Q`
+### NVIDIA GeForce GTX 1050 Ti Mobile
+`NVIDIA GeForce GTX 1050 Ti Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1050 Ti Mobile`
 ### NVIDIA GeForce GTX 1060 (Desktop)
 `NVIDIA GeForce GTX 1060 (Desktop)`
-##### score
-`0.997`
-##### matches
-- `GeForce GTX 1060`
-### NVIDIA GeForce GTX 1060 (Laptop)
-`NVIDIA GeForce GTX 1060 (Laptop)`
 ##### score
 `0.997`
 ##### matches
@@ -14427,15 +17372,14 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GTX 1060 Max-Q`
+### NVIDIA GeForce GTX 1060 Mobile
+`NVIDIA GeForce GTX 1060 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1060 Mobile`
 ### NVIDIA GeForce GTX 1070 (Desktop)
 `NVIDIA GeForce GTX 1070 (Desktop)`
-##### score
-`0.997`
-##### matches
-- `GeForce GTX 1070`
-- `GeForce GTX 1070`
-### NVIDIA GeForce GTX 1070 (Laptop)
-`NVIDIA GeForce GTX 1070 (Laptop)`
 ##### score
 `0.997`
 ##### matches
@@ -14447,6 +17391,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce GTX 1070 Max-Q`
+### NVIDIA GeForce GTX 1070 Mobile
+`NVIDIA GeForce GTX 1070 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1070 Mobile`
 ### NVIDIA GeForce GTX 1070 SLI (Desktop)
 `NVIDIA GeForce GTX 1070 SLI (Desktop)`
 ##### score
@@ -14475,19 +17425,18 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1080`
 - `GeForce GTX 1080`
-### NVIDIA GeForce GTX 1080 (Laptop)
-`NVIDIA GeForce GTX 1080 (Laptop)`
-##### score
-`0.997`
-##### matches
-- `GeForce GTX 1080`
-- `GeForce GTX 1080`
 ### NVIDIA GeForce GTX 1080 Max-Q
 `NVIDIA GeForce GTX 1080 Max-Q`
 ##### score
 `0.999`
 ##### matches
 - `GeForce GTX 1080 Max-Q`
+### NVIDIA GeForce GTX 1080 Mobile
+`NVIDIA GeForce GTX 1080 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1080 Mobile`
 ### NVIDIA GeForce GTX 1080 SLI (Laptop)
 `NVIDIA GeForce GTX 1080 SLI (Laptop)`
 ##### score
@@ -14502,12 +17451,77 @@ Matched: `4267`
 ##### matches
 - `GeForce GTX 1080 Ti`
 - `GeForce GTX 1080 Ti`
-### NVIDIA GeForce GTX 1660 Ti (Laptop)
-`NVIDIA GeForce GTX 1660 Ti (Laptop)`
+### NVIDIA GeForce GTX 1650 (Desktop)
+`NVIDIA GeForce GTX 1650 (Desktop)`
+##### score
+`0.997`
+##### matches
+- `GeForce GTX 1650`
+- `GeForce GTX 1650`
+### NVIDIA GeForce GTX 1650 Max-Q
+`NVIDIA GeForce GTX 1650 Max-Q`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1650 Max-Q`
+### NVIDIA GeForce GTX 1650 Mobile
+`NVIDIA GeForce GTX 1650 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce GTX 1650 Mobile`
+### NVIDIA GeForce GTX 1650 Super (Desktop)
+`NVIDIA GeForce GTX 1650 Super (Desktop)`
+##### score
+`0.997`
+##### matches
+- `GeForce GTX 1650 SUPER`
+### NVIDIA GeForce GTX 1650 Ti Max-Q
+`NVIDIA GeForce GTX 1650 Ti Max-Q`
+##### score
+`0.998`
+##### matches
+- `GeForce GTX 1650 Max-Q`
+### NVIDIA GeForce GTX 1650 Ti Mobile
+`NVIDIA GeForce GTX 1650 Ti Mobile`
+##### score
+`0.998`
+##### matches
+- `GeForce GTX 1650 Mobile`
+- `GeForce GTX 1650 Ti`
+### NVIDIA GeForce GTX 1660 (Desktop)
+`NVIDIA GeForce GTX 1660 (Desktop)`
+##### score
+`0.997`
+##### matches
+- `GeForce GTX 1660`
+- `GeForce GTX 1660`
+### NVIDIA GeForce GTX 1660 Super (Desktop)
+`NVIDIA GeForce GTX 1660 Super (Desktop)`
+##### score
+`0.997`
+##### matches
+- `GeForce GTX 1660 SUPER`
+### NVIDIA GeForce GTX 1660 Ti (Desktop)
+`NVIDIA GeForce GTX 1660 Ti (Desktop)`
 ##### score
 `0.997`
 ##### matches
 - `GeForce GTX 1660 Ti`
+- `GeForce GTX 1660 Ti`
+### NVIDIA GeForce GTX 1660 Ti Max-Q
+`NVIDIA GeForce GTX 1660 Ti Max-Q`
+##### score
+`0.998`
+##### matches
+- `GeForce GTX 1660 Max-Q`
+### NVIDIA GeForce GTX 1660 Ti Mobile
+`NVIDIA GeForce GTX 1660 Ti Mobile`
+##### score
+`0.998`
+##### matches
+- `GeForce GTX 1660 Ti`
+- `GeForce GTX 1660 Mobile`
 - `GeForce GTX 1660 Ti`
 ### NVIDIA GeForce GTX 260M
 `NVIDIA GeForce GTX 260M`
@@ -15197,15 +18211,45 @@ Matched: `4267`
 ##### matches
 - `GeForce MX250`
 - `GeForce MX250`
+### NVIDIA GeForce MX330
+`NVIDIA GeForce MX330`
+##### score
+`0.999`
+##### matches
+- `GeForce MX330`
+### NVIDIA GeForce MX350
+`NVIDIA GeForce MX350`
+##### score
+`0.999`
+##### matches
+- `GeForce MX350`
+### NVIDIA GeForce MX450
+`NVIDIA GeForce MX450`
+##### score
+`0.999`
+##### matches
+- `GeForce MX450`
+### NVIDIA GeForce MX550
+`NVIDIA GeForce MX550`
+##### score
+`0.999`
+##### matches
+- `GeForce MX550`
+### NVIDIA GeForce MX570
+`NVIDIA GeForce MX570`
+##### score
+`0.999`
+##### matches
+- `GeForce MX570`
+### NVIDIA GeForce RTX 2050 Mobile
+`NVIDIA GeForce RTX 2050 Mobile`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 2050`
+- `GeForce RTX 2050`
 ### NVIDIA GeForce RTX 2060 (Desktop)
 `NVIDIA GeForce RTX 2060 (Desktop)`
-##### score
-`0.997`
-##### matches
-- `GeForce RTX 2060`
-- `GeForce RTX 2060`
-### NVIDIA GeForce RTX 2060 (Laptop)
-`NVIDIA GeForce RTX 2060 (Laptop)`
 ##### score
 `0.997`
 ##### matches
@@ -15218,15 +18262,20 @@ Matched: `4267`
 ##### matches
 - `GeForce RTX 2060`
 - `GeForce RTX 2060`
-### NVIDIA GeForce RTX 2070 (Desktop)
-`NVIDIA GeForce RTX 2070 (Desktop)`
+### NVIDIA GeForce RTX 2060 Mobile
+`NVIDIA GeForce RTX 2060 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 2060 Mobile`
+### NVIDIA GeForce RTX 2060 Super (Desktop)
+`NVIDIA GeForce RTX 2060 Super (Desktop)`
 ##### score
 `0.997`
 ##### matches
-- `GeForce RTX 2070`
-- `GeForce RTX 2070`
-### NVIDIA GeForce RTX 2070 (Laptop)
-`NVIDIA GeForce RTX 2070 (Laptop)`
+- `GeForce RTX 2060 SUPER`
+### NVIDIA GeForce RTX 2070 (Desktop)
+`NVIDIA GeForce RTX 2070 (Desktop)`
 ##### score
 `0.997`
 ##### matches
@@ -15238,15 +18287,33 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce RTX 2070 Max-Q`
-### NVIDIA GeForce RTX 2080 (Desktop)
-`NVIDIA GeForce RTX 2080 (Desktop)`
+### NVIDIA GeForce RTX 2070 Mobile
+`NVIDIA GeForce RTX 2070 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 2070 Mobile`
+### NVIDIA GeForce RTX 2070 Super (Desktop)
+`NVIDIA GeForce RTX 2070 Super (Desktop)`
 ##### score
 `0.997`
 ##### matches
-- `GeForce RTX 2080`
-- `GeForce RTX 2080`
-### NVIDIA GeForce RTX 2080 (Laptop)
-`NVIDIA GeForce RTX 2080 (Laptop)`
+- `GeForce RTX 2070 SUPER`
+### NVIDIA GeForce RTX 2070 Super Max-Q
+`NVIDIA GeForce RTX 2070 Super Max-Q`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 2070 Max-Q`
+### NVIDIA GeForce RTX 2070 Super Mobile
+`NVIDIA GeForce RTX 2070 Super Mobile`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 2070 Mobile`
+- `GeForce RTX 2070 SUPER`
+### NVIDIA GeForce RTX 2080 (Desktop)
+`NVIDIA GeForce RTX 2080 (Desktop)`
 ##### score
 `0.997`
 ##### matches
@@ -15258,6 +18325,31 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `GeForce RTX 2080 Max-Q`
+### NVIDIA GeForce RTX 2080 Mobile
+`NVIDIA GeForce RTX 2080 Mobile`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 2080 Mobile`
+### NVIDIA GeForce RTX 2080 Super (Desktop)
+`NVIDIA GeForce RTX 2080 Super (Desktop)`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 2080 SUPER`
+### NVIDIA GeForce RTX 2080 Super Max-Q
+`NVIDIA GeForce RTX 2080 Super Max-Q`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 2080 Max-Q`
+### NVIDIA GeForce RTX 2080 Super Mobile
+`NVIDIA GeForce RTX 2080 Super Mobile`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 2080 Mobile`
+- `GeForce RTX 2080 SUPER`
 ### NVIDIA GeForce RTX 2080 Ti (Desktop)
 `NVIDIA GeForce RTX 2080 Ti (Desktop)`
 ##### score
@@ -15265,6 +18357,192 @@ Matched: `4267`
 ##### matches
 - `GeForce RTX 2080 Ti`
 - `GeForce RTX 2080 Ti`
+### NVIDIA GeForce RTX 3050
+`NVIDIA GeForce RTX 3050`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3050`
+### NVIDIA GeForce RTX 3050 4GB Laptop GPU
+`NVIDIA GeForce RTX 3050 4GB Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3050 4GB Laptop GPU`
+### NVIDIA GeForce RTX 3050 6GB Laptop GPU
+`NVIDIA GeForce RTX 3050 6GB Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3050 6GB Laptop GPU`
+### NVIDIA GeForce RTX 3050 Ti Laptop GPU
+`NVIDIA GeForce RTX 3050 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3050 Ti Laptop GPU`
+### NVIDIA GeForce RTX 3060
+`NVIDIA GeForce RTX 3060`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3060`
+### NVIDIA GeForce RTX 3060 Laptop GPU
+`NVIDIA GeForce RTX 3060 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3060 Laptop GPU`
+### NVIDIA GeForce RTX 3060 Max-Q
+`NVIDIA GeForce RTX 3060 Max-Q`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 3060`
+### NVIDIA GeForce RTX 3060 Ti
+`NVIDIA GeForce RTX 3060 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3060 Ti`
+### NVIDIA GeForce RTX 3070
+`NVIDIA GeForce RTX 3070`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3070`
+### NVIDIA GeForce RTX 3070 Laptop GPU
+`NVIDIA GeForce RTX 3070 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3070 Laptop GPU`
+### NVIDIA GeForce RTX 3070 Max-Q
+`NVIDIA GeForce RTX 3070 Max-Q`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 3070`
+### NVIDIA GeForce RTX 3070 Ti
+`NVIDIA GeForce RTX 3070 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3070 Ti`
+### NVIDIA GeForce RTX 3070 Ti Laptop GPU
+`NVIDIA GeForce RTX 3070 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3070 Ti Laptop GPU`
+### NVIDIA GeForce RTX 3080
+`NVIDIA GeForce RTX 3080`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3080`
+### NVIDIA GeForce RTX 3080 12 GB
+`NVIDIA GeForce RTX 3080 12 GB`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 3080`
+### NVIDIA GeForce RTX 3080 Laptop GPU
+`NVIDIA GeForce RTX 3080 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3080 Laptop GPU`
+### NVIDIA GeForce RTX 3080 Max-Q
+`NVIDIA GeForce RTX 3080 Max-Q`
+##### score
+`0.997`
+##### matches
+- `GeForce RTX 3080`
+### NVIDIA GeForce RTX 3080 Ti
+`NVIDIA GeForce RTX 3080 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3080 Ti`
+### NVIDIA GeForce RTX 3080 Ti Laptop GPU
+`NVIDIA GeForce RTX 3080 Ti Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3080 Ti Laptop GPU`
+### NVIDIA GeForce RTX 3090
+`NVIDIA GeForce RTX 3090`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3090`
+### NVIDIA GeForce RTX 3090 Ti
+`NVIDIA GeForce RTX 3090 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 3090 Ti`
+### NVIDIA GeForce RTX 4050 Laptop GPU
+`NVIDIA GeForce RTX 4050 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4050 Laptop GPU`
+### NVIDIA GeForce RTX 4060 Laptop GPU
+`NVIDIA GeForce RTX 4060 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4060 Laptop GPU`
+### NVIDIA GeForce RTX 4060 Ti 8G
+`NVIDIA GeForce RTX 4060 Ti 8G`
+##### score
+`0.998`
+##### matches
+- `GeForce RTX 4060 Ti`
+### NVIDIA GeForce RTX 4070
+`NVIDIA GeForce RTX 4070`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4070`
+### NVIDIA GeForce RTX 4070 Laptop GPU
+`NVIDIA GeForce RTX 4070 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4070 Laptop GPU`
+### NVIDIA GeForce RTX 4070 Ti
+`NVIDIA GeForce RTX 4070 Ti`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4070 Ti`
+### NVIDIA GeForce RTX 4080
+`NVIDIA GeForce RTX 4080`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4080`
+### NVIDIA GeForce RTX 4080 Laptop GPU
+`NVIDIA GeForce RTX 4080 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4080 Laptop GPU`
+### NVIDIA GeForce RTX 4090
+`NVIDIA GeForce RTX 4090`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4090`
+### NVIDIA GeForce RTX 4090 Laptop GPU
+`NVIDIA GeForce RTX 4090 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `GeForce RTX 4090 Laptop GPU`
 ### NVIDIA GeForce Tegra 4
 `NVIDIA GeForce Tegra 4`
 ##### score
@@ -15283,6 +18561,12 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `Tegra 3`
+### NVIDIA GeForce3 Ti200
+`NVIDIA GeForce3 Ti200`
+##### score
+`0.999`
+##### matches
+- `GeForce3 Ti200`
 ### NVIDIA GeForce4 4200 Go
 `NVIDIA GeForce4 4200 Go`
 ##### score
@@ -15296,13 +18580,15 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `ION 2`
-### NVIDIA Maxwell GPU Surface Book (940M, GDDR5)
-`NVIDIA Maxwell GPU Surface Book (940M, GDDR5)`
+### NVIDIA Maxwell GPU Surface Book
+`NVIDIA Maxwell GPU Surface Book`
 ##### score
-`0.492` (below 0.75 threshold)
+`0.495` (below 0.75 threshold)
 ##### matches
-- `GeForce 940M`
-- `GeForce 940M`
+- `GeForce GPU`
+- `NVIDIA A10`
+- `NVIDIA A10G`
+- `NVIDIA A40`
 ### NVIDIA NVS 2100M
 `NVIDIA NVS 2100M`
 ##### score
@@ -15589,6 +18875,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Quadro K500M`
+- `Quadro K500M`
 ### NVIDIA Quadro K5100M
 `NVIDIA Quadro K5100M`
 ##### score
@@ -15843,6 +19130,12 @@ Matched: `4267`
 ##### matches
 - `Quadro P5000`
 - `Quadro P5000`
+### NVIDIA Quadro P520
+`NVIDIA Quadro P520`
+##### score
+`0.999`
+##### matches
+- `Quadro P520`
 ### NVIDIA Quadro P5200
 `NVIDIA Quadro P5200`
 ##### score
@@ -15856,6 +19149,168 @@ Matched: `4267`
 ##### matches
 - `Quadro P600`
 - `Quadro P600`
+### NVIDIA Quadro P620
+`NVIDIA Quadro P620`
+##### score
+`0.999`
+##### matches
+- `Quadro P620`
+- `Quadro P620`
+### NVIDIA Quadro RTX 3000 (Laptop)
+`NVIDIA Quadro RTX 3000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 3000`
+### NVIDIA Quadro RTX 3000 Max-Q
+`NVIDIA Quadro RTX 3000 Max-Q`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 3000`
+### NVIDIA Quadro RTX 4000 (Laptop)
+`NVIDIA Quadro RTX 4000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 4000`
+- `Quadro RTX 4000`
+### NVIDIA Quadro RTX 4000 Max-Q
+`NVIDIA Quadro RTX 4000 Max-Q`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 4000`
+- `Quadro RTX 4000`
+### NVIDIA Quadro RTX 5000 (Laptop)
+`NVIDIA Quadro RTX 5000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 5000`
+- `Quadro RTX 5000`
+### NVIDIA Quadro RTX 5000 Max-Q
+`NVIDIA Quadro RTX 5000 Max-Q`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 5000`
+- `Quadro RTX 5000`
+### NVIDIA Quadro RTX 6000 (Laptop)
+`NVIDIA Quadro RTX 6000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro RTX 6000`
+- `Quadro RTX 6000`
+### NVIDIA Quadro T1000 (Laptop)
+`NVIDIA Quadro T1000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro T1000`
+### NVIDIA Quadro T1000 Max-Q
+`NVIDIA Quadro T1000 Max-Q`
+##### score
+`0.997`
+##### matches
+- `Quadro T1000`
+### NVIDIA Quadro T2000 (Laptop)
+`NVIDIA Quadro T2000 (Laptop)`
+##### score
+`0.997`
+##### matches
+- `Quadro T2000`
+### NVIDIA Quadro T2000 Max-Q
+`NVIDIA Quadro T2000 Max-Q`
+##### score
+`0.997`
+##### matches
+- `Quadro T2000`
+### NVIDIA RTX A1000 Laptop GPU
+`NVIDIA RTX A1000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A1000 Laptop GPU`
+### NVIDIA RTX A2000 Laptop GPU
+`NVIDIA RTX A2000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A2000 Laptop GPU`
+### NVIDIA RTX A3000 Laptop GPU
+`NVIDIA RTX A3000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A3000 Laptop GPU`
+### NVIDIA RTX A4000 Laptop GPU
+`NVIDIA RTX A4000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A4000 Laptop GPU`
+### NVIDIA RTX A4500 Laptop GPU
+`NVIDIA RTX A4500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A4500 Laptop GPU`
+### NVIDIA RTX A500 Laptop GPU
+`NVIDIA RTX A500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A500 Laptop GPU`
+### NVIDIA RTX A5000 Laptop GPU
+`NVIDIA RTX A5000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A5000 Laptop GPU`
+### NVIDIA RTX A5500 Laptop GPU
+`NVIDIA RTX A5500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `RTX A5500 Laptop GPU`
+### NVIDIA RTX A6000
+`NVIDIA RTX A6000`
+##### score
+`0.999`
+##### matches
+- `RTX A6000`
+### NVIDIA T1200 Laptop GPU
+`NVIDIA T1200 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `T1200 Laptop GPU`
+### NVIDIA T500 Laptop GPU
+`NVIDIA T500 Laptop GPU`
+##### score
+`0.997`
+##### matches
+- `T500`
+### NVIDIA T550 Laptop GPU
+`NVIDIA T550 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `T550 Laptop GPU`
+### NVIDIA T600
+`NVIDIA T600`
+##### score
+`0.999`
+##### matches
+- `T600`
+### NVIDIA T600 Laptop GPU
+`NVIDIA T600 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `T600 Laptop GPU`
 ### NVIDIA TITAN X
 `NVIDIA TITAN X`
 ##### score
@@ -16032,10 +19487,10 @@ Matched: `4267`
 `1`
 ##### matches
 - `NVS 810`
-### OpenXT Display Driver
-`OpenXT Display Driver`
+### NXP PXP
+`NXP PXP`
 ##### score
-`-0.004` (below 0.75 threshold)
+`-0.003` (below 0.75 threshold)
 ##### matches
 - `WinBoost`
 - `WinCharger`
@@ -16046,13 +19501,51 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
-- `unknown`
-### P106-090
-`P106-090`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
+- `GeForce3`
+- `ION`
+- `MIRRORV3`
+- `MxGPU`
+- `NV44`
+- `Xabre`
+### OPAL XT/GL
+`OPAL XT/GL`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Volari V3 XT`
+### P104-100
+`P104-100`
+##### score
+`1`
+##### matches
+- `P104-100`
+### P104-100
+`P104-100`
+##### score
+`1`
+##### matches
+- `P104-100`
+### P104-101
+`P104-101`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
-- `P106-100`
+- `P104-100`
+### P106-090
+`P106-090`
+##### score
+`1`
+##### matches
+- `P106-090`
+### P106-090
+`P106-090`
+##### score
+`1`
+##### matches
+- `P106-090`
 ### P106-100
 `P106-100`
 ##### score
@@ -16074,9 +19567,11 @@ Matched: `4267`
 ### PHDGD Ivy 5
 `PHDGD Ivy 5`
 ##### score
-`0.3263333333333333` (below 0.75 threshold)
+`0.3273333333333333` (below 0.75 threshold)
 ##### matches
-- `Intel HD Graphics (Ivy Bridge)`
+- `Apple A16 GPU 5-Core`
+- `Apple A15 GPU 5-Core`
+- `AMD Radeon RX Vega 5`
 ### PHDGD Quantic C3
 `PHDGD Quantic C3`
 ##### score
@@ -16112,6 +19607,7 @@ Matched: `4267`
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
 - `FireGL T2-128`
+- `Rage 128 Pro`
 ### Parhelia 256 MB
 `Parhelia 256 MB`
 ##### score
@@ -16139,9 +19635,9 @@ Matched: `4267`
 ### PlayStation 4 GPU
 `PlayStation 4 GPU`
 ##### score
-`0.497` (below 0.75 threshold)
+`0.6626666666666666` (below 0.75 threshold)
 ##### matches
-- `GeForce GPU`
+- `Apple A15 GPU 4-Core`
 ### Playstation 4 Pro GPU
 `Playstation 4 Pro GPU`
 ##### score
@@ -16149,6 +19645,37 @@ Matched: `4267`
 ##### matches
 - `GeForce GPU`
 - `Quadro2 Pro`
+- `Radeon Pro`
+### Q12U-1
+`Q12U-1`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
+### QXL KMDOD
+`QXL KMDOD`
+##### score
+`-0.003` (below 0.75 threshold)
+##### matches
+- `WinBoost`
+- `WinCharger`
+- `WinTurbo`
+- `NV1`
+- `STG`
+- `GeForce3`
+- `Quadro`
+- `GMA`
+- `ION`
+- `unknown`
 ### Quadro
 `Quadro`
 ##### score
@@ -16209,6 +19736,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Quadro 2000M`
+### Quadro 2100M
+`Quadro 2100M`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `NVS 2100M`
 ### Quadro 280 NVS PCIe
 `Quadro 280 NVS PCIe`
 ##### score
@@ -16374,9 +19907,15 @@ Matched: `4267`
 ### Quadro 7000
 `Quadro 7000`
 ##### score
-`0.496` (below 0.75 threshold)
+`1`
 ##### matches
-- `MOBILITY RADEON 7000 IGP`
+- `Quadro 7000`
+### Quadro 7000
+`Quadro 7000`
+##### score
+`1`
+##### matches
+- `Quadro 7000`
 ### Quadro CX
 `Quadro CX`
 ##### score
@@ -16536,9 +20075,15 @@ Matched: `4267`
 ### Quadro FX 2000
 `Quadro FX 2000`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Quadro 2000`
+- `Quadro FX 2000`
+### Quadro FX 2000
+`Quadro FX 2000`
+##### score
+`1`
+##### matches
+- `Quadro FX 2000`
 ### Quadro FX 2500M
 `Quadro FX 2500M`
 ##### score
@@ -16551,6 +20096,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Quadro FX 2500M`
+### Quadro FX 2700
+`Quadro FX 2700`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `Mobility Radeon HD 2700`
 ### Quadro FX 2700M
 `Quadro FX 2700M`
 ##### score
@@ -16587,6 +20138,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Quadro FX 3000`
+### Quadro FX 3000G
+`Quadro FX 3000G`
+##### score
+`0.3273333333333333` (below 0.75 threshold)
+##### matches
+- `Radeon Vega 3 Athlon 3000G`
 ### Quadro FX 330
 `Quadro FX 330`
 ##### score
@@ -16721,6 +20278,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Quadro FX 370 LP`
+### Quadro FX 370 Low Profile
+`Quadro FX 370 Low Profile`
+##### score
+`0.998`
+##### matches
+- `Quadro FX 370`
 ### Quadro FX 3700
 `Quadro FX 3700`
 ##### score
@@ -16820,21 +20383,34 @@ Matched: `4267`
 ### Quadro FX 4000
 `Quadro FX 4000`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Quadro 4000`
+- `Quadro FX 4000`
+### Quadro FX 4000
+`Quadro FX 4000`
+##### score
+`1`
+##### matches
+- `Quadro FX 4000`
 ### Quadro FX 4000 SDI
 `Quadro FX 4000 SDI`
 ##### score
 `0.999`
 ##### matches
 - `Quadro FX 3450/4000 SDI`
+- `Quadro FX 4000`
 ### Quadro FX 4400
 `Quadro FX 4400`
 ##### score
 `0.999`
 ##### matches
 - `Quadro FX 3400/4400`
+### Quadro FX 4400G
+`Quadro FX 4400G`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `Radeon Ryzen 5 4400G`
 ### Quadro FX 4500
 `Quadro FX 4500`
 ##### score
@@ -16856,9 +20432,15 @@ Matched: `4267`
 ### Quadro FX 4500 X2
 `Quadro FX 4500 X2`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Quadro FX 4500`
+- `Quadro FX 4500 X2`
+### Quadro FX 4500 X2
+`Quadro FX 4500 X2`
+##### score
+`1`
+##### matches
+- `Quadro FX 4500 X2`
 ### Quadro FX 4600
 `Quadro FX 4600`
 ##### score
@@ -16883,7 +20465,6 @@ Matched: `4267`
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
 - `GeForce GTX 470`
-- `Radeon RX 470`
 ### Quadro FX 4700 X2
 `Quadro FX 4700 X2`
 ##### score
@@ -17356,9 +20937,15 @@ Matched: `4267`
 ### Quadro K500M
 `Quadro K500M`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `NVIDIA Quadro K500M`
+- `Quadro K500M`
+### Quadro K500M
+`Quadro K500M`
+##### score
+`1`
+##### matches
+- `Quadro K500M`
 ### Quadro K5100M
 `Quadro K5100M`
 ##### score
@@ -17784,13 +21371,20 @@ Matched: `4267`
 `0.748` (below 0.75 threshold)
 ##### matches
 - `Quadro 280 NVS PCIe`
+- `Quadro NVS 280 PCI`
 - `Quadro NVS 280 SD`
 ### Quadro NVS 280 PCI
 `Quadro NVS 280 PCI`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Quadro NVS 55/280 PCI`
+- `Quadro NVS 280 PCI`
+### Quadro NVS 280 PCI
+`Quadro NVS 280 PCI`
+##### score
+`1`
+##### matches
+- `Quadro NVS 280 PCI`
 ### Quadro NVS 280 PCIe
 `Quadro NVS 280 PCIe`
 ##### score
@@ -17911,6 +21505,18 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro CX`
+### Quadro NVS 510M
+`Quadro NVS 510M`
+##### score
+`1`
+##### matches
+- `Quadro NVS 510M`
+### Quadro NVS 510M
+`Quadro NVS 510M`
+##### score
+`1`
+##### matches
+- `Quadro NVS 510M`
 ### Quadro NVS 55 PCI
 `Quadro NVS 55 PCI`
 ##### score
@@ -18097,6 +21703,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Quadro P5000`
+### Quadro P520
+`Quadro P520`
+##### score
+`0.999`
+##### matches
+- `NVIDIA Quadro P520`
 ### Quadro P5200
 `Quadro P5200`
 ##### score
@@ -18194,31 +21806,34 @@ Matched: `4267`
 ##### score
 `0.3283333333333333` (below 0.75 threshold)
 ##### matches
+- `FireMV 2200 PCI`
 - `FireMV 2200 PCIe`
 ### Quadro Plex 2200 S4
 `Quadro Plex 2200 S4`
 ##### score
 `0.3283333333333333` (below 0.75 threshold)
 ##### matches
+- `FireMV 2200 PCI`
 - `FireMV 2200 PCIe`
 ### Quadro Plex 7000
 `Quadro Plex 7000`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `MOBILITY RADEON 7000 IGP`
+- `Quadro 7000`
 ### Quadro RTX 3000
 `Quadro RTX 3000`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `Quadro FX 3000`
+- `NVIDIA Quadro RTX 3000 (Laptop)`
+- `NVIDIA Quadro RTX 3000 Max-Q`
 ### Quadro RTX 3000 with Max-Q Design
 `Quadro RTX 3000 with Max-Q Design`
 ##### score
-`0.6606666666666666` (below 0.75 threshold)
+`0.8303333333333334`
 ##### matches
-- `Quadro FX 3000`
+- `NVIDIA Quadro RTX 3000 Max-Q`
 ### Quadro RTX 4000
 `Quadro RTX 4000`
 ##### score
@@ -18229,6 +21844,12 @@ Matched: `4267`
 `Quadro RTX 4000`
 ##### score
 `1`
+##### matches
+- `Quadro RTX 4000`
+### Quadro RTX 4000 (Mobile)
+`Quadro RTX 4000 (Mobile)`
+##### score
+`0.998`
 ##### matches
 - `Quadro RTX 4000`
 ### Quadro RTX 4000 with Max-Q Design
@@ -18285,6 +21906,32 @@ Matched: `4267`
 `1`
 ##### matches
 - `Quadro RTX 8000`
+### Quadro T1000
+`Quadro T1000`
+##### score
+`0.997`
+##### matches
+- `NVIDIA Quadro T1000 (Laptop)`
+- `NVIDIA Quadro T1000 Max-Q`
+### Quadro T1000 with Max-Q Design
+`Quadro T1000 with Max-Q Design`
+##### score
+`0.797`
+##### matches
+- `NVIDIA Quadro T1000 Max-Q`
+### Quadro T2000
+`Quadro T2000`
+##### score
+`0.997`
+##### matches
+- `NVIDIA Quadro T2000 (Laptop)`
+- `NVIDIA Quadro T2000 Max-Q`
+### Quadro T2000 with Max-Q Design
+`Quadro T2000 with Max-Q Design`
+##### score
+`0.797`
+##### matches
+- `NVIDIA Quadro T2000 Max-Q`
 ### Quadro VX 200
 `Quadro VX 200`
 ##### score
@@ -18297,15 +21944,21 @@ Matched: `4267`
 ### Quadro2 MXR
 `Quadro2 MXR`
 ##### score
-`0.498` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Quadro2 Pro`
+- `Quadro2 MXR/EX`
 ### Quadro2 MXR Low Profile
 `Quadro2 MXR Low Profile`
 ##### score
-`0.496` (below 0.75 threshold)
+`0.6636666666666666` (below 0.75 threshold)
 ##### matches
-- `Quadro2 Pro`
+- `Quadro2 MXR/EX`
+### Quadro2 MXR/EX
+`Quadro2 MXR/EX`
+##### score
+`0.999`
+##### matches
+- `Quadro2 MXR`
 ### Quadro2 Pro
 `Quadro2 Pro`
 ##### score
@@ -18323,12 +21976,14 @@ Matched: `4267`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
+- `P104-100`
 - `P106-100`
 ### Quadro4 100 NVS PCI
 `Quadro4 100 NVS PCI`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `P104-100`
 - `P106-100`
 ### Quadro4 200 NVS
 `Quadro4 200 NVS`
@@ -18376,11 +22031,9 @@ Matched: `4267`
 ### Quadro4 550 XGL
 `Quadro4 550 XGL`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`0.497` (below 0.75 threshold)
 ##### matches
-- `Intel Iris 550`
-- `Quadro FX 550`
-- `Radeon RX 550`
+- `Radeon 550`
 ### Quadro4 580 XGL
 `Quadro4 580 XGL`
 ##### score
@@ -18399,9 +22052,15 @@ Matched: `4267`
 ### Quadro4 900 XGL
 `Quadro4 900 XGL`
 ##### score
-`0.3263333333333333` (below 0.75 threshold)
+`1`
 ##### matches
-- `Intel Graphics Media Accelerator (GMA) 900`
+- `Quadro4 900 XGL`
+### Quadro4 900 XGL
+`Quadro4 900 XGL`
+##### score
+`1`
+##### matches
+- `Quadro4 900 XGL`
 ### Quadro4 980 XGL
 `Quadro4 980 XGL`
 ##### score
@@ -18446,6 +22105,7 @@ Matched: `4267`
 ##### matches
 - `Radeon IGP 320`
 - `GeForce GT 320`
+- `RADEON IGP 320`
 ### Qualcomm Adreno 330
 `Qualcomm Adreno 330`
 ##### score
@@ -18476,13 +22136,9 @@ Matched: `4267`
 ### Qualcomm Adreno 430
 `Qualcomm Adreno 430`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`0.497` (below 0.75 threshold)
 ##### matches
-- `GeForce GT 430`
-- `GeForce GT 430`
-- `Radeon R5 430`
-- `Radeon R7 430`
-- `RadeonT R5 430`
+- `GT 430`
 ### Qualcomm Adreno 505
 `Qualcomm Adreno 505`
 ##### score
@@ -18516,33 +22172,140 @@ Matched: `4267`
 ### Qualcomm Adreno 540
 `Qualcomm Adreno 540`
 ##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 540 GPU`
+### Qualcomm Adreno 540 GPU
+`Qualcomm Adreno 540 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 540`
+### Qualcomm Adreno 610
+`Qualcomm Adreno 610`
+##### score
 `0.497` (below 0.75 threshold)
 ##### matches
-- `Radeon 540`
+- `GeForce 610`
+### Qualcomm Adreno 618
+`Qualcomm Adreno 618`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 618 GPU`
+### Qualcomm Adreno 618 GPU
+`Qualcomm Adreno 618 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 618`
+### Qualcomm Adreno 620
+`Qualcomm Adreno 620`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Radeon 620`
 ### Qualcomm Adreno 630
 `Qualcomm Adreno 630`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `GeForce GT 630`
-- `HD Graphics 630`
-- `UHD Graphics 630`
-- `GeForce GT 630`
-- `Intel HD 630`
-- `Intel UHD 630`
+- `Qualcomm Adreno 630 GPU`
+### Qualcomm Adreno 630 GPU
+`Qualcomm Adreno 630 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 630`
 ### Qualcomm Adreno 640
 `Qualcomm Adreno 640`
 ##### score
+`0.6626666666666666` (below 0.75 threshold)
+##### matches
+- `Surface Duo Adreno 640 GPU`
+### Qualcomm Adreno 650
+`Qualcomm Adreno 650`
+##### score
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
-- `GeForce GT 640`
-- `GeForce GT 640`
+- `GeForce GTX 650`
+- `GeForce GTX 650`
+- `Intel Iris 650`
+### Qualcomm Adreno 660
+`Qualcomm Adreno 660`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 660`
+- `GeForce GTX 660`
+### Qualcomm Adreno 680
+`Qualcomm Adreno 680`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 680 GPU`
+### Qualcomm Adreno 680 GPU
+`Qualcomm Adreno 680 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 680`
+### Qualcomm Adreno 685
+`Qualcomm Adreno 685`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 685 GPU`
+### Qualcomm Adreno 685 GPU
+`Qualcomm Adreno 685 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 685`
+### Qualcomm Adreno 690
+`Qualcomm Adreno 690`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 690 GPU`
+### Qualcomm Adreno 690 GPU
+`Qualcomm Adreno 690 GPU`
+##### score
+`0.999`
+##### matches
+- `Qualcomm Adreno 690`
+### Qualcomm Adreno 730
+`Qualcomm Adreno 730`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GT 730`
+- `GeForce GT 730`
+### Qualcomm Adreno 740
+`Qualcomm Adreno 740`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GT 740`
+- `GeForce GT 740`
+### Qualcomm Adreno 8cx Gen 3
+`Qualcomm Adreno 8cx Gen 3`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `Tegra 3`
 ### RADEON 7000 / RADEON VE Family
 `RADEON 7000 / RADEON VE Family`
 ##### score
 `0.997`
 ##### matches
 - `Radeon 7000`
+### RADEON 7200
+`RADEON 7200`
+##### score
+`1`
+##### matches
+- `Radeon 7200`
 ### RADEON 7500
 `RADEON 7500`
 ##### score
@@ -18555,6 +22318,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon 7500`
+### RADEON 8500 Family
+`RADEON 8500 Family`
+##### score
+`0.999`
+##### matches
+- `Radeon 8500`
+### RADEON 9000
+`RADEON 9000`
+##### score
+`1`
+##### matches
+- `Radeon 9000`
 ### RADEON 9000 Family
 `RADEON 9000 Family`
 ##### score
@@ -18658,6 +22433,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon 9700 PRO`
+### RADEON 9800
+`RADEON 9800`
+##### score
+`1`
+##### matches
+- `Radeon 9800`
 ### RADEON 9800 PRO
 `RADEON 9800 PRO`
 ##### score
@@ -18682,12 +22463,31 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon HD 6350`
+### RADEON IGP 320
+`RADEON IGP 320`
+##### score
+`1`
+##### matches
+- `Radeon IGP 320`
 ### RADEON IGP 345M
 `RADEON IGP 345M`
 ##### score
 `1`
 ##### matches
 - `Radeon IGP 345M`
+### RADEON IGP 34xM
+`RADEON IGP 34xM`
+##### score
+`0.497` (below 0.75 threshold)
+##### matches
+- `Radeon DDR`
+- `Radeon LE`
+- `Radeon SDR`
+- `Radeon VE`
+- `Radeon VII`
+- `Radeon Next`
+- `Mobility Radeon`
+- `Radeon Picasso`
 ### RADEON IGP 350M
 `RADEON IGP 350M`
 ##### score
@@ -18706,6 +22506,18 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon X600`
+### RADEON X600 PRO
+`RADEON X600 PRO`
+##### score
+`1`
+##### matches
+- `Radeon X600 PRO`
+### RADEON X600 SE
+`RADEON X600 SE`
+##### score
+`1`
+##### matches
+- `Radeon X600 SE`
 ### RADEON X700
 `RADEON X700`
 ##### score
@@ -18749,6 +22561,12 @@ Matched: `4267`
 ##### matches
 - `Radeon X800 GTO`
 - `Radeon X800 PRO`
+### RADEON X800 SE
+`RADEON X800 SE`
+##### score
+`1`
+##### matches
+- `Radeon X800 SE`
 ### RADEON X800 XL
 `RADEON X800 XL`
 ##### score
@@ -18761,6 +22579,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon X800 XT`
+### RADEON X800 XT Platinum Edition
+`RADEON X800 XT Platinum Edition`
+##### score
+`0.999`
+##### matches
+- `Radeon X800 XT Platinum`
 ### RADEON X850 PRO
 `RADEON X850 PRO`
 ##### score
@@ -18783,6 +22607,12 @@ Matched: `4267`
 `RADEON XPRESS 200`
 ##### score
 `0.999`
+##### matches
+- `Radeon Xpress 200 IGP`
+### RADEON XPRESS 200 CROSSFIRE
+`RADEON XPRESS 200 CROSSFIRE`
+##### score
+`0.748` (below 0.75 threshold)
 ##### matches
 - `Radeon Xpress 200 IGP`
 ### RADEON XPRESS 200M
@@ -18816,6 +22646,156 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Riva TNT2 PRO`
+### RTX 2000 Ada Generation Laptop GPU
+`RTX 2000 Ada Generation Laptop GPU`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `Quadro 2000`
+### RTX 3500 Ada Generation Laptop GPU
+`RTX 3500 Ada Generation Laptop GPU`
+##### score
+`0.3263333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 3500`
+### RTX 4000 Ada Generation Laptop GPU
+`RTX 4000 Ada Generation Laptop GPU`
+##### score
+`0.6616666666666666` (below 0.75 threshold)
+##### matches
+- `Quadro RTX 4000`
+### RTX 4000 SFF Ada Generation
+`RTX 4000 SFF Ada Generation`
+##### score
+`0.6626666666666666` (below 0.75 threshold)
+##### matches
+- `Quadro RTX 4000`
+### RTX 5000 Ada Generation Laptop GPU
+`RTX 5000 Ada Generation Laptop GPU`
+##### score
+`0.6616666666666666` (below 0.75 threshold)
+##### matches
+- `Quadro RTX 5000`
+### RTX 6000 Ada Generation
+`RTX 6000 Ada Generation`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Quadro RTX 6000`
+### RTX A1000 6GB Laptop GPU
+`RTX A1000 6GB Laptop GPU`
+##### score
+`0.798`
+##### matches
+- `NVIDIA RTX A1000 Laptop GPU`
+### RTX A1000 Embedded GPU
+`RTX A1000 Embedded GPU`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `NVIDIA RTX A1000 Laptop GPU`
+### RTX A1000 Laptop GPU
+`RTX A1000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A1000 Laptop GPU`
+### RTX A2000
+`RTX A2000`
+##### score
+`0.997`
+##### matches
+- `NVIDIA RTX A2000 Laptop GPU`
+### RTX A2000 12GB
+`RTX A2000 12GB`
+##### score
+`0.6626666666666666` (below 0.75 threshold)
+##### matches
+- `NVIDIA RTX A2000 Laptop GPU`
+### RTX A2000 8GB Laptop GPU
+`RTX A2000 8GB Laptop GPU`
+##### score
+`0.798`
+##### matches
+- `NVIDIA RTX A2000 Laptop GPU`
+### RTX A2000 Laptop GPU
+`RTX A2000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A2000 Laptop GPU`
+### RTX A3000 12GB Laptop GPU
+`RTX A3000 12GB Laptop GPU`
+##### score
+`0.798`
+##### matches
+- `NVIDIA RTX A3000 Laptop GPU`
+### RTX A3000 Laptop GPU
+`RTX A3000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A3000 Laptop GPU`
+### RTX A4000
+`RTX A4000`
+##### score
+`0.997`
+##### matches
+- `NVIDIA RTX A4000 Laptop GPU`
+### RTX A4000 Laptop GPU
+`RTX A4000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A4000 Laptop GPU`
+### RTX A4500
+`RTX A4500`
+##### score
+`0.997`
+##### matches
+- `NVIDIA RTX A4500 Laptop GPU`
+### RTX A4500 Laptop GPU
+`RTX A4500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A4500 Laptop GPU`
+### RTX A500 Laptop GPU
+`RTX A500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A500 Laptop GPU`
+### RTX A5000
+`RTX A5000`
+##### score
+`0.997`
+##### matches
+- `NVIDIA RTX A5000 Laptop GPU`
+### RTX A5000 Laptop GPU
+`RTX A5000 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A5000 Laptop GPU`
+### RTX A5500
+`RTX A5500`
+##### score
+`0.997`
+##### matches
+- `NVIDIA RTX A5500 Laptop GPU`
+### RTX A5500 Laptop GPU
+`RTX A5500 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A5500 Laptop GPU`
+### RTX A6000
+`RTX A6000`
+##### score
+`0.999`
+##### matches
+- `NVIDIA RTX A6000`
 ### Radeon 2100
 `Radeon 2100`
 ##### score
@@ -18903,66 +22883,123 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon 540X Mobile`
+- `AMD Radeon 540X`
 ### Radeon 540X Mobile
 `Radeon 540X Mobile`
 ##### score
 `0.999`
 ##### matches
 - `Radeon 540X`
+### Radeon 550
+`Radeon 550`
+##### score
+`0.999`
+##### matches
+- `Radeon RX 550`
+### Radeon 550X
+`Radeon 550X`
+##### score
+`0.999`
+##### matches
+- `Radeon 550X 640SP`
+- `Radeon RX 550X`
+- `Radeon 550X Mobile`
 ### Radeon 550X 640SP
 `Radeon 550X 640SP`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Radeon RX 550X`
+- `Radeon 550X`
 ### Radeon 550X Mobile
 `Radeon 550X Mobile`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Radeon RX 550X`
-### Radeon 7000
-`Radeon 7000`
+- `Radeon 550X`
+### Radeon 620
+`Radeon 620`
 ##### score
-`1.499`
+`0.999`
 ##### matches
-- `RADEON 7000 / RADEON VE Family`
-### Radeon 7000 Mac Edition
-`Radeon 7000 Mac Edition`
+- `AMD Radeon 620`
+### Radeon 625
+`Radeon 625`
 ##### score
-`0.747` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RADEON 7000 / RADEON VE Family`
-### Radeon 7000 Mac Edition PCI
-`Radeon 7000 Mac Edition PCI`
+- `AMD Radeon 625`
+### Radeon 630
+`Radeon 630`
 ##### score
-`0.596` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RADEON 7000 / RADEON VE Family`
-### Radeon 7000 PCI
-`Radeon 7000 PCI`
+- `AMD Radeon 630`
+### Radeon 6600M
+`Radeon 6600M`
 ##### score
 `0.998`
 ##### matches
-- `RADEON 7000 / RADEON VE Family`
+- `AMD Radeon RX 6600M`
+### Radeon 6700
+`Radeon 6700`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon RX 6700 XT`
+### Radeon 6750M
+`Radeon 6750M`
+##### score
+`0.999`
+##### matches
+- `Radeon HD 6750M`
+### Radeon 7000
+`Radeon 7000`
+##### score
+`1.5`
+##### matches
+- `Radeon 7000 / Radeon VE`
+### Radeon 7000 / Radeon VE
+`Radeon 7000 / Radeon VE`
+##### score
+`0.998`
+##### matches
+- `Radeon 7000`
+### Radeon 7000 Mac Edition
+`Radeon 7000 Mac Edition`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon 7000 / Radeon VE`
+### Radeon 7000 Mac Edition PCI
+`Radeon 7000 Mac Edition PCI`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon 7000 / Radeon VE`
+### Radeon 7000 PCI
+`Radeon 7000 PCI`
+##### score
+`0.999`
+##### matches
+- `Radeon 7000 / Radeon VE`
 ### Radeon 7200
 `Radeon 7200`
 ##### score
-`0.497` (below 0.75 threshold)
+`1`
 ##### matches
-- `GeForce Go 7200`
+- `RADEON 7200`
 ### Radeon 7200 64 MB
 `Radeon 7200 64 MB`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.998`
 ##### matches
-- `GeForce Go 7200`
+- `RADEON 7200`
 ### Radeon 7500
 `Radeon 7500`
 ##### score
-`1`
+`1.495`
 ##### matches
-- `RADEON 7500`
+- `Radeon HD 7660G + HD 7500/7600 7500/7600 Dual`
 ### Radeon 7500 LE
 `Radeon 7500 LE`
 ##### score
@@ -18975,62 +23012,60 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `RADEON 7500`
-### Radeon 8500
-`Radeon 8500`
-##### score
-`0.497` (below 0.75 threshold)
-##### matches
-- `GeForce 8500 GT`
-### Radeon 8500 LE
-`Radeon 8500 LE`
-##### score
-`0.3293333333333333` (below 0.75 threshold)
-##### matches
-- `GeForce 8500 GT`
-### Radeon 8500 X4
-`Radeon 8500 X4`
-##### score
-`0.3293333333333333` (below 0.75 threshold)
-##### matches
-- `GeForce 8500 GT`
-### Radeon 8500 XT
-`Radeon 8500 XT`
-##### score
-`0.3293333333333333` (below 0.75 threshold)
-##### matches
-- `GeForce 8500 GT`
-### Radeon 9000
-`Radeon 9000`
+### Radeon 780M
+`Radeon 780M`
 ##### score
 `0.999`
 ##### matches
-- `MOBILITY RADEON 9000`
-- `MOBILITY/RADEON 9000`
-- `RADEON 9000 Family`
+- `AMD Radeon 780M`
+### Radeon 8500
+`Radeon 8500`
+##### score
+`0.999`
+##### matches
+- `RADEON 8500 Family`
+### Radeon 8500 LE
+`Radeon 8500 LE`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `RADEON 8500 Family`
+### Radeon 8500 X4
+`Radeon 8500 X4`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `RADEON 8500 Family`
+### Radeon 8500 XT
+`Radeon 8500 XT`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `RADEON 8500 Family`
+### Radeon 9000
+`Radeon 9000`
+##### score
+`1`
+##### matches
+- `RADEON 9000`
 ### Radeon 9000 LE
 `Radeon 9000 LE`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `MOBILITY RADEON 9000`
-- `MOBILITY/RADEON 9000`
-- `RADEON 9000 Family`
+- `RADEON 9000`
 ### Radeon 9000 PRO
 `Radeon 9000 PRO`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `MOBILITY RADEON 9000`
-- `MOBILITY/RADEON 9000`
-- `RADEON 9000 Family`
+- `RADEON 9000`
 ### Radeon 9000 PRO Mac Edition
 `Radeon 9000 PRO Mac Edition`
 ##### score
-`0.6626666666666666` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `MOBILITY RADEON 9000`
-- `MOBILITY/RADEON 9000`
-- `RADEON 9000 Family`
+- `RADEON 9000`
 ### Radeon 9100
 `Radeon 9100`
 ##### score
@@ -19098,9 +23133,9 @@ Matched: `4267`
 ### Radeon 9500
 `Radeon 9500`
 ##### score
-`1`
+`1.493`
 ##### matches
-- `RADEON 9500`
+- `Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G`
 ### Radeon 9500 PRO
 `Radeon 9500 PRO`
 ##### score
@@ -19180,6 +23215,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `RADEON 9700 PRO`
+### Radeon 9700 TX w/TV-Out
+`Radeon 9700 TX w/TV-Out`
+##### score
+`0.996`
+##### matches
+- `Radeon 9700`
 ### Radeon 9800
 `Radeon 9800`
 ##### score
@@ -19225,79 +23266,124 @@ Matched: `4267`
 ### Radeon 9800 XXL
 `Radeon 9800 XXL`
 ##### score
-`0.998`
+`0.999`
 ##### matches
-- `Radeon R7 A12-9800 RADEON`
+- `MEDION RADEON 9800 XXL`
+- `RADEON 9800`
 ### Radeon DDR
 `Radeon DDR`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon DDR MAXX
 `Radeon DDR MAXX`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon DDR VIVO
 `Radeon DDR VIVO`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon DDR VIVO OEM
 `Radeon DDR VIVO OEM`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon DDR VIVO SE
 `Radeon DDR VIVO SE`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
+### Radeon E6460
+`Radeon E6460`
+##### score
+`1`
+##### matches
+- `Radeon E6460`
+### Radeon E6460
+`Radeon E6460`
+##### score
+`1`
+##### matches
+- `Radeon E6460`
+### Radeon E6465
+`Radeon E6465`
+##### score
+`1`
+##### matches
+- `Radeon E6465`
+### Radeon E6465
+`Radeon E6465`
+##### score
+`1`
+##### matches
+- `Radeon E6465`
 ### Radeon E6760
 `Radeon E6760`
 ##### score
@@ -19335,6 +23421,62 @@ Matched: `4267`
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
 - `Embedded Radeon E9173`
+### Radeon Eng Sample: 100-000000085-40_35/24_Y
+`Radeon Eng Sample: 100-000000085-40_35/24_Y`
+##### score
+`0.493` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000146-40_42/35_Y
+`Radeon Eng Sample: 100-000000146-40_42/35_Y`
+##### score
+`0.493` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000262-30_Y
+`Radeon Eng Sample: 100-000000262-30_Y`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000263-30_Y
+`Radeon Eng Sample: 100-000000263-30_Y`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000285-40_Y
+`Radeon Eng Sample: 100-000000285-40_Y`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000287-40_Y
+`Radeon Eng Sample: 100-000000287-40_Y`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
+### Radeon Eng Sample: 100-000000300-40_Y
+`Radeon Eng Sample: 100-000000300-40_Y`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `P102-100`
+- `P104-100`
+- `P106-100`
 ### Radeon HD 2350
 `Radeon HD 2350`
 ##### score
@@ -19501,6 +23643,13 @@ Matched: `4267`
 - `Radeon HD 2900 GT`
 - `Radeon HD 2900 PRO`
 - `Radeon HD 2900 XT`
+### Radeon HD 3000
+`Radeon HD 3000`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `HD Graphics 3000`
+- `Radeon 3000 IGP`
 ### Radeon HD 3200
 `Radeon HD 3200`
 ##### score
@@ -20200,6 +24349,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon HD 6290`
+### Radeon HD 6300M
+`Radeon HD 6300M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 6300M`
 ### Radeon HD 6310
 `Radeon HD 6310`
 ##### score
@@ -20321,7 +24476,14 @@ Matched: `4267`
 ### Radeon HD 6450
 `Radeon HD 6450`
 ##### score
-`1`
+`1.3323333333333334`
+##### matches
+- `Radeon HD 7540D + HD 6450 Dual`
+- `Radeon HD 8470D + HD 6450 Dual`
+### Radeon HD 6450 + 8470D Dual
+`Radeon HD 6450 + 8470D Dual`
+##### score
+`0.998`
 ##### matches
 - `Radeon HD 6450`
 ### Radeon HD 6450 OEM
@@ -20462,6 +24624,7 @@ Matched: `4267`
 ##### score
 `1.3323333333333334`
 ##### matches
+- `Radeon HD 7560D + HD 6570 Dual`
 - `Radeon HD 8570D + HD 6570 Dual`
 ### Radeon HD 6570 OEM
 `Radeon HD 6570 OEM`
@@ -20530,6 +24693,18 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon HD 6630M`
+### Radeon HD 6650A
+`Radeon HD 6650A`
+##### score
+`1`
+##### matches
+- `Radeon HD 6650A`
+### Radeon HD 6650A
+`Radeon HD 6650A`
+##### score
+`1`
+##### matches
+- `Radeon HD 6650A`
 ### Radeon HD 6650M
 `Radeon HD 6650M`
 ##### score
@@ -20560,6 +24735,24 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon HD 6670`
+### Radeon HD 6670 + 7660D Dual
+`Radeon HD 6670 + 7660D Dual`
+##### score
+`0.998`
+##### matches
+- `Radeon HD 6670`
+### Radeon HD 6670/7670
+`Radeon HD 6670/7670`
+##### score
+`0.999`
+##### matches
+- `Radeon HD 6670`
+### Radeon HD 6700M
+`Radeon HD 6700M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 6700M`
 ### Radeon HD 6730M
 `Radeon HD 6730M`
 ##### score
@@ -20644,6 +24837,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon HD 6790`
+### Radeon HD 6800M
+`Radeon HD 6800M`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 6800M`
 ### Radeon HD 6830M
 `Radeon HD 6830M`
 ##### score
@@ -20671,9 +24870,15 @@ Matched: `4267`
 ### Radeon HD 6850 X2
 `Radeon HD 6850 X2`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Radeon HD 6850`
+- `Radeon HD 6850 X2`
+### Radeon HD 6850 X2
+`Radeon HD 6850 X2`
+##### score
+`1`
+##### matches
+- `Radeon HD 6850 X2`
 ### Radeon HD 6850M
 `Radeon HD 6850M`
 ##### score
@@ -20811,6 +25016,13 @@ Matched: `4267`
 `Radeon HD 7310`
 ##### score
 `0.999`
+##### matches
+- `Radeon HD 7310 IGP`
+- `AMD Radeon HD 7310`
+### Radeon HD 7310 - Carte graphique
+`Radeon HD 7310 - Carte graphique`
+##### score
+`0.747` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 7310 IGP`
 - `AMD Radeon HD 7310`
@@ -21028,6 +25240,18 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
+### Radeon HD 7520G + 7470M Dual
+`Radeon HD 7520G + 7470M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
+### Radeon HD 7520G + 7500/7600 Dual
+`Radeon HD 7520G + 7500/7600 Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
 ### Radeon HD 7520G + 7600M Dual
 `Radeon HD 7520G + 7600M Dual`
 ##### score
@@ -21064,12 +25288,25 @@ Matched: `4267`
 `0.8293333333333334`
 ##### matches
 - `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
+### Radeon HD 7520G + 8750M Dual
+`Radeon HD 7520G + 8750M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
 ### Radeon HD 7520G + HD 7400M Dual
 `Radeon HD 7520G + HD 7400M Dual`
 ##### score
 `0.8293333333333334`
 ##### matches
 - `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
+### Radeon HD 7520G + HD 7500/7600 Dual
+`Radeon HD 7520G + HD 7500/7600 Dual`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7520G IGP`
+- `AMD Radeon HD 7520G`
 ### Radeon HD 7520G + HD 7600M Dual
 `Radeon HD 7520G + HD 7600M Dual`
 ##### score
@@ -21080,6 +25317,12 @@ Matched: `4267`
 `Radeon HD 7520G + HD 7670M Dual`
 ##### score
 `0.998`
+##### matches
+- `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
+### Radeon HD 7520G + HD 7700M Dual
+`Radeon HD 7520G + HD 7700M Dual`
+##### score
+`0.8293333333333334`
 ##### matches
 - `AMD Radeon HD 7520G + HD 7670M Dual Graphics`
 ### Radeon HD 7520G + HD 8600/8700M Dual
@@ -21098,9 +25341,23 @@ Matched: `4267`
 ### Radeon HD 7520G IGP
 `Radeon HD 7520G IGP`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 7520G`
+- `Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D`
+### Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760
+`Radeon HD 7520G N HD 7520G + HD 7500/7600 7500/760`
+##### score
+`0.741` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7520G IGP`
+- `AMD Radeon HD 7520G`
+### Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D
+`Radeon HD 7520G N HD 7520G + HD 7600M N HD 7600M D`
+##### score
+`0.74` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7520G IGP`
+- `AMD Radeon HD 7520G`
 ### Radeon HD 7530M
 `Radeon HD 7530M`
 ##### score
@@ -21117,6 +25374,18 @@ Matched: `4267`
 `Radeon HD 7540D + 6570 Dual`
 ##### score
 `0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7540D IGP`
+### Radeon HD 7540D + 7500 Dual
+`Radeon HD 7540D + 7500 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7540D IGP`
+### Radeon HD 7540D + HD 6450 Dual
+`Radeon HD 7540D + HD 6450 Dual`
+##### score
+`0.746` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 7540D IGP`
 ### Radeon HD 7540D IGP
@@ -21150,6 +25419,13 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7560D IGP`
 - `AMD Radeon HD 7560D`
+### Radeon HD 7560D + 6450 Dual
+`Radeon HD 7560D + 6450 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
 ### Radeon HD 7560D + 6570 Dual
 `Radeon HD 7560D + 6570 Dual`
 ##### score
@@ -21171,10 +25447,38 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7560D IGP`
 - `AMD Radeon HD 7560D`
+### Radeon HD 7560D + 7570 Dual
+`Radeon HD 7560D + 7570 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
 ### Radeon HD 7560D + 7670 Dual
 `Radeon HD 7560D + 7670 Dual`
 ##### score
 `0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
+### Radeon HD 7560D + 7700 Dual
+`Radeon HD 7560D + 7700 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
+### Radeon HD 7560D + HD 6570 Dual
+`Radeon HD 7560D + HD 6570 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
+### Radeon HD 7560D + HD 6670 Dual
+`Radeon HD 7560D + HD 6670 Dual`
+##### score
+`0.746` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 7560D IGP`
 - `AMD Radeon HD 7560D`
@@ -21185,8 +25489,29 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7560D IGP`
 - `AMD Radeon HD 7560D`
+### Radeon HD 7560D + HD 7600 Dual
+`Radeon HD 7560D + HD 7600 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
+### Radeon HD 7560D + HD 7670 Dual
+`Radeon HD 7560D + HD 7670 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
 ### Radeon HD 7560D + HD 7700 Dual
 `Radeon HD 7560D + HD 7700 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7560D IGP`
+- `AMD Radeon HD 7560D`
+### Radeon HD 7560D + HD 8570 Dual
+`Radeon HD 7560D + HD 8570 Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -21255,6 +25580,13 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7600G IGP`
 - `AMD Radeon HD 7600G`
+### Radeon HD 7600G + 6400M Dual
+`Radeon HD 7600G + 6400M Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7600G IGP`
+- `AMD Radeon HD 7600G`
 ### Radeon HD 7600G + 7450M Dual
 `Radeon HD 7600G + 7450M Dual`
 ##### score
@@ -21278,6 +25610,13 @@ Matched: `4267`
 - `AMD Radeon HD 7600G`
 ### Radeon HD 7600G + 8500M/8700M Dual
 `Radeon HD 7600G + 8500M/8700M Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7600G IGP`
+- `AMD Radeon HD 7600G`
+### Radeon HD 7600G + HD 7400M Dual
+`Radeon HD 7600G + HD 7400M Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -21314,10 +25653,22 @@ Matched: `4267`
 ### Radeon HD 7600G IGP
 `Radeon HD 7600G IGP`
 ##### score
-`0.999`
+`1.75`
 ##### matches
-- `Radeon HD 7600G`
-- `Radeon HD 7600G + HD Dual`
+- `Radeon HD 7600G N HD 7600G + HD ON HD Dual`
+### Radeon HD 7600G N HD 7600G + HD ON HD Dual
+`Radeon HD 7600G N HD 7600G + HD ON HD Dual`
+##### score
+`0.742` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7600G IGP`
+- `AMD Radeon HD 7600G`
+### Radeon HD 7600M + 7600M Dual
+`Radeon HD 7600M + 7600M Dual`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 7600M`
 ### Radeon HD 7610M
 `Radeon HD 7610M`
 ##### score
@@ -21368,9 +25719,16 @@ Matched: `4267`
 ### Radeon HD 7620G IGP
 `Radeon HD 7620G IGP`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 7620G`
+- `Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D`
+### Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D
+`Radeon HD 7620G N HD 7620G + HD 8600M N HD 8600M D`
+##### score
+`0.74` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7620G IGP`
+- `AMD Radeon HD 7620G`
 ### Radeon HD 7630M
 `Radeon HD 7630M`
 ##### score
@@ -21398,6 +25756,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + 7450M Dual
+`Radeon HD 7640G + 7450M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + 7470M Dual
 `Radeon HD 7640G + 7470M Dual`
 ##### score
@@ -21407,6 +25772,13 @@ Matched: `4267`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + 7500/7600 Dual
 `Radeon HD 7640G + 7500/7600 Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + 7500M/7600M Dual
+`Radeon HD 7640G + 7500M/7600M Dual`
 ##### score
 `0.8293333333333334`
 ##### matches
@@ -21425,12 +25797,26 @@ Matched: `4267`
 `1.199`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + 7650M Dual
+`Radeon HD 7640G + 7650M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + 7670M Dual
 `Radeon HD 7640G + 7670M Dual`
 ##### score
 `1.199`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+### Radeon HD 7640G + 7690M Dual
+`Radeon HD 7640G + 7690M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + 7700M Dual
 `Radeon HD 7640G + 7700M Dual`
 ##### score
@@ -21459,6 +25845,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + 8600M Dual
+`Radeon HD 7640G + 8600M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + 8670M Dual
 `Radeon HD 7640G + 8670M Dual`
 ##### score
@@ -21480,6 +25873,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + HD 7500/7600 Dual
+`Radeon HD 7640G + HD 7500/7600 Dual`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7640G IGP`
+- `AMD Radeon HD 7640G`
 ### Radeon HD 7640G + HD 7600M Dual
 `Radeon HD 7640G + HD 7600M Dual`
 ##### score
@@ -21487,6 +25887,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + HD 7600M N HD 7600M Dual
+`Radeon HD 7640G + HD 7600M N HD 7600M Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7640G IGP`
+- `AMD Radeon HD 7640G`
 ### Radeon HD 7640G + HD 7670M Dual
 `Radeon HD 7640G + HD 7670M Dual`
 ##### score
@@ -21500,6 +25907,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + HD 7700M N HD 7700M Dual
+`Radeon HD 7640G + HD 7700M N HD 7700M Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7640G IGP`
+- `AMD Radeon HD 7640G`
 ### Radeon HD 7640G + HD 8500M Dual
 `Radeon HD 7640G + HD 8500M Dual`
 ##### score
@@ -21528,6 +25942,13 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7640G IGP`
 - `AMD Radeon HD 7640G`
+### Radeon HD 7640G + HD 8670M Dual
+`Radeon HD 7640G + HD 8670M Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + HD 8750M Dual
 `Radeon HD 7640G + HD 8750M Dual`
 ##### score
@@ -21537,6 +25958,13 @@ Matched: `4267`
 - `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
 ### Radeon HD 7640G + R5 M200 Dual
 `Radeon HD 7640G + R5 M200 Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+- `AMD Radeon HD 7640G + HD 7610M Dual Graphics`
+### Radeon HD 7640G + R5 M230 Dual
+`Radeon HD 7640G + R5 M230 Dual`
 ##### score
 `0.8293333333333334`
 ##### matches
@@ -21561,6 +25989,13 @@ Matched: `4267`
 `0.745` (below 0.75 threshold)
 ##### matches
 - `AMD Radeon HD 7640G + HD 7670M Dual Graphics`
+### Radeon HD 7640G N HD 7640G + HD 8570M Dual
+`Radeon HD 7640G N HD 7640G + HD 8570M Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7640G IGP`
+- `AMD Radeon HD 7640G`
 ### Radeon HD 7650A
 `Radeon HD 7650A`
 ##### score
@@ -21619,6 +26054,20 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7660D IGP`
 - `AMD Radeon HD 7660D`
+### Radeon HD 7660D + 7500 Dual
+`Radeon HD 7660D + 7500 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660D IGP`
+- `AMD Radeon HD 7660D`
+### Radeon HD 7660D + 7540D Dual
+`Radeon HD 7660D + 7540D Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660D IGP`
+- `AMD Radeon HD 7660D`
 ### Radeon HD 7660D + 7670 Dual
 `Radeon HD 7660D + 7670 Dual`
 ##### score
@@ -21640,8 +26089,22 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7660D IGP`
 - `AMD Radeon HD 7660D`
+### Radeon HD 7660D + HD 7400 Dual
+`Radeon HD 7660D + HD 7400 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660D IGP`
+- `AMD Radeon HD 7660D`
 ### Radeon HD 7660D + HD 7700 Dual
 `Radeon HD 7660D + HD 7700 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660D IGP`
+- `AMD Radeon HD 7660D`
+### Radeon HD 7660D + R5 235 Dual
+`Radeon HD 7660D + R5 235 Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -21720,6 +26183,20 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `AMD Radeon HD 7660G + HD 7670M Dual Graphics`
+### Radeon HD 7660G + HD 7500/7600 7500/7600 Dual
+`Radeon HD 7660G + HD 7500/7600 7500/7600 Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660G IGP`
+- `AMD Radeon HD 7660G`
+### Radeon HD 7660G + HD 7500/7600 Dual
+`Radeon HD 7660G + HD 7500/7600 Dual`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660G IGP`
+- `AMD Radeon HD 7660G`
 ### Radeon HD 7660G + HD 7500M/7600M Dual
 `Radeon HD 7660G + HD 7500M/7600M Dual`
 ##### score
@@ -21733,6 +26210,13 @@ Matched: `4267`
 `0.8293333333333334`
 ##### matches
 - `AMD Radeon HD 7660G + HD 7670M Dual Graphics`
+### Radeon HD 7660G + HD 7600M N HD 7600M Dual
+`Radeon HD 7660G + HD 7600M N HD 7600M Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660G IGP`
+- `AMD Radeon HD 7660G`
 ### Radeon HD 7660G + HD 7670M Dual
 `Radeon HD 7660G + HD 7670M Dual`
 ##### score
@@ -21747,6 +26231,25 @@ Matched: `4267`
 - `AMD Radeon HD 7660G + HD 7670M Dual Graphics`
 ### Radeon HD 7660G + HD 7730M Dual
 `Radeon HD 7660G + HD 7730M Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7660G + HD 7670M Dual Graphics`
+### Radeon HD 7660G + HD 8500M Dual
+`Radeon HD 7660G + HD 8500M Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 7660G + HD 7670M Dual Graphics`
+### Radeon HD 7660G + HD 8600/8700M Dual
+`Radeon HD 7660G + HD 8600/8700M Dual`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Radeon HD 7660G IGP`
+- `AMD Radeon HD 7660G`
+### Radeon HD 7660G + HD 8600M Dual
+`Radeon HD 7660G + HD 8600M Dual`
 ##### score
 `0.8293333333333334`
 ##### matches
@@ -21873,6 +26376,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon HD 7690M XT`
+### Radeon HD 7700-serie
+`Radeon HD 7700-serie`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce Go 7700`
 ### Radeon HD 7730
 `Radeon HD 7730`
 ##### score
@@ -21951,6 +26460,15 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon HD 7790`
+### Radeon HD 7800-serie
+`Radeon HD 7800-serie`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce 7800 GT`
+- `GeForce 7800 GTX`
+- `GeForce Go 7800`
+- `Mobility FireGL 7800`
 ### Radeon HD 7850
 `Radeon HD 7850`
 ##### score
@@ -22128,6 +26646,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon HD 8210`
+### Radeon HD 8210E
+`Radeon HD 8210E`
+##### score
+`1`
+##### matches
+- `Radeon HD 8210E`
+### Radeon HD 8210E
+`Radeon HD 8210E`
+##### score
+`1`
+##### matches
+- `Radeon HD 8210E`
 ### Radeon HD 8240
 `Radeon HD 8240`
 ##### score
@@ -22179,6 +26709,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon HD 8280E`
+### Radeon HD 8310E
+`Radeon HD 8310E`
+##### score
+`1`
+##### matches
+- `Radeon HD 8310E`
+### Radeon HD 8310E
+`Radeon HD 8310E`
+##### score
+`1`
+##### matches
+- `Radeon HD 8310E`
 ### Radeon HD 8310G IGP
 `Radeon HD 8310G IGP`
 ##### score
@@ -22291,6 +26833,12 @@ Matched: `4267`
 `1.6646666666666667`
 ##### matches
 - `AMD Radeon HD 8450G + Radeon HD 8570M Dual Graphics`
+### Radeon HD 8450G + 8600/8700M Dual
+`Radeon HD 8450G + 8600/8700M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 8450G + Radeon HD 8570M Dual Graphics`
 ### Radeon HD 8450G + 8600M Dual
 `Radeon HD 8450G + 8600M Dual`
 ##### score
@@ -22327,6 +26875,12 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `AMD Radeon HD 8450G + Radeon HD 8570M Dual Graphics`
+### Radeon HD 8450G + R5 M230 Dual
+`Radeon HD 8450G + R5 M230 Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 8450G + Radeon HD 8570M Dual Graphics`
 ### Radeon HD 8450G IGP
 `Radeon HD 8450G IGP`
 ##### score
@@ -22356,6 +26910,27 @@ Matched: `4267`
 `Radeon HD 8470D + 6450 Dual`
 ##### score
 `0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8470D IGP`
+- `AMD Radeon HD 8470D`
+### Radeon HD 8470D + 6570 Dual
+`Radeon HD 8470D + 6570 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8470D IGP`
+- `AMD Radeon HD 8470D`
+### Radeon HD 8470D + HD 6450 Dual
+`Radeon HD 8470D + HD 6450 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8470D IGP`
+- `AMD Radeon HD 8470D`
+### Radeon HD 8470D + HD 6670 Dual
+`Radeon HD 8470D + HD 6670 Dual`
+##### score
+`0.746` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 8470D IGP`
 - `AMD Radeon HD 8470D`
@@ -22398,6 +26973,13 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 8510G IGP`
 - `AMD Radeon HD 8510G`
+### Radeon HD 8510G + HD 8500M Dual
+`Radeon HD 8510G + HD 8500M Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8510G IGP`
+- `AMD Radeon HD 8510G`
 ### Radeon HD 8510G IGP
 `Radeon HD 8510G IGP`
 ##### score
@@ -22420,6 +27002,13 @@ Matched: `4267`
 `Radeon HD 8550G`
 ##### score
 `1.3303333333333334`
+##### matches
+- `AMD Radeon HD 8550G + HD 8750M Dual Graphics`
+- `AMD Radeon HD 8550G + HD 8670M Dual Graphics`
+### Radeon HD 8550G + 7600M Dual
+`Radeon HD 8550G + 7600M Dual`
+##### score
+`0.997`
 ##### matches
 - `AMD Radeon HD 8550G + HD 8750M Dual Graphics`
 - `AMD Radeon HD 8550G + HD 8670M Dual Graphics`
@@ -22477,6 +27066,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 8550G + HD 8750M Dual Graphics`
 - `AMD Radeon HD 8550G + HD 8670M Dual Graphics`
+### Radeon HD 8550G + HD 8500M Dual
+`Radeon HD 8550G + HD 8500M Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 8550G + HD 8750M Dual Graphics`
+- `AMD Radeon HD 8550G + HD 8670M Dual Graphics`
 ### Radeon HD 8550G + HD 8570M Dual
 `Radeon HD 8550G + HD 8570M Dual`
 ##### score
@@ -22527,9 +27123,16 @@ Matched: `4267`
 ### Radeon HD 8550G IGP
 `Radeon HD 8550G IGP`
 ##### score
-`0.999`
+`1.748`
 ##### matches
-- `Radeon HD 8550G`
+- `Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D`
+### Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D
+`Radeon HD 8550G N HD 8550G + HD 8600M N HD 8600M D`
+##### score
+`0.74` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8550G IGP`
+- `AMD Radeon HD 8550G`
 ### Radeon HD 8550M
 `Radeon HD 8550M`
 ##### score
@@ -22546,6 +27149,12 @@ Matched: `4267`
 `Radeon HD 8570 + 8670D Dual`
 ##### score
 `0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570 OEM`
+### Radeon HD 8570 + HD 7660D Dual
+`Radeon HD 8570 + HD 7660D Dual`
+##### score
+`0.746` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 8570 OEM`
 ### Radeon HD 8570 OEM
@@ -22569,6 +27178,13 @@ Matched: `4267`
 - `AMD Radeon HD 8570D`
 ### Radeon HD 8570D + 6570 Dual
 `Radeon HD 8570D + 6570 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570D IGP`
+- `AMD Radeon HD 8570D`
+### Radeon HD 8570D + 6670 Dual
+`Radeon HD 8570D + 6670 Dual`
 ##### score
 `0.747` (below 0.75 threshold)
 ##### matches
@@ -22602,8 +27218,29 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 8570D IGP`
 - `AMD Radeon HD 8570D`
+### Radeon HD 8570D + HD 8470 Dual
+`Radeon HD 8570D + HD 8470 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570D IGP`
+- `AMD Radeon HD 8570D`
 ### Radeon HD 8570D + HD 8570 Dual
 `Radeon HD 8570D + HD 8570 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570D IGP`
+- `AMD Radeon HD 8570D`
+### Radeon HD 8570D + HD8490 Dual
+`Radeon HD 8570D + HD8490 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570D IGP`
+- `AMD Radeon HD 8570D`
+### Radeon HD 8570D + R5 235 Dual
+`Radeon HD 8570D + R5 235 Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -22640,6 +27277,7 @@ Matched: `4267`
 ##### score
 `1.6646666666666667`
 ##### matches
+- `Radeon HD 7640G N HD 7640G + HD 8570M Dual`
 - `Radeon HD 8650G N HD 8650G + HD 8570M Dual`
 - `AMD Radeon HD 8450G + Radeon HD 8570M Dual Graphics`
 ### Radeon HD 8590M
@@ -22752,6 +27390,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 8650G + HD 8670M Dual Graphics`
 - `AMD Radeon HD 8650G + HD 8570M Dual Graphics`
+### Radeon HD 8650G + 7700M Dual
+`Radeon HD 8650G + 7700M Dual`
+##### score
+`0.997`
+##### matches
+- `AMD Radeon HD 8650G + HD 8670M Dual Graphics`
+- `AMD Radeon HD 8650G + HD 8570M Dual Graphics`
 ### Radeon HD 8650G + 8500M Dual
 `Radeon HD 8650G + 8500M Dual`
 ##### score
@@ -22826,6 +27471,13 @@ Matched: `4267`
 ##### matches
 - `AMD Radeon HD 8650G + HD 8670M Dual Graphics`
 - `AMD Radeon HD 8650G + HD 8570M Dual Graphics`
+### Radeon HD 8650G + HD 8600M N HD 8600M Dual
+`Radeon HD 8650G + HD 8600M N HD 8600M Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8650G IGP`
+- `AMD Radeon HD 8650G`
 ### Radeon HD 8650G + HD 8670M Dual
 `Radeon HD 8650G + HD 8670M Dual`
 ##### score
@@ -22834,6 +27486,13 @@ Matched: `4267`
 - `AMD Radeon HD 8650G + HD 8670M Dual Graphics`
 ### Radeon HD 8650G + HD 8750M Dual
 `Radeon HD 8650G + HD 8750M Dual`
+##### score
+`0.8293333333333334`
+##### matches
+- `AMD Radeon HD 8650G + HD 8670M Dual Graphics`
+- `AMD Radeon HD 8650G + HD 8570M Dual Graphics`
+### Radeon HD 8650G + HD 8790M Dual
+`Radeon HD 8650G + HD 8790M Dual`
 ##### score
 `0.8293333333333334`
 ##### matches
@@ -22865,6 +27524,13 @@ Matched: `4267`
 `0.745` (below 0.75 threshold)
 ##### matches
 - `AMD Radeon HD 8650G + HD 8570M Dual Graphics`
+### Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual
+`Radeon HD 8650G N HD 8650G + HD 8600/8700M Dual`
+##### score
+`0.742` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8650G IGP`
+- `AMD Radeon HD 8650G`
 ### Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D
 `Radeon HD 8650G N HD 8650G + HD 8600M N HD 8600M D`
 ##### score
@@ -22886,8 +27552,22 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 8670D IGP`
 - `AMD Radeon HD 8670D`
+### Radeon HD 8670D + 7000 Dual
+`Radeon HD 8670D + 7000 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
 ### Radeon HD 8670D + 7700 Dual
 `Radeon HD 8670D + 7700 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
+### Radeon HD 8670D + 8570 Dual
+`Radeon HD 8670D + 8570 Dual`
 ##### score
 `0.747` (below 0.75 threshold)
 ##### matches
@@ -22907,8 +27587,29 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 8670D IGP`
 - `AMD Radeon HD 8670D`
+### Radeon HD 8670D + HD 7600 Dual
+`Radeon HD 8670D + HD 7600 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
+### Radeon HD 8670D + HD 7700 Dual
+`Radeon HD 8670D + HD 7700 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
 ### Radeon HD 8670D + R5 235 Dual
 `Radeon HD 8670D + R5 235 Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
+### Radeon HD 8670D + R5 330 Dual
+`Radeon HD 8670D + R5 330 Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -22931,9 +27632,16 @@ Matched: `4267`
 ### Radeon HD 8670D IGP
 `Radeon HD 8670D IGP`
 ##### score
-`0.999`
+`1.751`
 ##### matches
-- `Radeon HD 8670D`
+- `Radeon HD 8670D N HD 8670D + HD 8670D Dual`
+### Radeon HD 8670D N HD 8670D + HD 8670D Dual
+`Radeon HD 8670D N HD 8670D + HD 8670D Dual`
+##### score
+`0.743` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8670D IGP`
+- `AMD Radeon HD 8670D`
 ### Radeon HD 8670M
 `Radeon HD 8670M`
 ##### score
@@ -22948,6 +27656,7 @@ Matched: `4267`
 ##### matches
 - `Radeon HD 7600G + HD 8670M Dual`
 - `Radeon HD 7620G + HD 8670M Dual`
+- `Radeon HD 7640G + HD 8670M Dual`
 - `Radeon HD 7660G + HD 8670M Dual`
 - `Radeon HD 8450G + HD 8670M Dual`
 - `Radeon HD 8550G + HD 8670M Dual`
@@ -23014,9 +27723,9 @@ Matched: `4267`
 ### Radeon HD 8790M
 `Radeon HD 8790M`
 ##### score
-`1`
+`1.3323333333333334`
 ##### matches
-- `Radeon HD 8790M`
+- `Radeon HD 8650G + HD 8790M Dual`
 ### Radeon HD 8790M / R9 M290X
 `Radeon HD 8790M / R9 M290X`
 ##### score
@@ -23107,13 +27816,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon HD 8990`
+### Radeon HDG 4670
+`Radeon HDG 4670`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon HD 4670`
 ### Radeon IGP 320
 `Radeon IGP 320`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`1`
 ##### matches
-- `GeForce GT 320`
-- `Qualcomm Adreno 320`
+- `RADEON IGP 320`
 ### Radeon IGP 320M
 `Radeon IGP 320M`
 ##### score
@@ -23217,63 +27931,92 @@ Matched: `4267`
 `0.498` (below 0.75 threshold)
 ##### matches
 - `ION LE`
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
+### Radeon M535DX
+`Radeon M535DX`
+##### score
+`0.999`
+##### matches
+- `Radeon R8 M535DX`
 ### Radeon Next
 `Radeon Next`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
-### Radeon PRO WX 8200
-`Radeon PRO WX 8200`
+### Radeon PRO W6800
+`Radeon PRO W6800`
 ##### score
-`1`
+`0.999`
 ##### matches
-- `Radeon Pro WX 8200`
+- `AMD Radeon Pro W6800`
 ### Radeon Picasso
 `Radeon Picasso`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon Picasso Embedded
 `Radeon Picasso Embedded`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
+### Radeon Pro
+`Radeon Pro`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro Duo`
+- `Radeon Pro SSG`
 ### Radeon Pro 450
 `Radeon Pro 450`
 ##### score
@@ -23310,6 +28053,37 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro 460`
+### Radeon Pro 465
+`Radeon Pro 465`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce GTX 465`
+### Radeon Pro 5300
+`Radeon Pro 5300`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce PCX 5300`
+- `HD Graphics 5300`
+### Radeon Pro 5300M
+`Radeon Pro 5300M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon Pro 5300M`
+### Radeon Pro 5500 XT
+`Radeon Pro 5500 XT`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 5500 XT (Desktop)`
+### Radeon Pro 5500M
+`Radeon Pro 5500M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon Pro 5500M`
 ### Radeon Pro 555
 `Radeon Pro 555`
 ##### score
@@ -23340,6 +28114,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro 560`
+### Radeon Pro 5600M
+`Radeon Pro 5600M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon Pro 5600M`
 ### Radeon Pro 560X
 `Radeon Pro 560X`
 ##### score
@@ -23364,6 +28144,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro 570`
+### Radeon Pro 5700
+`Radeon Pro 5700`
+##### score
+`0.6616666666666666` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 5700 (Desktop)`
+### Radeon Pro 5700 XT
+`Radeon Pro 5700 XT`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 5700 XT (Desktop)`
 ### Radeon Pro 580
 `Radeon Pro 580`
 ##### score
@@ -23376,6 +28168,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro 580`
+### Radeon Pro 580X
+`Radeon Pro 580X`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon RX 580X`
 ### Radeon Pro Duo
 `Radeon Pro Duo`
 ##### score
@@ -23406,12 +28204,42 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro SSG`
-### Radeon Pro Vega 16
-`Radeon Pro Vega 16`
+### Radeon Pro V340
+`Radeon Pro V340`
 ##### score
 `0.999`
 ##### matches
-- `AMD Radeon Pro Vega 16`
+- `Radeon Pro V340 MxGPU`
+### Radeon Pro V340 MxGPU
+`Radeon Pro V340 MxGPU`
+##### score
+`1`
+##### matches
+- `Radeon Pro V340 MxGPU`
+### Radeon Pro V340 MxGPU
+`Radeon Pro V340 MxGPU`
+##### score
+`1`
+##### matches
+- `Radeon Pro V340 MxGPU`
+### Radeon Pro VII
+`Radeon Pro VII`
+##### score
+`0.999`
+##### matches
+- `Radeon VII`
+### Radeon Pro Vega 16
+`Radeon Pro Vega 16`
+##### score
+`1`
+##### matches
+- `Radeon Pro Vega 16`
+### Radeon Pro Vega 16
+`Radeon Pro Vega 16`
+##### score
+`1`
+##### matches
+- `Radeon Pro Vega 16`
 ### Radeon Pro Vega 20
 `Radeon Pro Vega 20`
 ##### score
@@ -23458,15 +28286,38 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro Vega 64`
-### Radeon Pro Vega 7nm
-`Radeon Pro Vega 7nm`
+### Radeon Pro Vega 64X
+`Radeon Pro Vega 64X`
 ##### score
 `0.748` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro Vega 16`
 - `Radeon Pro Vega 20`
-- `Radeon Pro Vega 48`
 - `Radeon Pro Vega 56`
 - `Radeon Pro Vega 64`
+- `Radeon Pro Vega 7nm`
+### Radeon Pro Vega 7nm
+`Radeon Pro Vega 7nm`
+##### score
+`0.998`
+##### matches
+- `Radeon Pro`
+### Radeon Pro Vega II
+`Radeon Pro Vega II`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon Pro Vega 16`
+- `Radeon Pro Vega 20`
+- `Radeon Pro Vega 56`
+- `Radeon Pro Vega 64`
+- `Radeon Pro Vega 7nm`
+### Radeon Pro Vega II Duo
+`Radeon Pro Vega II Duo`
+##### score
+`0.998`
+##### matches
+- `Radeon Pro Duo`
 ### Radeon Pro WX 2100
 `Radeon Pro WX 2100`
 ##### score
@@ -23491,6 +28342,12 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon Pro WX 3100`
+### Radeon Pro WX 3200
+`Radeon Pro WX 3200`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon Pro WX 3200`
 ### Radeon Pro WX 4100
 `Radeon Pro WX 4100`
 ##### score
@@ -23529,6 +28386,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon Pro WX 4150`
+### Radeon Pro WX 4170
+`Radeon Pro WX 4170`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro WX 4170 Mobile`
+### Radeon Pro WX 4170 Mobile
+`Radeon Pro WX 4170 Mobile`
+##### score
+`0.999`
+##### matches
+- `Radeon Pro WX 4170`
 ### Radeon Pro WX 5100
 `Radeon Pro WX 5100`
 ##### score
@@ -23562,15 +28431,21 @@ Matched: `4267`
 ### Radeon Pro WX 8100
 `Radeon Pro WX 8100`
 ##### score
-`0.244` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `GeForce 8100 / nForce 720a`
+- `Dell 8100`
 ### Radeon Pro WX 8200
 `Radeon Pro WX 8200`
 ##### score
 `1`
 ##### matches
-- `Radeon PRO WX 8200`
+- `Radeon Pro WX 8200`
+### Radeon Pro WX 8200
+`Radeon Pro WX 8200`
+##### score
+`1`
+##### matches
+- `Radeon Pro WX 8200`
 ### Radeon Pro WX 9100
 `Radeon Pro WX 9100`
 ##### score
@@ -23586,9 +28461,15 @@ Matched: `4267`
 ### Radeon Pro WX Vega M GL
 `Radeon Pro WX Vega M GL`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD Radeon Pro WX Vega M GL`
+- `Radeon Pro WX Vega M GL`
+### Radeon Pro WX Vega M GL
+`Radeon Pro WX Vega M GL`
+##### score
+`1`
+##### matches
+- `Radeon Pro WX Vega M GL`
 ### Radeon R1E
 `Radeon R1E`
 ##### score
@@ -23682,6 +28563,19 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon R4`
+### Radeon R4E
+`Radeon R4E`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `Radeon DDR`
+- `Radeon LE`
+- `Radeon SDR`
+- `Radeon VE`
+- `Radeon VII`
+- `Radeon Next`
+- `Mobility Radeon`
+- `Radeon Picasso`
 ### Radeon R5 220
 `Radeon R5 220`
 ##### score
@@ -23720,6 +28614,12 @@ Matched: `4267`
 - `Radeon R5 235 OEM`
 ### Radeon R5 235 + HD 7560D Dual
 `Radeon R5 235 + HD 7560D Dual`
+##### score
+`0.746` (below 0.75 threshold)
+##### matches
+- `Radeon R5 235 OEM`
+### Radeon R5 235 + HD 8570D Dual
+`Radeon R5 235 + HD 8570D Dual`
 ##### score
 `0.746` (below 0.75 threshold)
 ##### matches
@@ -23811,12 +28711,30 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon R5 430`
+### Radeon R5 435
+`Radeon R5 435`
+##### score
+`0.999`
+##### matches
+- `Radeon R5 435 OEM`
 ### Radeon R5 435 OEM
 `Radeon R5 435 OEM`
 ##### score
-`0.996`
+`0.999`
 ##### matches
-- `Radeon R7 + R5 435 Dual A10-9700 RADEON`
+- `Radeon R5 435`
+### Radeon R5 A240
+`Radeon R5 A240`
+##### score
+`1`
+##### matches
+- `Radeon R5 A240`
+### Radeon R5 A240
+`Radeon R5 A240`
+##### score
+`1`
+##### matches
+- `Radeon R5 A240`
 ### Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G
 `Radeon R5 A6-9400 RADEON R5, 6 COMPUTE CORES 2C+4G`
 ##### score
@@ -23829,13 +28747,18 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `Radeon 9500`
+### Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G
+`Radeon R5 A6-9500 RADEON R5, 8 COMPUTE CORES 2C+6G`
+##### score
+`0.991`
+##### matches
+- `Radeon 9500`
 ### Radeon R5 Graphics
 `Radeon R5 Graphics`
 ##### score
-`0.6626666666666666` (below 0.75 threshold)
+`0.6636666666666666` (below 0.75 threshold)
 ##### matches
-- `AMD Radeon R5 (Carrizo)`
-- `AMD Radeon R5 (Kaveri)`
+- `Radeon R7 + R5 Dual`
 ### Radeon R5 M230
 `Radeon R5 M230`
 ##### score
@@ -23985,14 +28908,19 @@ Matched: `4267`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7 + R5 Dual`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon Vega 10 Mobile`
 - `Radeon Vega 3 Mobile`
 - `Radeon Vega 8 Mobile`
@@ -24003,10 +28931,22 @@ Matched: `4267`
 `0.493` (below 0.75 threshold)
 ##### matches
 - `Radeon HD 8570 OEM`
+### Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G
+`Radeon R5 PRO A6-8570 R5, 8 COMPUTE CORES 2C+6G`
+##### score
+`0.489` (below 0.75 threshold)
+##### matches
+- `Radeon HD 8570 OEM`
 ### Radeon R5 PRO A6-9500 2C+6G
 `Radeon R5 PRO A6-9500 2C+6G`
 ##### score
 `0.996`
+##### matches
+- `Radeon 9500 PRO`
+### Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
+`Radeon R5 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G`
+##### score
+`0.992`
 ##### matches
 - `Radeon 9500 PRO`
 ### Radeon R5E
@@ -24076,6 +29016,13 @@ Matched: `4267`
 `0.747` (below 0.75 threshold)
 ##### matches
 - `Radeon R5 330 OEM`
+### Radeon R7 + R5 340 Dual
+`Radeon R7 + R5 340 Dual`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Radeon R5 340 OEM`
+- `Radeon R7 340 OEM`
 ### Radeon R7 + R5 435 Dual A10-9700 RADEON
 `Radeon R7 + R5 435 Dual A10-9700 RADEON`
 ##### score
@@ -24083,6 +29030,13 @@ Matched: `4267`
 ##### matches
 - `Radeon R5 435 OEM`
 - `Radeon R7 435 OEM`
+### Radeon R7 + R5 Dual
+`Radeon R7 + R5 Dual`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon R5 Graphics`
+- `Radeon R7 Graphics`
 ### Radeon R7 + R7 200 Dual
 `Radeon R7 + R7 200 Dual`
 ##### score
@@ -24095,12 +29049,24 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon R7 240`
+### Radeon R7 + R7 250 Dual
+`Radeon R7 + R7 250 Dual`
+##### score
+`0.998`
+##### matches
+- `Radeon R7 250`
 ### Radeon R7 + R7 350 Dual
 `Radeon R7 + R7 350 Dual`
 ##### score
 `0.998`
 ##### matches
 - `Radeon R7 350`
+### Radeon R7 +8G
+`Radeon R7 +8G`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon R7 Graphics`
 ### Radeon R7 240
 `Radeon R7 240`
 ##### score
@@ -24141,14 +29107,15 @@ Matched: `4267`
 ### Radeon R7 250
 `Radeon R7 250`
 ##### score
-`1`
+`1.3333333333333333`
 ##### matches
-- `Radeon R7 250`
+- `Radeon R7 + R7 250 Dual`
 ### Radeon R7 250 OEM
 `Radeon R7 250 OEM`
 ##### score
 `0.999`
 ##### matches
+- `Radeon R7 + R7 250 Dual`
 - `Radeon R7 250`
 ### Radeon R7 250X
 `Radeon R7 250X`
@@ -24312,9 +29279,15 @@ Matched: `4267`
 ### Radeon R7 A360
 `Radeon R7 A360`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `Radeon TM R9 A360`
+- `Radeon R7 A360`
+### Radeon R7 A360
+`Radeon R7 A360`
+##### score
+`1`
+##### matches
+- `Radeon R7 A360`
 ### Radeon R7 A8-7500
 `Radeon R7 A8-7500`
 ##### score
@@ -24342,14 +29315,19 @@ Matched: `4267`
 `0.997`
 ##### matches
 - `Radeon 9600`
+### Radeon R7 G
+`Radeon R7 G`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon R7 Graphics`
 ### Radeon R7 Graphics
 `Radeon R7 Graphics`
 ##### score
-`0.6626666666666666` (below 0.75 threshold)
+`0.6646666666666666` (below 0.75 threshold)
 ##### matches
-- `Radeon R7 A10 Extreme Edition`
-- `AMD Radeon R7 (Carrizo)`
-- `AMD Radeon R7 (Kaveri)`
+- `Radeon R7 +8G`
+- `Radeon R7 G`
 ### Radeon R7 M260
 `Radeon R7 M260`
 ##### score
@@ -24401,9 +29379,15 @@ Matched: `4267`
 ### Radeon R7 M265DX
 `Radeon R7 M265DX`
 ##### score
-`0.998`
+`1`
 ##### matches
-- `Radeon R6 + R7 M265DX Dual`
+- `Radeon R7 M265DX`
+### Radeon R7 M265DX
+`Radeon R7 M265DX`
+##### score
+`1`
+##### matches
+- `Radeon R7 M265DX`
 ### Radeon R7 M270
 `Radeon R7 M270`
 ##### score
@@ -24416,6 +29400,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon R7 M270`
+### Radeon R7 M270DX
+`Radeon R7 M270DX`
+##### score
+`1`
+##### matches
+- `Radeon R7 M270DX`
+### Radeon R7 M270DX
+`Radeon R7 M270DX`
+##### score
+`1`
+##### matches
+- `Radeon R7 M270DX`
 ### Radeon R7 M340
 `Radeon R7 M340`
 ##### score
@@ -24479,9 +29475,15 @@ Matched: `4267`
 ### Radeon R7 M380
 `Radeon R7 M380`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD Radeon R7 M380`
+- `Radeon R7 M380`
+### Radeon R7 M380
+`Radeon R7 M380`
+##### score
+`1`
+##### matches
+- `Radeon R7 M380`
 ### Radeon R7 M440
 `Radeon R7 M440`
 ##### score
@@ -24545,20 +29547,10 @@ Matched: `4267`
 ### Radeon R7 Mobile Graphics
 `Radeon R7 Mobile Graphics`
 ##### score
-`0.496` (below 0.75 threshold)
+`0.6636666666666666` (below 0.75 threshold)
 ##### matches
-- `Radeon R1E`
-- `Radeon R2`
-- `Radeon R2E`
-- `Radeon R3`
-- `Radeon R3E`
-- `Radeon R4`
-- `Radeon R5E`
-- `Radeon R6`
-- `Radeon Vega 10 Mobile`
-- `Radeon Vega 3 Mobile`
-- `Radeon Vega 8 Mobile`
-- `Radeon VII`
+- `Radeon R7 +8G`
+- `Radeon R7 G`
 ### Radeon R7 PRO A10-8770
 `Radeon R7 PRO A10-8770`
 ##### score
@@ -24589,12 +29581,31 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `Radeon 9500 PRO`
+### Radeon R7 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G
+`Radeon R7 PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G`
+##### score
+`0.992`
+##### matches
+- `Radeon 9500 PRO`
 ### Radeon R7 PRO A8-9600
 `Radeon R7 PRO A8-9600`
 ##### score
 `0.998`
 ##### matches
 - `Radeon 9600 PRO`
+### Radeon R7E
+`Radeon R7E`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `Radeon DDR`
+- `Radeon LE`
+- `Radeon SDR`
+- `Radeon VE`
+- `Radeon VII`
+- `Radeon Next`
+- `Mobility Radeon`
+- `Radeon Picasso`
 ### Radeon R8 M365DX
 `Radeon R8 M365DX`
 ##### score
@@ -24658,9 +29669,15 @@ Matched: `4267`
 ### Radeon R9 270
 `Radeon R9 270`
 ##### score
-`0.998`
+`1`
 ##### matches
-- `Radeon R9 270 / R7 370`
+- `Radeon R9 270`
+### Radeon R9 270
+`Radeon R9 270`
+##### score
+`1`
+##### matches
+- `Radeon R9 270`
 ### Radeon R9 270 / R7 370
 `Radeon R9 270 / R7 370`
 ##### score
@@ -24670,9 +29687,9 @@ Matched: `4267`
 ### Radeon R9 270 1024SP
 `Radeon R9 270 1024SP`
 ##### score
-`0.747` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Radeon R9 270 / R7 370`
+- `Radeon R9 270`
 ### Radeon R9 270X
 `Radeon R9 270X`
 ##### score
@@ -24712,9 +29729,15 @@ Matched: `4267`
 ### Radeon R9 285
 `Radeon R9 285`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Radeon R9 285 / 380`
+- `Radeon R9 285`
+### Radeon R9 285
+`Radeon R9 285`
+##### score
+`1`
+##### matches
+- `Radeon R9 285`
 ### Radeon R9 285 / 380
 `Radeon R9 285 / 380`
 ##### score
@@ -24724,9 +29747,15 @@ Matched: `4267`
 ### Radeon R9 290
 `Radeon R9 290`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Radeon R9 290 / 390`
+- `Radeon R9 290`
+### Radeon R9 290
+`Radeon R9 290`
+##### score
+`1`
+##### matches
+- `Radeon R9 290`
 ### Radeon R9 290 / 390
 `Radeon R9 290 / 390`
 ##### score
@@ -24736,10 +29765,15 @@ Matched: `4267`
 ### Radeon R9 290X
 `Radeon R9 290X`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Radeon R9 290X / 390X`
-- `AMD Radeon R9 290X`
+- `Radeon R9 290X`
+### Radeon R9 290X
+`Radeon R9 290X`
+##### score
+`1`
+##### matches
+- `Radeon R9 290X`
 ### Radeon R9 290X / 390X
 `Radeon R9 290X / 390X`
 ##### score
@@ -24854,6 +29888,18 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon R9 390X`
+### Radeon R9 A375
+`Radeon R9 A375`
+##### score
+`1`
+##### matches
+- `Radeon R9 A375`
+### Radeon R9 A375
+`Radeon R9 A375`
+##### score
+`1`
+##### matches
+- `Radeon R9 A375`
 ### Radeon R9 FURY
 `Radeon R9 FURY`
 ##### score
@@ -24883,6 +29929,12 @@ Matched: `4267`
 `Radeon R9 Fury + Fury X`
 ##### score
 `0.999`
+##### matches
+- `Radeon R9 FURY X`
+### Radeon R9 Fury X
+`Radeon R9 Fury X`
+##### score
+`1`
 ##### matches
 - `Radeon R9 FURY X`
 ### Radeon R9 M265X
@@ -24924,9 +29976,15 @@ Matched: `4267`
 ### Radeon R9 M275X
 `Radeon R9 M275X`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `Radeon R9 M275X / M375`
+- `Radeon R9 M275X`
+### Radeon R9 M275X
+`Radeon R9 M275X`
+##### score
+`1`
+##### matches
+- `Radeon R9 M275X`
 ### Radeon R9 M275X / M375
 `Radeon R9 M275X / M375`
 ##### score
@@ -24990,9 +30048,15 @@ Matched: `4267`
 ### Radeon R9 M365X
 `Radeon R9 M365X`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD Radeon R9 M365X`
+- `Radeon R9 M365X`
+### Radeon R9 M365X
+`Radeon R9 M365X`
+##### score
+`1`
+##### matches
+- `Radeon R9 M365X`
 ### Radeon R9 M370X
 `Radeon R9 M370X`
 ##### score
@@ -25050,9 +30114,15 @@ Matched: `4267`
 ### Radeon R9 M385
 `Radeon R9 M385`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD Radeon R9 M385`
+- `Radeon R9 M385`
+### Radeon R9 M385
+`Radeon R9 M385`
+##### score
+`1`
+##### matches
+- `Radeon R9 M385`
 ### Radeon R9 M385X
 `Radeon R9 M385X`
 ##### score
@@ -25134,9 +30204,15 @@ Matched: `4267`
 ### Radeon R9 M485X
 `Radeon R9 M485X`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `AMD Radeon R9 M485X`
+- `Radeon R9 M485X`
+### Radeon R9 M485X
+`Radeon R9 M485X`
+##### score
+`1`
+##### matches
+- `Radeon R9 M485X`
 ### Radeon R9 Nano
 `Radeon R9 Nano`
 ##### score
@@ -25176,17 +30252,17 @@ Matched: `4267`
 ### Radeon RX 470
 `Radeon RX 470`
 ##### score
-`1`
+`0.999`
 ##### matches
-- `Radeon RX 470`
-### Radeon RX 470
-`Radeon RX 470`
-##### score
-`1`
-##### matches
-- `Radeon RX 470`
+- `Radeon RX 470/570`
 ### Radeon RX 470 Mobile
 `Radeon RX 470 Mobile`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon RX 470/570`
+### Radeon RX 470/570
+`Radeon RX 470/570`
 ##### score
 `0.999`
 ##### matches
@@ -25209,6 +30285,19 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon RX 480`
+### Radeon RX 5300
+`Radeon RX 5300`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce PCX 5300`
+- `HD Graphics 5300`
+### Radeon RX 5300M
+`Radeon RX 5300M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 5300M`
 ### Radeon RX 540
 `Radeon RX 540`
 ##### score
@@ -25252,14 +30341,24 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon RX 550`
+### Radeon RX 5500
+`Radeon RX 5500`
+##### score
+`0.996`
+##### matches
+- `AMD Radeon RX 5500 XT (Desktop)`
 ### Radeon RX 5500 XT
 `Radeon RX 5500 XT`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `GeForce FX 5500`
-- `Quadro FX 5500`
-- `HD Graphics 5500`
+- `AMD Radeon RX 5500 XT (Desktop)`
+### Radeon RX 5500M
+`Radeon RX 5500M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 5500M`
 ### Radeon RX 550X
 `Radeon RX 550X`
 ##### score
@@ -25308,12 +30407,30 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon RX 560`
+### Radeon RX 5600
+`Radeon RX 5600`
+##### score
+`0.996`
+##### matches
+- `AMD Radeon RX 5600 XT (Desktop)`
+### Radeon RX 5600 OEM
+`Radeon RX 5600 OEM`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 5600 XT (Desktop)`
 ### Radeon RX 5600 XT
 `Radeon RX 5600 XT`
 ##### score
-`0.496` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `GeForce FX 5600 XT`
+- `AMD Radeon RX 5600 XT (Desktop)`
+### Radeon RX 5600M
+`Radeon RX 5600M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 5600M`
 ### Radeon RX 560X
 `Radeon RX 560X`
 ##### score
@@ -25335,39 +30452,33 @@ Matched: `4267`
 ### Radeon RX 570
 `Radeon RX 570`
 ##### score
-`1`
+`0.999`
 ##### matches
-- `Radeon RX 570`
-### Radeon RX 570
-`Radeon RX 570`
-##### score
-`1`
-##### matches
-- `Radeon RX 570`
+- `Radeon RX 470/570`
 ### Radeon RX 570 Mobile
 `Radeon RX 570 Mobile`
 ##### score
-`0.999`
+`0.748` (below 0.75 threshold)
 ##### matches
-- `Radeon RX 570`
+- `Radeon RX 470/570`
 ### Radeon RX 5700
 `Radeon RX 5700`
 ##### score
-`0.3293333333333333` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `GeForce FX 5700`
+- `AMD Radeon RX 5700 (Desktop)`
 ### Radeon RX 5700 XT
 `Radeon RX 5700 XT`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.997`
 ##### matches
-- `GeForce FX 5700`
+- `AMD Radeon RX 5700 XT (Desktop)`
 ### Radeon RX 5700 XT 50th Anniversary
 `Radeon RX 5700 XT 50th Anniversary`
 ##### score
-`0.3263333333333333` (below 0.75 threshold)
+`0.6616666666666666` (below 0.75 threshold)
 ##### matches
-- `GeForce FX 5700`
+- `AMD Radeon RX 5700 XT (Desktop)`
 ### Radeon RX 570X
 `Radeon RX 570X`
 ##### score
@@ -25419,15 +30530,21 @@ Matched: `4267`
 ### Radeon RX 580X
 `Radeon RX 580X`
 ##### score
-`0.997`
+`1`
 ##### matches
-- `AMD Radeon RX 580X (Laptop)`
+- `Radeon RX 580X`
+### Radeon RX 580X
+`Radeon RX 580X`
+##### score
+`1`
+##### matches
+- `Radeon RX 580X`
 ### Radeon RX 580X Mobile
 `Radeon RX 580X Mobile`
 ##### score
-`0.746` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `AMD Radeon RX 580X (Laptop)`
+- `Radeon RX 580X`
 ### Radeon RX 590
 `Radeon RX 590`
 ##### score
@@ -25440,6 +30557,183 @@ Matched: `4267`
 `1`
 ##### matches
 - `Radeon RX 590`
+### Radeon RX 640
+`Radeon RX 640`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 640`
+### Radeon RX 6400
+`Radeon RX 6400`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce Go 6400`
+### Radeon RX 6500
+`Radeon RX 6500`
+##### score
+`0.998`
+##### matches
+- `AMD Radeon RX 6500 XT`
+### Radeon RX 6500 XT
+`Radeon RX 6500 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6500 XT`
+### Radeon RX 6500M
+`Radeon RX 6500M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6500M`
+### Radeon RX 6600
+`Radeon RX 6600`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6600`
+### Radeon RX 6600 XT
+`Radeon RX 6600 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6600 XT`
+### Radeon RX 6600M
+`Radeon RX 6600M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6600M`
+### Radeon RX 6600S
+`Radeon RX 6600S`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6600S`
+### Radeon RX 6650 XT
+`Radeon RX 6650 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6650 XT`
+### Radeon RX 6650M
+`Radeon RX 6650M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6650M`
+### Radeon RX 6700
+`Radeon RX 6700`
+##### score
+`0.998`
+##### matches
+- `AMD Radeon RX 6700 XT`
+### Radeon RX 6700 XT
+`Radeon RX 6700 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6700 XT`
+### Radeon RX 6700M
+`Radeon RX 6700M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6700M`
+### Radeon RX 6700S
+`Radeon RX 6700S`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6700S`
+### Radeon RX 6750 XT
+`Radeon RX 6750 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6750 XT`
+### Radeon RX 6800
+`Radeon RX 6800`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6800`
+### Radeon RX 6800 XT
+`Radeon RX 6800 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6800 XT`
+### Radeon RX 6800M
+`Radeon RX 6800M`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6800M`
+### Radeon RX 6800S
+`Radeon RX 6800S`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6800S`
+### Radeon RX 6850M
+`Radeon RX 6850M`
+##### score
+`0.998`
+##### matches
+- `AMD Radeon RX 6850M XT`
+### Radeon RX 6850M XT
+`Radeon RX 6850M XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6850M XT`
+### Radeon RX 6900 XT
+`Radeon RX 6900 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6900 XT`
+### Radeon RX 6950 XT
+`Radeon RX 6950 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 6950 XT`
+### Radeon RX 7600
+`Radeon RX 7600`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce 7600 GS`
+- `GeForce 7600 GT`
+- `GeForce 7600 LE`
+- `GeForce Go 7600`
+### Radeon RX 7600M XT
+`Radeon RX 7600M XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 7600M XT`
+### Radeon RX 7600S
+`Radeon RX 7600S`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 7600S`
+### Radeon RX 7900 XT
+`Radeon RX 7900 XT`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 7900 XT`
+### Radeon RX 7900 XTX
+`Radeon RX 7900 XTX`
+##### score
+`0.999`
+##### matches
+- `AMD Radeon RX 7900 XTX`
 ### Radeon RX Vega 10
 `Radeon RX Vega 10`
 ##### score
@@ -25478,6 +30772,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon RX Vega 11`
+### Radeon RX Vega 11 PRD
+`Radeon RX Vega 11 PRD`
+##### score
+`0.999`
+##### matches
+- `Radeon RX Vega 11`
+### Radeon RX Vega 11 Processor
+`Radeon RX Vega 11 Processor`
+##### score
+`0.999`
+##### matches
+- `Radeon RX Vega 11`
 ### Radeon RX Vega 56
 `Radeon RX Vega 56`
 ##### score
@@ -25496,6 +30802,16 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon RX Vega 56`
+### Radeon RX Vega 6
+`Radeon RX Vega 6`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon RX Vega 56`
+- `Radeon RX Vega 64`
+- `Radeon RX Vega Nano`
+- `Radeon RX Vega 11`
+- `Radeon Vega 6 Mobile`
 ### Radeon RX Vega 64
 `Radeon RX Vega 64`
 ##### score
@@ -25526,7 +30842,6 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon Vega 8`
-- `AMD Radeon RX Vega 8`
 ### Radeon RX Vega M GH
 `Radeon RX Vega M GH`
 ##### score
@@ -25559,6 +30874,7 @@ Matched: `4267`
 - `Radeon RX Vega 10`
 - `Radeon RX Vega 11`
 - `Radeon RX Vega 56`
+- `Radeon RX Vega 6`
 - `Radeon RX Vega 64`
 - `Radeon RX Vega 8`
 ### Radeon RX Vega11
@@ -25570,33 +30886,103 @@ Matched: `4267`
 - `Radeon RX Vega 64`
 - `Radeon RX Vega Nano`
 - `Radeon RX Vega 11`
+### Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition
+`Radeon RX Vega11 Ryzen 7 Microsoft Surface Edition`
+##### score
+`0.593` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX Vega 7`
+### Radeon Ryzen 5 4400G
+`Radeon Ryzen 5 4400G`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 4400G`
+### Radeon Ryzen 5 7600 6-Core
+`Radeon Ryzen 5 7600 6-Core`
+##### score
+`0.3263333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce 7600 GS`
+- `GeForce 7600 GT`
+- `GeForce 7600 LE`
+- `GeForce Go 7600`
+### Radeon Ryzen 5 Microsoft Surface Edition
+`Radeon Ryzen 5 Microsoft Surface Edition`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `Radeon DDR`
+- `Radeon LE`
+- `Radeon SDR`
+- `Radeon VE`
+- `Radeon VII`
+- `Radeon Next`
+- `Mobility Radeon`
+- `Radeon Vega Frontier Edition`
+- `Radeon Picasso`
+### Radeon Ryzen 7 7700 8-Core
+`Radeon Ryzen 7 7700 8-Core`
+##### score
+`0.3263333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce Go 7700`
+### Radeon Ryzen 7 Microsoft Surface Edition
+`Radeon Ryzen 7 Microsoft Surface Edition`
+##### score
+`0.494` (below 0.75 threshold)
+##### matches
+- `Radeon DDR`
+- `Radeon LE`
+- `Radeon SDR`
+- `Radeon VE`
+- `Radeon VII`
+- `Radeon Next`
+- `Mobility Radeon`
+- `Radeon Vega Frontier Edition`
+- `Radeon Picasso`
+### Radeon Ryzen 9 7900 12-Core
+`Radeon Ryzen 9 7900 12-Core`
+##### score
+`0.393` (below 0.75 threshold)
+##### matches
+- `AMD Radeon RX 7900 XTX`
+- `AMD Radeon RX 7900 XT`
 ### Radeon SDR
 `Radeon SDR`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon SDR PCI
 `Radeon SDR PCI`
 ##### score
 `0.497` (below 0.75 threshold)
 ##### matches
+- `Radeon Pro`
 - `Radeon R1E`
 - `Radeon R2`
 - `Radeon R2E`
 - `Radeon R3`
 - `Radeon R3E`
 - `Radeon R4`
+- `Radeon R4E`
 - `Radeon R5E`
 - `Radeon R6`
+- `Radeon R7E`
+- `Radeon VE`
 - `Radeon VII`
 ### Radeon Sky 500
 `Radeon Sky 500`
@@ -25613,9 +30999,9 @@ Matched: `4267`
 ### Radeon Sky 900
 `Radeon Sky 900`
 ##### score
-`0.3263333333333333` (below 0.75 threshold)
+`0.3293333333333333` (below 0.75 threshold)
 ##### matches
-- `Intel Graphics Media Accelerator (GMA) 900`
+- `Quadro4 900 XGL`
 ### Radeon TM R9 A360
 `Radeon TM R9 A360`
 ##### score
@@ -25625,31 +31011,21 @@ Matched: `4267`
 ### Radeon VE
 `Radeon VE`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Radeon R1E`
-- `Radeon R2`
-- `Radeon R2E`
-- `Radeon R3`
-- `Radeon R3E`
-- `Radeon R4`
-- `Radeon R5E`
-- `Radeon R6`
-- `Radeon VII`
+- `Radeon VE`
+### Radeon VE
+`Radeon VE`
+##### score
+`1`
+##### matches
+- `Radeon VE`
 ### Radeon VE PCI
 `Radeon VE PCI`
 ##### score
-`0.497` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Radeon R1E`
-- `Radeon R2`
-- `Radeon R2E`
-- `Radeon R3`
-- `Radeon R3E`
-- `Radeon R4`
-- `Radeon R5E`
-- `Radeon R6`
-- `Radeon VII`
+- `Radeon VE`
 ### Radeon VII
 `Radeon VII`
 ##### score
@@ -25688,6 +31064,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon Vega 11`
+### Radeon Vega 2
+`Radeon Vega 2`
+##### score
+`0.998`
+##### matches
+- `AMD Radeon RX Vega 2`
 ### Radeon Vega 3
 `Radeon Vega 3`
 ##### score
@@ -25696,6 +31078,12 @@ Matched: `4267`
 - `Radeon Vega 3 Embedded`
 - `Radeon Vega 3 Efficient`
 - `Radeon Vega 3 Mobile`
+### Radeon Vega 3 Athlon 3000G
+`Radeon Vega 3 Athlon 3000G`
+##### score
+`0.3273333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 3000G`
 ### Radeon Vega 3 Efficient
 `Radeon Vega 3 Efficient`
 ##### score
@@ -25777,9 +31165,15 @@ Matched: `4267`
 ### Radeon Vega 9
 `Radeon Vega 9`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.998`
 ##### matches
-- `Radeon Vega 8`
+- `AMD Radeon RX Vega 9`
+### Radeon Vega 9 Ryzen 5 Microsoft Surface Edition
+`Radeon Vega 9 Ryzen 5 Microsoft Surface Edition`
+##### score
+`0.744` (below 0.75 threshold)
+##### matches
+- `Radeon Vega Frontier Edition`
 ### Radeon Vega Frontier Edition
 `Radeon Vega Frontier Edition`
 ##### score
@@ -26299,29 +31693,29 @@ Matched: `4267`
 ##### score
 `0.999`
 ##### matches
-- `256MB RADEON X600`
 - `MOBILITY RADEON X600`
+- `RADEON X600 PRO`
+- `RADEON X600 SE`
 ### Radeon X600 PRO
 `Radeon X600 PRO`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `256MB RADEON X600`
-- `MOBILITY RADEON X600`
+- `RADEON X600 PRO`
 ### Radeon X600 SE
 `Radeon X600 SE`
 ##### score
-`0.999`
+`1`
 ##### matches
-- `128MB RADEON X600 SE`
-- `MOBILITY RADEON X600 SE`
+- `RADEON X600 SE`
 ### Radeon X600 XT
 `Radeon X600 XT`
 ##### score
 `0.6646666666666666` (below 0.75 threshold)
 ##### matches
-- `256MB RADEON X600`
 - `MOBILITY RADEON X600`
+- `RADEON X600 PRO`
+- `RADEON X600 SE`
 ### Radeon X700
 `Radeon X700`
 ##### score
@@ -26372,18 +31766,15 @@ Matched: `4267`
 - `RADEON X800 GT`
 - `RADEON X800 GTO`
 - `RADEON X800 PRO`
+- `RADEON X800 SE`
 - `RADEON X800 XL`
 - `RADEON X800 XT`
 ### Radeon X800 CrossFire Edition
 `Radeon X800 CrossFire Edition`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`0.747` (below 0.75 threshold)
 ##### matches
-- `RADEON X800 GT`
-- `RADEON X800 GTO`
-- `RADEON X800 PRO`
-- `RADEON X800 XL`
-- `RADEON X800 XT`
+- `RADEON X800 XT Platinum Edition`
 ### Radeon X800 GT
 `Radeon X800 GT`
 ##### score
@@ -26416,6 +31807,7 @@ Matched: `4267`
 - `RADEON X800 GT`
 - `RADEON X800 GTO`
 - `RADEON X800 PRO`
+- `RADEON X800 SE`
 - `RADEON X800 XL`
 - `RADEON X800 XT`
 ### Radeon X800 PRO
@@ -26433,23 +31825,15 @@ Matched: `4267`
 ### Radeon X800 SE
 `Radeon X800 SE`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`1`
 ##### matches
-- `RADEON X800 GT`
-- `RADEON X800 GTO`
-- `RADEON X800 PRO`
-- `RADEON X800 XL`
-- `RADEON X800 XT`
+- `RADEON X800 SE`
 ### Radeon X800 SE AGP
 `Radeon X800 SE AGP`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RADEON X800 GT`
-- `RADEON X800 GTO`
-- `RADEON X800 PRO`
-- `RADEON X800 XL`
-- `RADEON X800 XT`
+- `RADEON X800 SE`
 ### Radeon X800 VE AGP
 `Radeon X800 VE AGP`
 ##### score
@@ -26458,6 +31842,7 @@ Matched: `4267`
 - `RADEON X800 GT`
 - `RADEON X800 GTO`
 - `RADEON X800 PRO`
+- `RADEON X800 SE`
 - `RADEON X800 XL`
 - `RADEON X800 XT`
 ### Radeon X800 XL
@@ -26496,6 +31881,7 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `RADEON X800 XT`
+- `RADEON X800 XT Platinum Edition`
 ### Radeon X800 XT Platinum AGP
 `Radeon X800 XT Platinum AGP`
 ##### score
@@ -26608,6 +31994,12 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon Xpress 1270`
+### Radeon Xpress 1300
+`Radeon Xpress 1300`
+##### score
+`0.3293333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 1300`
 ### Radeon Xpress 200 IGP
 `Radeon Xpress 200 IGP`
 ##### score
@@ -26626,54 +32018,72 @@ Matched: `4267`
 `0.998`
 ##### matches
 - `Radeon 2100`
-### RadeonT R5 430
-`RadeonT R5 430`
+### RadeonT 610M
+`RadeonT 610M`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`0.498` (below 0.75 threshold)
 ##### matches
-- `Radeon R5 430 OEM`
-### RadeonT R7 450
-`RadeonT R7 450`
+- `GeForce 610M`
+### RadeonT RX 6850M XT
+`RadeonT RX 6850M XT`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`0.747` (below 0.75 threshold)
 ##### matches
-- `Radeon R7 450 OEM`
+- `AMD Radeon RX 6850M XT`
+### RadeonT RX Vega 11
+`RadeonT RX Vega 11`
+##### score
+`0.748` (below 0.75 threshold)
+##### matches
+- `Radeon RX Vega 11`
+### RadeonT Vega 8
+`RadeonT Vega 8`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `Radeon Vega 8`
 ### Rage 128 GL
 `Rage 128 GL`
 ##### score
-`0.6616666666666666` (below 0.75 threshold)
+`0.6646666666666666` (below 0.75 threshold)
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### Rage 128 GL PCI
 `Rage 128 GL PCI`
 ##### score
-`0.494` (below 0.75 threshold)
+`0.6636666666666666` (below 0.75 threshold)
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### Rage 128 PRO
 `Rage 128 PRO`
 ##### score
-`0.997`
+`1`
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### Rage 128 PRO Ultra
 `Rage 128 PRO Ultra`
 ##### score
-`0.746` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### Rage 128 PRO Ultra GL
 `Rage 128 PRO Ultra GL`
 ##### score
-`0.595` (below 0.75 threshold)
+`0.998`
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
+### Rage 128 Pro
+`Rage 128 Pro`
+##### score
+`1`
+##### matches
+- `Rage 128 PRO`
 ### Rage 128 Ultra
 `Rage 128 Ultra`
 ##### score
-`0.6616666666666666` (below 0.75 threshold)
+`0.6646666666666666` (below 0.75 threshold)
 ##### matches
-- `RAGE 128 PRO AGP 4X TMDS`
+- `Rage 128 Pro`
 ### Rage 128 VR AGP
 `Rage 128 VR AGP`
 ##### score
@@ -26704,12 +32114,13 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Rage Mobility 128
 `Rage Mobility 128`
 ##### score
-`0.6636666666666666` (below 0.75 threshold)
+`0.6646666666666666` (below 0.75 threshold)
 ##### matches
-- `ATI Mobility 128 M3`
+- `Rage 128 Pro`
 ### Rage Mobility-CL
 `Rage Mobility-CL`
 ##### score
@@ -26752,20 +32163,27 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Rage PRO Turbo PCI
 `Rage PRO Turbo PCI`
 ##### score
 `0.496` (below 0.75 threshold)
 ##### matches
 - `Quadro2 Pro`
+- `Radeon Pro`
 ### Rage XL
 `Rage XL`
 ##### score
 `-0.003` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### Rage XL PCI
@@ -26773,9 +32191,14 @@ Matched: `4267`
 ##### score
 `-0.004` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### Red Hat QXL controller
@@ -26799,12 +32222,14 @@ Matched: `4267`
 `0.497` (below 0.75 threshold)
 ##### matches
 - `FireGL T2-128`
+- `Rage 128 Pro`
 ### Riva 128 PCI
 `Riva 128 PCI`
 ##### score
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
 - `FireGL T2-128`
+- `Rage 128 Pro`
 ### Riva TNT
 `Riva TNT`
 ##### score
@@ -26841,6 +32266,18 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `RIVA TNT2/TNT2 Pro`
+### Ryzen 5 PRO 4400G with Radeon Graphics
+`Ryzen 5 PRO 4400G with Radeon Graphics`
+##### score
+`0.3253333333333333` (below 0.75 threshold)
+##### matches
+- `Quadro FX 4400G`
+### Ryzen 7 Extreme Edition
+`Ryzen 7 Extreme Edition`
+##### score
+`0.496` (below 0.75 threshold)
+##### matches
+- `Extreme Graphics`
 ### S3 Chrome 430 ULP
 `S3 Chrome 430 ULP`
 ##### score
@@ -26848,10 +32285,28 @@ Matched: `4267`
 ##### matches
 - `GeForce GT 430`
 - `Qualcomm Adreno 430`
+### S3 Chrome S25
+`S3 Chrome S25`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `VIA S3 Graphics ProSavage8`
 ### S3 Chrome S25 DDR2
 `S3 Chrome S25 DDR2`
 ##### score
 `0.244` (below 0.75 threshold)
+##### matches
+- `VIA S3 Graphics ProSavage8`
+### S3 Chrome S27 DDR3
+`S3 Chrome S27 DDR3`
+##### score
+`0.244` (below 0.75 threshold)
+##### matches
+- `VIA S3 Graphics ProSavage8`
+### S3 Inc. Savage4
+`S3 Inc. Savage4`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
 ##### matches
 - `VIA S3 Graphics ProSavage8`
 ### S3 ProSavageDDR
@@ -26860,6 +32315,12 @@ Matched: `4267`
 `0.496` (below 0.75 threshold)
 ##### matches
 - `VIA S3 Graphics ProSavage8`
+### SAPPHIRE RADEON 9000 ATLANTIS PRO
+`SAPPHIRE RADEON 9000 ATLANTIS PRO`
+##### score
+`0.998`
+##### matches
+- `Radeon 9000 PRO`
 ### SAPPHIRE RADEON 9600 ATLANTIS
 `SAPPHIRE RADEON 9600 ATLANTIS`
 ##### score
@@ -26877,9 +32338,14 @@ Matched: `4267`
 ##### score
 `-0.002` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### Sapphire RADEON X800 GT
@@ -26888,16 +32354,86 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Radeon X800 GT`
+### Seria Mobility Radeon HD 3400
+`Seria Mobility Radeon HD 3400`
+##### score
+`0.798`
+##### matches
+- `ATI Mobility Radeon HD 3400`
+### Seria Radeon HD 7700
+`Seria Radeon HD 7700`
+##### score
+`0.3283333333333333` (below 0.75 threshold)
+##### matches
+- `GeForce Go 7700`
 ### Stream Processor
 `Stream Processor`
 ##### score
-`-0.003` (below 0.75 threshold)
+`0.495` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `Radeon RX Vega 11 Processor`
+### Surface Duo Adreno 640 GPU
+`Surface Duo Adreno 640 GPU`
+##### score
+`0.6626666666666666` (below 0.75 threshold)
+##### matches
+- `Qualcomm Adreno 640`
+### T1000
+`T1000`
+##### score
+`0.996`
+##### matches
+- `NVIDIA Quadro T1000 (Laptop)`
+- `NVIDIA Quadro T1000 Max-Q`
+### T1000 8GB
+`T1000 8GB`
+##### score
+`0.495` (below 0.75 threshold)
+##### matches
+- `NVIDIA Quadro T1000 (Laptop)`
+- `NVIDIA Quadro T1000 Max-Q`
+### T1200 Laptop GPU
+`T1200 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA T1200 Laptop GPU`
+### T500
+`T500`
+##### score
+`0.997`
+##### matches
+- `NVIDIA T500 Laptop GPU`
+### T550 Laptop GPU
+`T550 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA T550 Laptop GPU`
+### T600
+`T600`
+##### score
+`0.999`
+##### matches
+- `NVIDIA T600`
+### T600 Laptop GPU
+`T600 Laptop GPU`
+##### score
+`0.999`
+##### matches
+- `NVIDIA T600 Laptop GPU`
+### TENSOR 1.0 Driver Intel HD 530
+`TENSOR 1.0 Driver Intel HD 530`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Intel HD Graphics 530`
+### TENSOR 1.0 Driver Intel HD 630
+`TENSOR 1.0 Driver Intel HD 630`
+##### score
+`0.745` (below 0.75 threshold)
+##### matches
+- `Intel HD Graphics 630`
 ### TITAN RTX
 `TITAN RTX`
 ##### score
@@ -27069,97 +32605,297 @@ Matched: `4267`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K20X
 `Tesla K20X`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K20Xm
 `Tesla K20Xm`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla K20Xm`
+### Tesla K20Xm
+`Tesla K20Xm`
+##### score
+`1`
+##### matches
+- `Tesla K20Xm`
 ### Tesla K20c
 `Tesla K20c`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K20m
 `Tesla K20m`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla K20m`
+### Tesla K20m
+`Tesla K20m`
+##### score
+`1`
+##### matches
+- `Tesla K20m`
 ### Tesla K20s
 `Tesla K20s`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K40c
 `Tesla K40c`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla K40c`
+### Tesla K40c
+`Tesla K40c`
+##### score
+`1`
+##### matches
+- `Tesla K40c`
 ### Tesla K40m
 `Tesla K40m`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla K40m`
+### Tesla K40m
+`Tesla K40m`
+##### score
+`1`
+##### matches
+- `Tesla K40m`
 ### Tesla K40s
 `Tesla K40s`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K40st
 `Tesla K40st`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla K8
 `Tesla K8`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
+### Tesla K80
+`Tesla K80`
+##### score
+`0.498` (below 0.75 threshold)
+##### matches
+- `Tesla K10`
+- `Tesla K20X`
+- `Tesla K20Xm`
+- `Tesla K20c`
+- `Tesla K20m`
+- `Tesla K20s`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K40s`
+- `Tesla K40st`
+- `Tesla K8`
+- `Tesla K80m`
+- `Tesla M10`
+- `Tesla M4`
+- `Tesla M40`
+- `Tesla M6`
+- `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla P6`
+- `Tesla T4`
 ### Tesla K80m
 `Tesla K80m`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla M10
 `Tesla M10`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla M10`
+### Tesla M10
+`Tesla M10`
+##### score
+`1`
+##### matches
+- `Tesla M10`
+### Tesla M2070
+`Tesla M2070`
+##### score
+`0.999`
+##### matches
+- `Tesla M2070-Q`
+### Tesla M2070-Q
+`Tesla M2070-Q`
+##### score
+`1`
+##### matches
+- `Tesla M2070-Q`
+### Tesla M2070-Q
+`Tesla M2070-Q`
+##### score
+`1`
+##### matches
+- `Tesla M2070-Q`
 ### Tesla M4
 `Tesla M4`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
 ### Tesla M40
 `Tesla M40`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla M40`
+### Tesla M40
+`Tesla M40`
+##### score
+`1`
+##### matches
+- `Tesla M40`
+### Tesla M40 24GB
+`Tesla M40 24GB`
+##### score
+`0.999`
+##### matches
+- `Tesla M40`
 ### Tesla M6
 `Tesla M6`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla M6`
+### Tesla M6
+`Tesla M6`
+##### score
+`1`
+##### matches
+- `Tesla M6`
 ### Tesla M60
 `Tesla M60`
 ##### score
@@ -27206,38 +32942,127 @@ Matched: `4267`
 ### Tesla P4
 `Tesla P4`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla P4`
+### Tesla P4
+`Tesla P4`
+##### score
+`1`
+##### matches
+- `Tesla P4`
 ### Tesla P40
 `Tesla P40`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla P40`
+### Tesla P40
+`Tesla P40`
+##### score
+`1`
+##### matches
+- `Tesla P40`
 ### Tesla P6
 `Tesla P6`
 ##### score
 `0.498` (below 0.75 threshold)
 ##### matches
+- `Tesla K20m`
+- `Tesla K20Xm`
+- `Tesla K40c`
+- `Tesla K40m`
+- `Tesla K80`
+- `Tesla M10`
+- `Tesla M40`
+- `Tesla M6`
 - `Tesla M60`
+- `Tesla P4`
+- `Tesla P40`
+- `Tesla T10`
+- `Tesla T4`
+### Tesla T10
+`Tesla T10`
+##### score
+`0.999`
+##### matches
+- `Tesla T10 Processor`
 ### Tesla T10 Processor
 `Tesla T10 Processor`
 ##### score
-`0.497` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Tesla M60`
+- `Tesla T10`
 ### Tesla T4
 `Tesla T4`
 ##### score
-`0.498` (below 0.75 threshold)
+`1`
 ##### matches
-- `Tesla M60`
+- `Tesla T4`
+### Tesla T4
+`Tesla T4`
+##### score
+`1`
+##### matches
+- `Tesla T4`
+### Tesla V100 DGXS
+`Tesla V100 DGXS`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Tesla V100-PCIE-32GB`
+- `Tesla V100-SXM2-16GB`
+### Tesla V100 FHHL
+`Tesla V100 FHHL`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `Tesla V100-PCIE-32GB`
+- `Tesla V100-SXM2-16GB`
+### Tesla V100 PCIe 16 GB
+`Tesla V100 PCIe 16 GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100-PCIE-32GB`
+### Tesla V100 PCIe 32 GB
+`Tesla V100 PCIe 32 GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100-PCIE-32GB`
+### Tesla V100 SXM2 16 GB
+`Tesla V100 SXM2 16 GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100-SXM2-16GB`
+### Tesla V100 SXM2 32 GB
+`Tesla V100 SXM2 32 GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100-SXM2-16GB`
+### Tesla V100-PCIE-32GB
+`Tesla V100-PCIE-32GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100 PCIe 16 GB`
+- `Tesla V100 PCIe 32 GB`
+### Tesla V100-SXM2-16GB
+`Tesla V100-SXM2-16GB`
+##### score
+`0.747` (below 0.75 threshold)
+##### matches
+- `Tesla V100 SXM2 16 GB`
+- `Tesla V100 SXM2 32 GB`
 ### UHD Graphics 600
 `UHD Graphics 600`
 ##### score
 `0.999`
 ##### matches
+- `Intel UHD Graphics 600`
 - `Intel UHD Graphics 600`
 ### UHD Graphics 605
 `UHD Graphics 605`
@@ -27245,23 +33070,27 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Intel UHD Graphics 605`
+- `Intel UHD Graphics 605`
 ### UHD Graphics 610
 `UHD Graphics 610`
 ##### score
-`0.6646666666666666` (below 0.75 threshold)
+`0.999`
 ##### matches
-- `Intel UHD 610`
+- `Intel UHD Graphics 610`
+- `Intel UHD Graphics 610`
 ### UHD Graphics 615
 `UHD Graphics 615`
 ##### score
 `0.999`
 ##### matches
 - `Intel UHD Graphics 615`
+- `Intel UHD Graphics 615`
 ### UHD Graphics 617
 `UHD Graphics 617`
 ##### score
 `0.999`
 ##### matches
+- `Intel UHD Graphics 617`
 - `Intel UHD Graphics 617`
 ### UHD Graphics 620
 `UHD Graphics 620`
@@ -27276,14 +33105,20 @@ Matched: `4267`
 `0.999`
 ##### matches
 - `Intel UHD Graphics 630`
+- `Intel UHD Graphics 630`
 ### VGA Improved Performance
 `VGA Improved Performance`
 ##### score
 `-0.004` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### VGA Wonder
@@ -27291,9 +33126,14 @@ Matched: `4267`
 ##### score
 `-0.003` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### VGA Wonder XL24
@@ -27301,9 +33141,14 @@ Matched: `4267`
 ##### score
 `-0.004` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### VGA Wonder+
@@ -27372,6 +33217,18 @@ Matched: `4267`
 `0.996`
 ##### matches
 - `VIA Chrome9 HC`
+### VIA Chrome9 HC3 IGP
+`VIA Chrome9 HC3 IGP`
+##### score
+`0.6636666666666666` (below 0.75 threshold)
+##### matches
+- `VIA Chrome9 HC`
+### VIA Chrome9 HC3 IGP WDDM 1.1
+`VIA Chrome9 HC3 IGP WDDM 1.1`
+##### score
+`0.6606666666666666` (below 0.75 threshold)
+##### matches
+- `VIA Chrome9 HC`
 ### VIA Chrome9 HCM IGP
 `VIA Chrome9 HCM IGP`
 ##### score
@@ -27414,6 +33271,13 @@ Matched: `4267`
 `0.798`
 ##### matches
 - `VIA/S3G UniChrome Pro IGP`
+### VIA/S3G C-645/640 GPU
+`VIA/S3G C-645/640 GPU`
+##### score
+`0.242` (below 0.75 threshold)
+##### matches
+- `GeForce GT 645 OEM`
+- `GeForce GTX 645 OEM`
 ### VIA/S3G Chrome 645/640 GPU
 `VIA/S3G Chrome 645/640 GPU`
 ##### score
@@ -27463,9 +33327,14 @@ Matched: `4267`
 ##### score
 `-0.003` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### Video Xpression+
@@ -27486,6 +33355,12 @@ Matched: `4267`
 - `Intel HD Graphics (Braswell)`
 - `Intel HD Graphics (Haswell)`
 - `AMD Radeon R6 (Mullins)`
+### VisionTek Radeon 7000
+`VisionTek Radeon 7000`
+##### score
+`0.999`
+##### matches
+- `Radeon 7000`
 ### Volari 8300
 `Volari 8300`
 ##### score
@@ -27503,15 +33378,15 @@ Matched: `4267`
 ### Volari Duo V5 Ultra
 `Volari Duo V5 Ultra`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `Radeon Pro Duo`
+- `GeForce2 Ultra`
 ### Volari Duo V8 Ultra
 `Volari Duo V8 Ultra`
 ##### score
-`0.3283333333333333` (below 0.75 threshold)
+`0.496` (below 0.75 threshold)
 ##### matches
-- `Radeon Pro Duo`
+- `GeForce2 Ultra`
 ### Volari V3
 `Volari V3`
 ##### score
@@ -27523,47 +33398,32 @@ Matched: `4267`
 ##### score
 `0.3293333333333333` (below 0.75 threshold)
 ##### matches
+- `OPAL XT/GL`
 - `RGH Drivers v3`
 ### Volari V5
 `Volari V5`
 ##### score
-`-0.003` (below 0.75 threshold)
+`0.493` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `XGI Volari Family v1.13.23.D_V`
 ### Volari V5 Ultra
 `Volari V5 Ultra`
 ##### score
-`-0.004` (below 0.75 threshold)
+`0.497` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `GeForce2 Ultra`
 ### Volari V8
 `Volari V8`
 ##### score
-`-0.003` (below 0.75 threshold)
+`0.493` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `XGI Volari Family v1.13.23.D_V`
 ### Volari V8 Ultra
 `Volari V8 Ultra`
 ##### score
-`-0.004` (below 0.75 threshold)
+`0.497` (below 0.75 threshold)
 ##### matches
-- `GeForce3`
-- `ION`
-- `MxGPU`
-- `Xabre`
-- `unknown`
+- `GeForce2 Ultra`
 ### Wii U GPU
 `Wii U GPU`
 ##### score
@@ -27575,9 +33435,14 @@ Matched: `4267`
 ##### score
 `-0.002` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### WinCharger
@@ -27585,9 +33450,14 @@ Matched: `4267`
 ##### score
 `-0.002` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
 ### WinTurbo
@@ -27595,32 +33465,24 @@ Matched: `4267`
 ##### score
 `-0.002` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
-### Wine Display Adapter
-`Wine Display Adapter`
+### XGI Volari Family v1.13.23.D_V
+`XGI Volari Family v1.13.23.D_V`
 ##### score
-`-0.004` (below 0.75 threshold)
+`0.493` (below 0.75 threshold)
 ##### matches
-- `WinBoost`
-- `WinCharger`
-- `WinTurbo`
-- `NV1`
-- `STG`
-- `GeForce3`
-- `Quadro`
-- `GMA`
-- `ION`
-- `unknown`
-### XFX Radeon HD 4650 AGP
-`XFX Radeon HD 4650 AGP`
-##### score
-`0.999`
-##### matches
-- `Radeon HD 4650 AGP`
+- `Volari V3`
+- `Volari V5`
+- `Volari V8`
 ### Xabre
 `Xabre`
 ##### score
@@ -27659,11 +33521,23 @@ Matched: `4267`
 ##### score
 `-0.004` (below 0.75 threshold)
 ##### matches
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
 - `unknown`
+### ZX Chrome 645/640 GPU
+`ZX Chrome 645/640 GPU`
+##### score
+`0.243` (below 0.75 threshold)
+##### matches
+- `GeForce GT 645 OEM`
+- `GeForce GTX 645 OEM`
 ### Zhongshan Subor Z+
 `Zhongshan Subor Z+`
 ##### score
@@ -27684,7 +33558,18 @@ Matched: `4267`
 - `Quadro`
 - `GMA`
 - `ION`
+- `A16`
+- `B8DKMDAP`
+- `BASICDISPLAY`
 - `GeForce3`
 - `ION`
+- `MIRRORV3`
 - `MxGPU`
+- `NV44`
 - `Xabre`
+### zxcvIntel HD 620
+`zxcvIntel HD 620`
+##### score
+`0.6646666666666666` (below 0.75 threshold)
+##### matches
+- `HD Graphics 620`

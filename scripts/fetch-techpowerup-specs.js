@@ -25,7 +25,14 @@ async function getGenerationOptions() {
 async function fetchGenerationList(option, database) {
 
     const req = await fetch(`https://www.techpowerup.com/gpu-specs/?generation=${ option }&sort=name&ajax=1`);
-    const json = await req.json();
+    let json = {};
+
+		try {
+			json = await req.json();
+		} catch (err) {
+			console.log(err.toString());
+			return false;
+		}
 
     const dom = new JSDOM(json.list);
     const document = dom.window.document;
@@ -59,6 +66,8 @@ async function fetchGenerationList(option, database) {
 
     });
 
+		return true;
+
 }
 
 async function fetchData() {
@@ -66,17 +75,17 @@ async function fetchData() {
     const genOptions = await getGenerationOptions();
     const database = {};
 
-    for (let i = 0; i < genOptions.length; i++) {
+	for (let i = 0; i < genOptions.length; i++) {
+		let gotData = false
+		do {
+			await wait(60000)
 
-		// add 30 second delay
-		await wait(30000);
+			console.log(`Fetching generation '${genOptions[i]}' info`)
+			gotData = await fetchGenerationList(genOptions[i], database)
+		} while (!gotData)
+	}
 
-        console.log(`Fetching generation '${ genOptions[i] }' info`);
-        await fetchGenerationList(genOptions[i], database);
-
-    }
-
-    return database;
+	return database
 
 }
 

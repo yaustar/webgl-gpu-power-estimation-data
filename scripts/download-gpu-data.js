@@ -17,16 +17,16 @@ const path = require('path');
 
     }
 
-    {
-
-        console.log('Fetching techpowerup.com data...');
-        const data = await TP.fetchData();
-
-        const filePath = path.join(__dirname, '../data/techpowerup-gpus.json');
-        const jsonStr = JSON.stringify(data, null, 4);
-        fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
-
-    }
+    // {
+	//
+    //     console.log('Fetching techpowerup.com data...');
+    //     const data = await TP.fetchData();
+	//
+    //     const filePath = path.join(__dirname, '../data/techpowerup-gpus.json');
+    //     const jsonStr = JSON.stringify(data, null, 4);
+    //     fs.writeFileSync(filePath, jsonStr, { encoding: 'utf8' });
+	//
+    // }
 
 	{
 

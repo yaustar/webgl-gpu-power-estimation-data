@@ -84,7 +84,6 @@ async function fetchData() {
 
     const database = {};
     for (let i = 0; i < rows.length; i++) {
-
 		const row = rows[i];
 		const columns = [ ...row.querySelectorAll('td') ];
 		const fields = columns.map(c => innerText(c));
