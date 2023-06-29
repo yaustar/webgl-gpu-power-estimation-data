@@ -191,7 +191,7 @@ function generatePerformanceScore(database) {
 	for(const name in database) {
 
 		const gpu = database[name];
-		let score = null;
+		let score = 0;
 
 		// if a gpu has a passmark score just use that
 		if (gpu.benchmarks.passmark) {
@@ -200,67 +200,67 @@ function generatePerformanceScore(database) {
 
 		} else {
 
-			// find the best benchmark from the preferred that this gpu
-			// has data for
-			const benchType = benchPref.filter(b => !!gpu.benchmarks[b])[0];
-			if (benchType) {
-
-				// get an array of gpus that have have both the passmark data and
-				// performance data for benchType.
-				const interpolationArray = benchmarks
-					.filter(b => !!b[benchType])
-					.sort((a, b) => a[benchType] - b[benchType]);
-
-				// TODO: It might be best to gather many scores and weight
-				// the associated passmark scores when generating a new one.
-				// Only two GPUs that have a comparable benchmark type are used here.
-				const thisRank = gpu.benchmarks[benchType];
-				for (let i = 0; i < interpolationArray.length - 1; i++) {
-
-					const curr = interpolationArray[i];
-					const next = interpolationArray[i + 1];
-
-					const currbt = curr[benchType];
-					const nextbt = next[benchType];
-
-					// iterate up until we find scores that are strictly higher than our score
-					if (thisRank < currbt) continue;
-
-					const currp = curr.passmark;
-					const nextp = next.passmark;
-
-					// find how far between this and the next score this value is
-					const ratio = (thisRank - currbt) / (nextbt - currbt);
-
-					// if the passmark scores are in order (currp is less than nextp),
-					// then interpolate as expect. Otherwise reverse the interpolation.
-					// TODO: this is redundant...
-					if (currp < nextp) {
-						score = currp + (nextp - currp) * ratio;
-					} else {
-						score = nextp + (currp - nextp) * (1 - ratio);
-					}
-
-				}
-
-				// if we can't generate a score then see if we're
-				// larger or smaller than all elements in the array
-				// and use a score from the extreme values
-				if (score === null && interpolationArray.length !== 0) {
-
-					if (thisRank < interpolationArray[0][benchType]) {
-
-						score = interpolationArray[0].passmark;
-
-					} else {
-
-						score = interpolationArray[interpolationArray.length - 1].passmark;
-
-					}
-
-				}
-
-			}
+			// // find the best benchmark from the preferred that this gpu
+			// // has data for
+			// const benchType = benchPref.filter(b => !!gpu.benchmarks[b])[0];
+			// if (benchType) {
+			//
+			// 	// get an array of gpus that have have both the passmark data and
+			// 	// performance data for benchType.
+			// 	const interpolationArray = benchmarks
+			// 		.filter(b => !!b[benchType])
+			// 		.sort((a, b) => a[benchType] - b[benchType]);
+			//
+			// 	// TODO: It might be best to gather many scores and weight
+			// 	// the associated passmark scores when generating a new one.
+			// 	// Only two GPUs that have a comparable benchmark type are used here.
+			// 	const thisRank = gpu.benchmarks[benchType];
+			// 	for (let i = 0; i < interpolationArray.length - 1; i++) {
+			//
+			// 		const curr = interpolationArray[i];
+			// 		const next = interpolationArray[i + 1];
+			//
+			// 		const currbt = curr[benchType];
+			// 		const nextbt = next[benchType];
+			//
+			// 		// iterate up until we find scores that are strictly higher than our score
+			// 		if (thisRank < currbt) continue;
+			//
+			// 		const currp = curr.passmark;
+			// 		const nextp = next.passmark;
+			//
+			// 		// find how far between this and the next score this value is
+			// 		const ratio = (thisRank - currbt) / (nextbt - currbt);
+			//
+			// 		// if the passmark scores are in order (currp is less than nextp),
+			// 		// then interpolate as expect. Otherwise reverse the interpolation.
+			// 		// TODO: this is redundant...
+			// 		if (currp < nextp) {
+			// 			score = currp + (nextp - currp) * ratio;
+			// 		} else {
+			// 			score = nextp + (currp - nextp) * (1 - ratio);
+			// 		}
+			//
+			// 	}
+			//
+			// 	// if we can't generate a score then see if we're
+			// 	// larger or smaller than all elements in the array
+			// 	// and use a score from the extreme values
+			// 	if (score === null && interpolationArray.length !== 0) {
+			//
+			// 		if (thisRank < interpolationArray[0][benchType]) {
+			//
+			// 			score = interpolationArray[0].passmark;
+			//
+			// 		} else {
+			//
+			// 			score = interpolationArray[interpolationArray.length - 1].passmark;
+			//
+			// 		}
+			//
+			// 	}
+			//
+			// }
 
 		}
 
@@ -307,6 +307,18 @@ for (const name in NC.data) {
 console.log('Generating normalized performance score...');
 generatePerformanceScore(result);
 Object.values(result).forEach(gpu => delete gpu.benchmarks);
+
+console.log('Stripping data...');
+for (let key in result) {
+	if (result.hasOwnProperty(key)) {
+		const originalData = result[key];
+		result[key] = {
+			name: originalData.name,
+			names: originalData.names,
+			performance: originalData.performance
+		}
+	}
+}
 
 console.log('Writing file...');
 const jsonStr = JSON.stringify(result, null, 4);
