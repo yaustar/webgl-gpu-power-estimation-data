@@ -10107,6 +10107,10 @@
         "name": "AMD Radeon Pro wx3200",
         "performance": 2495
     },
+    "Intel HD Graphics 400": {
+        "name": "Intel HD Graphics 400",
+        "performance": 197
+    },
     "Apple M3": {
         "name": "Apple M3",
         "performance": 13510

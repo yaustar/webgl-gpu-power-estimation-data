@@ -83,6 +83,8 @@ addSimilarCardEntry('AMD Radeon Polaris', 'GeForce GTX 1050');
 addSimilarCardEntry('AMD Radeon Pro 555x', 'AMD Radeon RX 550');
 addSimilarCardEntry('AMD Radeon Pro wx3200', 'NVIDIA GeForce GT 1030');
 
+addSimilarCardEntry('Intel HD Graphics 400', 'Quadro FX 1500');
+
 // These don't exist yet, so we are just guessing to save some future proofing
 addSimilarCardEntry('Apple M3', 'NVIDIA GeForce GTX 1070');
 addSimilarCardEntry('Apple M3 Pro', 'NVIDIA GeForce GTX 1080');
