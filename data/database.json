@@ -505,7 +505,7 @@
     },
     "FirePro W4100": {
         "name": "FirePro W4100",
-        "performance": 1547
+        "performance": 1551
     },
     "FirePro W4170M": {
         "name": "FirePro W4170M",
@@ -1021,7 +1021,7 @@
     },
     "GeForce 840M": {
         "name": "GeForce 840M",
-        "performance": 1077
+        "performance": 1078
     },
     "GeForce 845M": {
         "name": "GeForce 845M",
@@ -1165,7 +1165,7 @@
     },
     "GeForce 930MX": {
         "name": "GeForce 930MX",
-        "performance": 1300
+        "performance": 1301
     },
     "GeForce 9400": {
         "name": "GeForce 9400",
@@ -1617,7 +1617,7 @@
     },
     "GeForce GT 420": {
         "name": "GeForce GT 420",
-        "performance": 419
+        "performance": 420
     },
     "GeForce GT 420M": {
         "name": "GeForce GT 420M",
@@ -1737,11 +1737,11 @@
     },
     "GeForce GT 645M": {
         "name": "GeForce GT 645M",
-        "performance": 918
+        "performance": 919
     },
     "GeForce GT 650M": {
         "name": "GeForce GT 650M",
-        "performance": 1208
+        "performance": 1209
     },
     "GeForce GT 705": {
         "name": "GeForce GT 705",
@@ -1785,7 +1785,7 @@
     },
     "GeForce GT 740": {
         "name": "GeForce GT 740",
-        "performance": 1539
+        "performance": 1516
     },
     "GeForce GT 740A": {
         "name": "GeForce GT 740A",
@@ -1845,11 +1845,11 @@
     },
     "GeForce GTS 360M": {
         "name": "GeForce GTS 360M",
-        "performance": 666
+        "performance": 667
     },
     "GeForce GTS 450": {
         "name": "GeForce GTS 450",
-        "performance": 1333
+        "performance": 1334
     },
     "GeForce GTX 1050": {
         "name": "GeForce GTX 1050",
@@ -1873,7 +1873,7 @@
     },
     "GeForce GTX 1050 Ti with Max-Q Design": {
         "name": "GeForce GTX 1050 Ti with Max-Q Design",
-        "performance": 5396
+        "performance": 5393
     },
     "GeForce GTX 1050 with Max-Q Design": {
         "name": "GeForce GTX 1050 with Max-Q Design",
@@ -1889,7 +1889,7 @@
     },
     "GeForce GTX 1060 3GB": {
         "name": "GeForce GTX 1060 3GB",
-        "performance": 9744
+        "performance": 9745
     },
     "GeForce GTX 1060 5GB": {
         "name": "GeForce GTX 1060 5GB",
@@ -1897,7 +1897,7 @@
     },
     "GeForce GTX 1060 with Max-Q Design": {
         "name": "GeForce GTX 1060 with Max-Q Design",
-        "performance": 7943
+        "performance": 7942
     },
     "GeForce GTX 1070": {
         "name": "GeForce GTX 1070",
@@ -1917,11 +1917,11 @@
     },
     "GeForce GTX 1080": {
         "name": "GeForce GTX 1080",
-        "performance": 15481
+        "performance": 15482
     },
     "GeForce GTX 1080 Ti": {
         "name": "GeForce GTX 1080 Ti",
-        "performance": 18511
+        "performance": 18512
     },
     "GeForce GTX 1080 with Max-Q Design": {
         "name": "GeForce GTX 1080 with Max-Q Design",
@@ -1933,7 +1933,7 @@
     },
     "GeForce GTX 1650": {
         "name": "GeForce GTX 1650",
-        "performance": 7853
+        "performance": 7854
     },
     "GeForce GTX 1650 (Mobile)": {
         "name": "GeForce GTX 1650 (Mobile)",
@@ -1961,15 +1961,15 @@
     },
     "GeForce GTX 1660 SUPER": {
         "name": "GeForce GTX 1660 SUPER",
-        "performance": 12806
+        "performance": 12805
     },
     "GeForce GTX 1660 Ti": {
         "name": "GeForce GTX 1660 Ti",
-        "performance": 12953
+        "performance": 12951
     },
     "GeForce GTX 1660 Ti (Mobile)": {
         "name": "GeForce GTX 1660 Ti (Mobile)",
-        "performance": 10180
+        "performance": 10181
     },
     "GeForce GTX 1660 Ti with Max-Q Design": {
         "name": "GeForce GTX 1660 Ti with Max-Q Design",
@@ -2125,7 +2125,7 @@
     },
     "GeForce GTX 670M": {
         "name": "GeForce GTX 670M",
-        "performance": 1731
+        "performance": 1736
     },
     "GeForce GTX 670MX": {
         "name": "GeForce GTX 670MX",
@@ -2173,7 +2173,7 @@
     },
     "GeForce GTX 760": {
         "name": "GeForce GTX 760",
-        "performance": 4776
+        "performance": 4777
     },
     "GeForce GTX 760 Ti": {
         "name": "GeForce GTX 760 Ti",
@@ -2237,7 +2237,7 @@
     },
     "GeForce GTX 870M": {
         "name": "GeForce GTX 870M",
-        "performance": 3455
+        "performance": 3458
     },
     "GeForce GTX 880M": {
         "name": "GeForce GTX 880M",
@@ -2257,7 +2257,7 @@
     },
     "GeForce GTX 960": {
         "name": "GeForce GTX 960",
-        "performance": 6027
+        "performance": 6028
     },
     "GeForce GTX 960A": {
         "name": "GeForce GTX 960A",
@@ -2325,7 +2325,7 @@
     },
     "GeForce MX230": {
         "name": "GeForce MX230",
-        "performance": 1835
+        "performance": 1833
     },
     "GeForce MX250": {
         "name": "GeForce MX250",
@@ -2333,7 +2333,7 @@
     },
     "GeForce MX330": {
         "name": "GeForce MX330",
-        "performance": 2489
+        "performance": 2488
     },
     "GeForce MX350": {
         "name": "GeForce MX350",
@@ -2369,11 +2369,11 @@
     },
     "GeForce RTX 2050": {
         "name": "GeForce RTX 2050",
-        "performance": 6951
+        "performance": 6891
     },
     "GeForce RTX 2060": {
         "name": "GeForce RTX 2060",
-        "performance": 14101
+        "performance": 14102
     },
     "GeForce RTX 2060 (Mobile)": {
         "name": "GeForce RTX 2060 (Mobile)",
@@ -2401,7 +2401,7 @@
     },
     "GeForce RTX 2070 SUPER": {
         "name": "GeForce RTX 2070 SUPER",
-        "performance": 18262
+        "performance": 18261
     },
     "GeForce RTX 2070 Super with Max-Q Design": {
         "name": "GeForce RTX 2070 Super with Max-Q Design",
@@ -2413,7 +2413,7 @@
     },
     "GeForce RTX 2080": {
         "name": "GeForce RTX 2080",
-        "performance": 18815
+        "performance": 18816
     },
     "GeForce RTX 2080 (Mobile)": {
         "name": "GeForce RTX 2080 (Mobile)",
@@ -2425,7 +2425,7 @@
     },
     "GeForce RTX 2080 Super with Max-Q Design": {
         "name": "GeForce RTX 2080 Super with Max-Q Design",
-        "performance": 13775
+        "performance": 13785
     },
     "GeForce RTX 2080 Ti": {
         "name": "GeForce RTX 2080 Ti",
@@ -2437,7 +2437,7 @@
     },
     "GeForce RTX 3050": {
         "name": "GeForce RTX 3050",
-        "performance": 13005
+        "performance": 13006
     },
     "GeForce RTX 3050 4GB Laptop GPU": {
         "name": "GeForce RTX 3050 4GB Laptop GPU",
@@ -2449,15 +2449,15 @@
     },
     "GeForce RTX 3050 Laptop GPU": {
         "name": "GeForce RTX 3050 Laptop GPU",
-        "performance": 9363
+        "performance": 9364
     },
     "GeForce RTX 3050 OEM": {
         "name": "GeForce RTX 3050 OEM",
-        "performance": 11987
+        "performance": 11999
     },
     "GeForce RTX 3050 Ti Laptop GPU": {
         "name": "GeForce RTX 3050 Ti Laptop GPU",
-        "performance": 10138
+        "performance": 10137
     },
     "GeForce RTX 3060": {
         "name": "GeForce RTX 3060",
@@ -2473,7 +2473,7 @@
     },
     "GeForce RTX 3070": {
         "name": "GeForce RTX 3070",
-        "performance": 22505
+        "performance": 22506
     },
     "GeForce RTX 3070 Laptop GPU": {
         "name": "GeForce RTX 3070 Laptop GPU",
@@ -2481,19 +2481,19 @@
     },
     "GeForce RTX 3070 Ti": {
         "name": "GeForce RTX 3070 Ti",
-        "performance": 23829
+        "performance": 23828
     },
     "GeForce RTX 3070 Ti Laptop GPU": {
         "name": "GeForce RTX 3070 Ti Laptop GPU",
-        "performance": 18467
+        "performance": 18461
     },
     "GeForce RTX 3080": {
         "name": "GeForce RTX 3080",
-        "performance": 25418
+        "performance": 25417
     },
     "GeForce RTX 3080 12GB": {
         "name": "GeForce RTX 3080 12GB",
-        "performance": 26871
+        "performance": 26874
     },
     "GeForce RTX 3080 Laptop GPU": {
         "name": "GeForce RTX 3080 Laptop GPU",
@@ -2501,11 +2501,11 @@
     },
     "GeForce RTX 3080 Ti": {
         "name": "GeForce RTX 3080 Ti",
-        "performance": 27430
+        "performance": 27429
     },
     "GeForce RTX 3080 Ti Laptop GPU": {
         "name": "GeForce RTX 3080 Ti Laptop GPU",
-        "performance": 20452
+        "performance": 20449
     },
     "GeForce RTX 3090": {
         "name": "GeForce RTX 3090",
@@ -2513,7 +2513,7 @@
     },
     "GeForce RTX 3090 Ti": {
         "name": "GeForce RTX 3090 Ti",
-        "performance": 29836
+        "performance": 29840
     },
     "GeForce RTX 4050 Laptop GPU": {
         "name": "GeForce RTX 4050 Laptop GPU",
@@ -2521,35 +2521,35 @@
     },
     "GeForce RTX 4060 Laptop GPU": {
         "name": "GeForce RTX 4060 Laptop GPU",
-        "performance": 18641
+        "performance": 18622
     },
     "GeForce RTX 4060 Ti": {
         "name": "GeForce RTX 4060 Ti",
-        "performance": 22362
+        "performance": 22528
     },
     "GeForce RTX 4070": {
         "name": "GeForce RTX 4070",
-        "performance": 27010
+        "performance": 26988
     },
     "GeForce RTX 4070 Laptop GPU": {
         "name": "GeForce RTX 4070 Laptop GPU",
-        "performance": 19768
+        "performance": 19766
     },
     "GeForce RTX 4070 Ti": {
         "name": "GeForce RTX 4070 Ti",
-        "performance": 31710
+        "performance": 31689
     },
     "GeForce RTX 4080": {
         "name": "GeForce RTX 4080",
-        "performance": 35175
+        "performance": 35172
     },
     "GeForce RTX 4080 Laptop GPU": {
         "name": "GeForce RTX 4080 Laptop GPU",
-        "performance": 26846
+        "performance": 26847
     },
     "GeForce RTX 4090": {
         "name": "GeForce RTX 4090",
-        "performance": 39169
+        "performance": 39164
     },
     "GeForce RTX 4090 Laptop GPU": {
         "name": "GeForce RTX 4090 Laptop GPU",
@@ -3057,7 +3057,7 @@
     },
     "Intel Arc A770": {
         "name": "Intel Arc A770",
-        "performance": 8671
+        "performance": 8665
     },
     "Intel Arc A770M": {
         "name": "Intel Arc A770M",
@@ -3309,7 +3309,7 @@
     },
     "Intel Iris Pro P580": {
         "name": "Intel Iris Pro P580",
-        "performance": 2169
+        "performance": 2231
     },
     "Intel Iris Pro P6300": {
         "name": "Intel Iris Pro P6300",
@@ -3373,7 +3373,7 @@
     },
     "Intel Q965/Q963 Express": {
         "name": "Intel Q965/Q963 Express",
-        "performance": 223
+        "performance": 216
     },
     "Intel Skylake HD DT GT2": {
         "name": "Intel Skylake HD DT GT2",
@@ -4189,7 +4189,7 @@
     },
     "Quadro 2000": {
         "name": "Quadro 2000",
-        "performance": 942
+        "performance": 943
     },
     "Quadro 2000 D": {
         "name": "Quadro 2000 D",
@@ -4405,7 +4405,7 @@
     },
     "Quadro FX 3800M": {
         "name": "Quadro FX 3800M",
-        "performance": 615
+        "performance": 604
     },
     "Quadro FX 380M": {
         "name": "Quadro FX 380M",
@@ -4497,7 +4497,7 @@
     },
     "Quadro GV100": {
         "name": "Quadro GV100",
-        "performance": 20467
+        "performance": 20600
     },
     "Quadro K1000M": {
         "name": "Quadro K1000M",
@@ -4509,7 +4509,7 @@
     },
     "Quadro K1200": {
         "name": "Quadro K1200",
-        "performance": 2875
+        "performance": 2878
     },
     "Quadro K2000": {
         "name": "Quadro K2000",
@@ -4561,7 +4561,7 @@
     },
     "Quadro K4200": {
         "name": "Quadro K4200",
-        "performance": 4319
+        "performance": 4316
     },
     "Quadro K5000": {
         "name": "Quadro K5000",
@@ -4661,7 +4661,7 @@
     },
     "Quadro M6000": {
         "name": "Quadro M6000",
-        "performance": 11790
+        "performance": 11824
     },
     "Quadro M6000 24GB": {
         "name": "Quadro M6000 24GB",
@@ -4765,7 +4765,7 @@
     },
     "Quadro P2000": {
         "name": "Quadro P2000",
-        "performance": 7007
+        "performance": 7006
     },
     "Quadro P2000 with Max-Q Design": {
         "name": "Quadro P2000 with Max-Q Design",
@@ -4793,7 +4793,7 @@
     },
     "Quadro P4000": {
         "name": "Quadro P4000",
-        "performance": 11539
+        "performance": 11541
     },
     "Quadro P4000 with Max-Q Design": {
         "name": "Quadro P4000 with Max-Q Design",
@@ -4841,7 +4841,7 @@
     },
     "Quadro RTX 3000": {
         "name": "Quadro RTX 3000",
-        "performance": 11060
+        "performance": 11067
     },
     "Quadro RTX 3000 with Max-Q Design": {
         "name": "Quadro RTX 3000 with Max-Q Design",
@@ -4857,7 +4857,7 @@
     },
     "Quadro RTX 4000 with Max-Q Design": {
         "name": "Quadro RTX 4000 with Max-Q Design",
-        "performance": 12707
+        "performance": 12620
     },
     "Quadro RTX 5000": {
         "name": "Quadro RTX 5000",
@@ -4893,7 +4893,7 @@
     },
     "Quadro T2000 with Max-Q Design": {
         "name": "Quadro T2000 with Max-Q Design",
-        "performance": 6867
+        "performance": 6877
     },
     "Quadro2 MXR/EX": {
         "name": "Quadro2 MXR/EX",
@@ -5049,7 +5049,7 @@
     },
     "Radeon 780M": {
         "name": "Radeon 780M",
-        "performance": 7237
+        "performance": 7250
     },
     "RADEON 8500 Family": {
         "name": "RADEON 8500 Family",
@@ -5421,7 +5421,7 @@
     },
     "Radeon HD 5670": {
         "name": "Radeon HD 5670",
-        "performance": 791
+        "performance": 792
     },
     "Radeon HD 5750": {
         "name": "Radeon HD 5750",
@@ -5433,7 +5433,7 @@
     },
     "Radeon HD 5830": {
         "name": "Radeon HD 5830",
-        "performance": 1726
+        "performance": 1728
     },
     "Radeon HD 5850": {
         "name": "Radeon HD 5850",
@@ -5573,7 +5573,7 @@
     },
     "Radeon HD 6650M": {
         "name": "Radeon HD 6650M",
-        "performance": 759
+        "performance": 756
     },
     "Radeon HD 6670": {
         "name": "Radeon HD 6670",
@@ -5605,7 +5605,7 @@
     },
     "Radeon HD 6770": {
         "name": "Radeon HD 6770",
-        "performance": 1240
+        "performance": 1241
     },
     "Radeon HD 6770M": {
         "name": "Radeon HD 6770M",
@@ -7613,7 +7613,7 @@
     },
     "Radeon R7 260X": {
         "name": "Radeon R7 260X",
-        "performance": 3152
+        "performance": 3153
     },
     "Radeon R7 340": {
         "name": "Radeon R7 340",
@@ -8053,7 +8053,7 @@
     },
     "Radeon R9 Fury X": {
         "name": "Radeon R9 Fury X",
-        "performance": 10062
+        "performance": 10041
     },
     "Radeon R9 M265X": {
         "name": "Radeon R9 M265X",
@@ -8201,7 +8201,7 @@
     },
     "Radeon RX 5600 XT": {
         "name": "Radeon RX 5600 XT",
-        "performance": 13818
+        "performance": 13817
     },
     "Radeon RX 5600M": {
         "name": "Radeon RX 5600M",
@@ -8229,11 +8229,11 @@
     },
     "Radeon RX 580": {
         "name": "Radeon RX 580",
-        "performance": 8916
+        "performance": 8915
     },
     "Radeon RX 580 2048SP": {
         "name": "Radeon RX 580 2048SP",
-        "performance": 7768
+        "performance": 7767
     },
     "Radeon RX 580X": {
         "name": "Radeon RX 580X",
@@ -8249,7 +8249,7 @@
     },
     "Radeon RX 6400": {
         "name": "Radeon RX 6400",
-        "performance": 7515
+        "performance": 7503
     },
     "Radeon RX 6500": {
         "name": "Radeon RX 6500",
@@ -8265,7 +8265,7 @@
     },
     "Radeon RX 6600": {
         "name": "Radeon RX 6600",
-        "performance": 15159
+        "performance": 15162
     },
     "Radeon RX 6600 XT": {
         "name": "Radeon RX 6600 XT",
@@ -8273,7 +8273,7 @@
     },
     "Radeon RX 6600M": {
         "name": "Radeon RX 6600M",
-        "performance": 13646
+        "performance": 13647
     },
     "Radeon RX 6600S": {
         "name": "Radeon RX 6600S",
@@ -8281,7 +8281,7 @@
     },
     "Radeon RX 6650 XT": {
         "name": "Radeon RX 6650 XT",
-        "performance": 17686
+        "performance": 17690
     },
     "Radeon RX 6650M": {
         "name": "Radeon RX 6650M",
@@ -8289,7 +8289,7 @@
     },
     "Radeon RX 6700": {
         "name": "Radeon RX 6700",
-        "performance": 19168
+        "performance": 19176
     },
     "Radeon RX 6700 XT": {
         "name": "Radeon RX 6700 XT",
@@ -8301,15 +8301,15 @@
     },
     "Radeon RX 6700S": {
         "name": "Radeon RX 6700S",
-        "performance": 14663
+        "performance": 14675
     },
     "Radeon RX 6750 XT": {
         "name": "Radeon RX 6750 XT",
-        "performance": 21336
+        "performance": 21326
     },
     "Radeon RX 6800": {
         "name": "Radeon RX 6800",
-        "performance": 22524
+        "performance": 22526
     },
     "Radeon RX 6800 XT": {
         "name": "Radeon RX 6800 XT",
@@ -8333,15 +8333,15 @@
     },
     "Radeon RX 6900 XT": {
         "name": "Radeon RX 6900 XT",
-        "performance": 27007
+        "performance": 27010
     },
     "Radeon RX 6950 XT": {
         "name": "Radeon RX 6950 XT",
-        "performance": 28899
+        "performance": 28886
     },
     "Radeon RX 7600": {
         "name": "Radeon RX 7600",
-        "performance": 16378
+        "performance": 16536
     },
     "Radeon RX 7600M XT": {
         "name": "Radeon RX 7600M XT",
@@ -8353,19 +8353,19 @@
     },
     "Radeon RX 7900 XT": {
         "name": "Radeon RX 7900 XT",
-        "performance": 29218
+        "performance": 29230
     },
     "Radeon RX 7900 XTX": {
         "name": "Radeon RX 7900 XTX",
-        "performance": 31719
+        "performance": 31720
     },
     "Radeon RX Vega 10": {
         "name": "Radeon RX Vega 10",
-        "performance": 1651
+        "performance": 1652
     },
     "Radeon RX Vega 10 Ryzen 7 3700U": {
         "name": "Radeon RX Vega 10 Ryzen 7 3700U",
-        "performance": 1493
+        "performance": 1480
     },
     "Radeon RX Vega 10 Ryzen 7 3750H": {
         "name": "Radeon RX Vega 10 Ryzen 7 3750H",
@@ -8405,7 +8405,7 @@
     },
     "Radeon RX Vega 56": {
         "name": "Radeon RX Vega 56",
-        "performance": 13504
+        "performance": 13501
     },
     "Radeon RX Vega 6": {
         "name": "Radeon RX Vega 6",
@@ -8413,7 +8413,7 @@
     },
     "Radeon RX Vega 64": {
         "name": "Radeon RX Vega 64",
-        "performance": 14607
+        "performance": 14602
     },
     "Radeon RX Vega 8": {
         "name": "Radeon RX Vega 8",
@@ -8425,7 +8425,7 @@
     },
     "Radeon RX Vega M GL": {
         "name": "Radeon RX Vega M GL",
-        "performance": 3562
+        "performance": 3566
     },
     "Radeon RX Vega11": {
         "name": "Radeon RX Vega11",
@@ -8501,7 +8501,7 @@
     },
     "Radeon Ryzen 5 5625U": {
         "name": "Radeon Ryzen 5 5625U",
-        "performance": 2148
+        "performance": 2149
     },
     "Radeon Ryzen 5 6600H": {
         "name": "Radeon Ryzen 5 6600H",
@@ -8517,7 +8517,7 @@
     },
     "Radeon Ryzen 5 7530U": {
         "name": "Radeon Ryzen 5 7530U",
-        "performance": 2279
+        "performance": 2282
     },
     "Radeon Ryzen 5 7535HS": {
         "name": "Radeon Ryzen 5 7535HS",
@@ -8529,7 +8529,7 @@
     },
     "Radeon Ryzen 5 7600 6-Core": {
         "name": "Radeon Ryzen 5 7600 6-Core",
-        "performance": 2294
+        "performance": 2280
     },
     "Radeon Ryzen 5 7600X 6-Core": {
         "name": "Radeon Ryzen 5 7600X 6-Core",
@@ -8617,7 +8617,7 @@
     },
     "Radeon Ryzen 7 5825U": {
         "name": "Radeon Ryzen 7 5825U",
-        "performance": 2336
+        "performance": 2333
     },
     "Radeon Ryzen 7 6800H": {
         "name": "Radeon Ryzen 7 6800H",
@@ -8645,7 +8645,7 @@
     },
     "Radeon Ryzen 7 7730U": {
         "name": "Radeon Ryzen 7 7730U",
-        "performance": 2438
+        "performance": 2440
     },
     "Radeon Ryzen 7 7735H": {
         "name": "Radeon Ryzen 7 7735H",
@@ -8681,7 +8681,7 @@
     },
     "Radeon Ryzen 7 PRO 4750U": {
         "name": "Radeon Ryzen 7 PRO 4750U",
-        "performance": 2042
+        "performance": 2039
     },
     "Radeon Ryzen 7 PRO 5875U": {
         "name": "Radeon Ryzen 7 PRO 5875U",
@@ -8737,7 +8737,7 @@
     },
     "Radeon Ryzen 9 6900HX": {
         "name": "Radeon Ryzen 9 6900HX",
-        "performance": 5203
+        "performance": 5208
     },
     "Radeon Ryzen 9 7900 12-Core": {
         "name": "Radeon Ryzen 9 7900 12-Core",
@@ -8825,7 +8825,7 @@
     },
     "Radeon Vega 3": {
         "name": "Radeon Vega 3",
-        "performance": 887
+        "performance": 888
     },
     "Radeon Vega 3 3020e": {
         "name": "Radeon Vega 3 3020e",
@@ -8865,7 +8865,7 @@
     },
     "Radeon Vega 3 Mobile": {
         "name": "Radeon Vega 3 Mobile",
-        "performance": 1018
+        "performance": 1025
     },
     "Radeon Vega 3 Ryzen 3 3200U": {
         "name": "Radeon Vega 3 Ryzen 3 3200U",
@@ -8909,7 +8909,7 @@
     },
     "Radeon Vega 8 Ryzen 3 3200G": {
         "name": "Radeon Vega 8 Ryzen 3 3200G",
-        "performance": 2039
+        "performance": 2031
     },
     "Radeon Vega 8 Ryzen 3 3200GE": {
         "name": "Radeon Vega 8 Ryzen 3 3200GE",
@@ -9229,7 +9229,7 @@
     },
     "RTX 3500 Ada Generation Laptop GPU": {
         "name": "RTX 3500 Ada Generation Laptop GPU",
-        "performance": 19221
+        "performance": 19704
     },
     "RTX 4000 Ada Generation Laptop GPU": {
         "name": "RTX 4000 Ada Generation Laptop GPU",
@@ -9257,19 +9257,19 @@
     },
     "RTX A1000 Laptop GPU": {
         "name": "RTX A1000 Laptop GPU",
-        "performance": 9529
+        "performance": 9533
     },
     "RTX A2000": {
         "name": "RTX A2000",
-        "performance": 13732
+        "performance": 13731
     },
     "RTX A2000 12GB": {
         "name": "RTX A2000 12GB",
-        "performance": 14043
+        "performance": 14041
     },
     "RTX A2000 8GB Laptop GPU": {
         "name": "RTX A2000 8GB Laptop GPU",
-        "performance": 10946
+        "performance": 10949
     },
     "RTX A2000 Laptop GPU": {
         "name": "RTX A2000 Laptop GPU",
@@ -9281,15 +9281,15 @@
     },
     "RTX A3000 Laptop GPU": {
         "name": "RTX A3000 Laptop GPU",
-        "performance": 12517
+        "performance": 12533
     },
     "RTX A4000": {
         "name": "RTX A4000",
-        "performance": 19233
+        "performance": 19230
     },
     "RTX A4000 Laptop GPU": {
         "name": "RTX A4000 Laptop GPU",
-        "performance": 15668
+        "performance": 15648
     },
     "RTX A4500": {
         "name": "RTX A4500",
@@ -9297,7 +9297,7 @@
     },
     "RTX A4500 Laptop GPU": {
         "name": "RTX A4500 Laptop GPU",
-        "performance": 17598
+        "performance": 17527
     },
     "RTX A500 Laptop GPU": {
         "name": "RTX A500 Laptop GPU",
@@ -9477,7 +9477,7 @@
     },
     "Ryzen 5 PRO 4650U with Radeon Graphics": {
         "name": "Ryzen 5 PRO 4650U with Radeon Graphics",
-        "performance": 1709
+        "performance": 1711
     },
     "Ryzen 5 PRO 5650G with Radeon Graphics": {
         "name": "Ryzen 5 PRO 5650G with Radeon Graphics",
@@ -9761,11 +9761,11 @@
     },
     "T400": {
         "name": "T400",
-        "performance": 3624
+        "performance": 3626
     },
     "T400 4GB": {
         "name": "T400 4GB",
-        "performance": 3665
+        "performance": 3668
     },
     "T500": {
         "name": "T500",
@@ -10002,5 +10002,149 @@
     "zxcvIntel HD 620": {
         "name": "zxcvIntel HD 620",
         "performance": 944
+    },
+    "Apple M1": {
+        "name": "Apple M1",
+        "performance": 5393
+    },
+    "Apple M1 Pro": {
+        "name": "Apple M1 Pro",
+        "performance": 8326
+    },
+    "Apple M1 Max": {
+        "name": "Apple M1 Max",
+        "performance": 17690
+    },
+    "Apple M1 Ultra": {
+        "name": "Apple M1 Ultra",
+        "performance": 19574
+    },
+    "Apple M2": {
+        "name": "Apple M2",
+        "performance": 10075
+    },
+    "Apple M2 Pro": {
+        "name": "Apple M2 Pro",
+        "performance": 8915
+    },
+    "Apple M2 Max": {
+        "name": "Apple M2 Max",
+        "performance": 16459
+    },
+    "Apple M2 Ultra": {
+        "name": "Apple M2 Ultra",
+        "performance": 19574
+    },
+    "Apple A7 GPU": {
+        "name": "Apple A7 GPU",
+        "performance": 115
+    },
+    "Apple A8 GPU": {
+        "name": "Apple A8 GPU",
+        "performance": 160
+    },
+    "Apple A8X GPU": {
+        "name": "Apple A8X GPU",
+        "performance": 224
+    },
+    "Apple A9 GPU": {
+        "name": "Apple A9 GPU",
+        "performance": 805
+    },
+    "Apple A9X GPU": {
+        "name": "Apple A9X GPU",
+        "performance": 1599
+    },
+    "Apple A10 GPU": {
+        "name": "Apple A10 GPU",
+        "performance": 1206
+    },
+    "Apple A10X GPU": {
+        "name": "Apple A10X GPU",
+        "performance": 2426
+    },
+    "Apple A11 GPU": {
+        "name": "Apple A11 GPU",
+        "performance": 1517
+    },
+    "Apple A12 GPU": {
+        "name": "Apple A12 GPU",
+        "performance": 2668
+    },
+    "Apple A12X GPU": {
+        "name": "Apple A12X GPU",
+        "performance": 4778
+    },
+    "Apple A12Z GPU": {
+        "name": "Apple A12Z GPU",
+        "performance": 5306
+    },
+    "Apple A13 GPU": {
+        "name": "Apple A13 GPU",
+        "performance": 3915
+    },
+    "Apple A14 GPU": {
+        "name": "Apple A14 GPU",
+        "performance": 4522
+    },
+    "Apple A15 GPU": {
+        "name": "Apple A15 GPU",
+        "performance": 5541
+    },
+    "Apple A16 GPU": {
+        "name": "Apple A16 GPU",
+        "performance": 6407
+    },
+    "AMD Radeon Polaris": {
+        "name": "AMD Radeon Polaris",
+        "performance": 5042
+    },
+    "AMD Radeon Pro 555x": {
+        "name": "AMD Radeon Pro 555x",
+        "performance": 2692
+    },
+    "AMD Radeon Pro wx3200": {
+        "name": "AMD Radeon Pro wx3200",
+        "performance": 2495
+    },
+    "Apple M3": {
+        "name": "Apple M3",
+        "performance": 13510
+    },
+    "Apple M3 Pro": {
+        "name": "Apple M3 Pro",
+        "performance": 15482
+    },
+    "Apple M3 Max": {
+        "name": "Apple M3 Max",
+        "performance": 18816
+    },
+    "Apple M3 Ultra": {
+        "name": "Apple M3 Ultra",
+        "performance": 22506
+    },
+    "Apple M4": {
+        "name": "Apple M4",
+        "performance": 15482
+    },
+    "Apple M4 Pro": {
+        "name": "Apple M4 Pro",
+        "performance": 18816
+    },
+    "Apple M4 Max": {
+        "name": "Apple M4 Max",
+        "performance": 22506
+    },
+    "Apple M4 Ultra": {
+        "name": "Apple M4 Ultra",
+        "performance": 25417
+    },
+    "Apple A17 GPU": {
+        "name": "Apple A17 GPU",
+        "performance": 7207
+    },
+    "Apple A18 GPU": {
+        "name": "Apple A18 GPU",
+        "performance": 8648
     }
 }
