@@ -50,6 +50,18 @@ function addIosCardEntry (name, iosGeekBenchScore) {
 	addEntry(name, Math.round(iosGeekBenchScore * (M1_PASSMARK_SCORE / M1_GEEK_BENCH_SCORE)));
 }
 
+// Add missing entries that are common with our userbase
+addSimilarCardEntry('Intel HD Graphics 400', 'Quadro FX 1500');
+addSimilarCardEntry('Apple GPU (Apple GPU)', 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design');
+addSimilarCardEntry('Radeon R9 200', 'Radeon R9 255');
+addSimilarCardEntry('Intel Radeong 0.4 on AMD Cape Verde', 'Radeon HD 7770');
+addSimilarCardEntry('Radeon Pro 575', 'NVIDIA GeForce GTX 1050 Ti with Max-Q Design');
+addSimilarCardEntry('AMD Renoir', 'Ryzen 5 PRO 4400GE with Radeon Graphics');
+addSimilarCardEntry('Radeon R9 M390', 'Radeon R9 M390X');
+addSimilarCardEntry('AMD FirePro D300', 'Radeon HD 6970');
+addSimilarCardEntry('AMD FirePro D500', 'Radeon HD 7850');
+addSimilarCardEntry('AMD FirePro D700', 'GeForce GTX 960');
+
 // Add Apple videocard data based on the PC card closest to it on the Geekbench OpenCL and iOS data
 // https://browser.geekbench.com/opencl-benchmarks
 // https://browser.geekbench.com/ios-benchmarks
@@ -82,8 +94,6 @@ addIosCardEntry('Apple A16 GPU', 22226);
 addSimilarCardEntry('AMD Radeon Polaris', 'GeForce GTX 1050');
 addSimilarCardEntry('AMD Radeon Pro 555x', 'AMD Radeon RX 550');
 addSimilarCardEntry('AMD Radeon Pro wx3200', 'NVIDIA GeForce GT 1030');
-
-addSimilarCardEntry('Intel HD Graphics 400', 'Quadro FX 1500');
 
 // These don't exist yet, so we are just guessing to save some future proofing
 addSimilarCardEntry('Apple M3', 'NVIDIA GeForce GTX 1070');

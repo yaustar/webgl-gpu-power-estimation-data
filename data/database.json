@@ -10003,6 +10003,46 @@
         "name": "zxcvIntel HD 620",
         "performance": 944
     },
+    "Intel HD Graphics 400": {
+        "name": "Intel HD Graphics 400",
+        "performance": 197
+    },
+    "Apple GPU (Apple GPU)": {
+        "name": "Apple GPU (Apple GPU)",
+        "performance": 5393
+    },
+    "Radeon R9 200": {
+        "name": "Radeon R9 200",
+        "performance": 1457
+    },
+    "Intel Radeong 0.4 on AMD Cape Verde": {
+        "name": "Intel Radeong 0.4 on AMD Cape Verde",
+        "performance": 2170
+    },
+    "Radeon Pro 575": {
+        "name": "Radeon Pro 575",
+        "performance": 5393
+    },
+    "AMD Renoir": {
+        "name": "AMD Renoir",
+        "performance": 1442
+    },
+    "Radeon R9 M390": {
+        "name": "Radeon R9 M390",
+        "performance": 3346
+    },
+    "AMD FirePro D300": {
+        "name": "AMD FirePro D300",
+        "performance": 2824
+    },
+    "AMD FirePro D500": {
+        "name": "AMD FirePro D500",
+        "performance": 3843
+    },
+    "AMD FirePro D700": {
+        "name": "AMD FirePro D700",
+        "performance": 6028
+    },
     "Apple M1": {
         "name": "Apple M1",
         "performance": 5393
@@ -10106,10 +10146,6 @@
     "AMD Radeon Pro wx3200": {
         "name": "AMD Radeon Pro wx3200",
         "performance": 2495
-    },
-    "Intel HD Graphics 400": {
-        "name": "Intel HD Graphics 400",
-        "performance": 197
     },
     "Apple M3": {
         "name": "Apple M3",
